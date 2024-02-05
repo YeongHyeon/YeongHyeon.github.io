@@ -22,18 +22,18 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 
 ## Experience
 **Research Engineer** <br/>
-*SK Planet Co., Ltd., Rep. of Korea, _(2019.09 - )_* <br/>
+*SK Planet Co., Ltd., Rep. of Korea* _(2019.09 - )_ <br/>
   - Research and Develop the Anomaly Detection System
   - Publications: 3 SCIE papers, 7 international conference papers
 
 **Research Assistant** <br/>
-*Vision & Signal Processing Lab. Hankuk University of Foreign Studies (HUFS), Rep. of Korea, _(2017.09 - 2019.08)_* <br/>
+*Vision & Signal Processing Lab. Hankuk University of Foreign Studies (HUFS), Rep. of Korea* _(2017.09 - 2019.08)_ <br/>
   - Research on Biosignal Analysis, Medical Image Analysis, and Anomaly Detection
   - Publications: 4 SCIE papers 
   - Patents: 2 registered patents
 
 **Research Engineer** <br/>
-*StoryAnt INC., Rep. of Korea, _(2017.01 - 2017.02)_* <br/> 
+*StoryAnt INC., Rep. of Korea,* _(2017.01 - 2017.02)_ <br/> 
   - Research and Develop the Intelligent Archive
 
 
