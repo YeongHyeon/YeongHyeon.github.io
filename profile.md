@@ -1,7 +1,6 @@
 ---
-layout: default
 title: YeongHyeon Park
-key: page-about
+layout: post
 ---
 
 
