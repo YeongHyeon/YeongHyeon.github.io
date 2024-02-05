@@ -1,6 +1,5 @@
 ---
 title: YeongHyeon Park
-permalink: "/about/"
 layout: post
 ---
 
