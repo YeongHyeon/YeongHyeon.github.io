@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: default
 title: YeongHyeon Park
 key: page-about
 ---
