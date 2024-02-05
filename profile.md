@@ -1,6 +1,6 @@
 ---
 title: YeongHyeon Park
-permalink: "/about/"
+permalink: "/profile/"
 layout: post
 ---
 
