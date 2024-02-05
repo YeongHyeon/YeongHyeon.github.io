@@ -1,6 +1,6 @@
-title: "Blog Title"
+title: "Blog"
 author: "YeongHyeon Park"
-# description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "YeongHyeon 2024, Powered by"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
