@@ -26,6 +26,23 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 *SK Planet Co., Ltd., Rep. of Korea, 2019.09 - 2022.07*
   - Developed anomaly detection systems on various industrial domain.
 
+WORK EXPERIENCE
+SK Planet Co., Ltd. (2019.09 - ongoing)
+
+Research and Develop the Anomaly Detection System
+
+Publications: SCIE: 3, International conference: 5
+
+Vision & Signal Processing Lab. Hankuk University of Foreign Studies (HUFS). (2017.09 - 2019.08)
+
+Research on Biosignal Analysis, Medical Image Analysis, and Anomaly Detection
+
+Publications: SCIE: 4 
+
+StoryAnt INC. (2017.01 - 2017.02)
+
+Research and Develop the Intelligent Archive
+
 ## Skills
 
 - **Programming Languages:** Python, Java, C, MATLAB
@@ -76,9 +93,23 @@ Korean(Native), English(Intermediate)
 </details>
 
 
-## Activities
+## Certifications
+* NVIDIA DLI Certificate - Deep Learning for Industrial Inspection. NVIDIA
+* Big Data Analysis Engineer. KOREA Data Agency
+* NVIDIA DLI Certificate - Applications of AI for Anomaly Detection. NVIDIA
+* Advanced Data Analytics Semi-Professional. KOREA Data Agency
+* COVID19 Data Analysis Using Python. Coursera
+* Deep Learning Specialization. Coursera
+* Graphic Technical Qualification. Korea Productivity Center
 
-- **NVIDIA University Ambassador** <br/>
-- **NVIDIA DLI Instructor** <br/>
-- **Kaggle Notebooks Expert** <br/>
-- **Reviewer on Scientific Reports: [2023.09]** <br/>
+## Patents
+* Several pending status patents exist in environmental and industrial fields.
+* ECG Preprocessing Method and STEMI Detection method. Republic of Korea. 2021
+* A System and Method for Early Diagnosing Dental Caries base on The Deep Learning. Republic of Korea. 2020
+* Apparatus and Method for Anomaly Detection of SMD Assembly Device Operation based on Deeplearnig. Republic of Korea. 2020
+
+## Additional Activities
+* NVIDIA University Ambassador
+* NVIDIA DLI Instructor
+* Kaggle Notebooks Expert 
+* Reviewer on Scientific Reports: [2023.09]
