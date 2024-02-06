@@ -2,12 +2,7 @@
 {% assign tags_list = site_tags | split:',' | sort %}
 
 <article>
-    <h1 class="entry-title">
-        <a>{{ page.title }}</a>
-    </h1>
-    
-    <hr>
-    
+    <header><h1>{{ include.title | default: page.title }}</h1></header>
     <ul class="entry-meta inline-list">
         {% for item in (0..site.tags.size) %}{% unless forloop.last %}
             {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
