@@ -1,6 +1,6 @@
 title: "Blog"
 author: "YeongHyeon Park"
-description: "Home"
+description: ""
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
