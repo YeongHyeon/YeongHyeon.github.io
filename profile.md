@@ -34,7 +34,7 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
   - Patents: 2 registered patents
 
 **Research Engineer** <br/>
-*StoryAnt INC., Rep. of Korea,* _(2017.01 - 2017.02)_ <br/> 
+*StoryAnt INC., Rep. of Korea* _(2017.01 - 2017.02)_ <br/> 
   - Research and Develop the Intelligent Archive
 
 
