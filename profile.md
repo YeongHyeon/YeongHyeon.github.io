@@ -1,9 +1,10 @@
 ---
-title: YeongHyeon Park
+title: About
 permalink: "/about/"
 layout: post
 ---
 
+# YeongHyeon Park
 
 ## Education
 **Ph.D. in** Electrical and Computer Engineering _(2022.02 - )_ <br/>
