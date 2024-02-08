@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: post
 ---
 
-<img src="https://github.com/YeongHyeon/YeongHyeon.github.io/blob/master/images/profile.jpeg?raw=true" width="300"><br/>   
+<img src="https://github.com/YeongHyeon/YeongHyeon.github.io/blob/master/images/profile.jpeg?raw=true" width="250"><br/>   
 
 # YeongHyeon Park
 
