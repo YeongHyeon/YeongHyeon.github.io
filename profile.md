@@ -8,8 +8,8 @@ layout: post
 
 # YeongHyeon Park
 
-[<a href="https://github.com/YeongHyeon">Github</a>]
 [<a href="https://scholar.google.com/citations?user=cZq6j0MAAAAJ&hl=en">Google Scholar</a>]
+[<a href="https://github.com/YeongHyeon">Github</a>]
 
 ## Education
 
