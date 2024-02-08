@@ -4,6 +4,7 @@ permalink: "/about/"
 layout: post
 ---
 
+<img src="./figures/activelearning.png" width="300">   
 # YeongHyeon Park
 
 [<a href="https://github.com/YeongHyeon">Github</a>]
