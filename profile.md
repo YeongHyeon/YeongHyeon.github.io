@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: post
 ---
 
-<img src="./images/profile.png" width="300"><br/>   
+<img src="./images/profile.jpeg" width="300"><br/>   
 
 # YeongHyeon Park
 
