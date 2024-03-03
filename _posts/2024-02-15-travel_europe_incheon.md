@@ -15,7 +15,7 @@ date-string: February 15, 2024
 
 <br>
 <figure>
-	<p>
+	<p align="center">
 		<img src="/images/2024-02_Europe/IMG_6101.jpeg" width="300">
 		<img src="/images/2024-02_Europe/IMG_6111.jpeg" width="300">
 	</p>
@@ -24,7 +24,7 @@ date-string: February 15, 2024
 
 <br>
 <figure>
-	<p>
+	<p align="center">
 		<img src="/images/2024-02_Europe/IMG_6139.jpeg" width="300">
 		<img src="/images/2024-02_Europe/IMG_6152.jpeg" width="300">
 	</p>
