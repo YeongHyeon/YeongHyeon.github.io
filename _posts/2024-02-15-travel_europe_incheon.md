@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: posts
-title: \[Travel to Europe\] Departure from Incheon
+title: (Travel to Europe) Departure from Incheon
 tags: [Travel]
 date-string: February 15, 2024
 ---
