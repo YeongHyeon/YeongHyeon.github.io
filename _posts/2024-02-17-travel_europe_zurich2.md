@@ -26,9 +26,9 @@ date-string: February 17, 2024
 
 <figure>
 	<p>
-		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6381.jpeg" width="300">
-		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6400.jpeg" width="300">
-		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6394.jpeg" width="300">
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6381.jpeg" width="250">
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6400.jpeg" width="250">
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6394.jpeg" width="250">
 	</p>
 	<figcaption>Photos taken on the walking path leading to the museum (left), the museum building (center), and the interior (right). Spending time indoors on a rainy day seemed like a good choice.</figcaption>
 </figure>
@@ -54,5 +54,22 @@ date-string: February 17, 2024
 		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6418.jpeg" width="300">
 	</p>
 	<figcaption>The building was made up of stacked containers, and the inner space was connected by steel stairs. There was a laptop bag caught my eye, but I didn't want to increase my luggage. So I just bought a small pouch with the same pattern.</figcaption>
+</figure>
+<br>
+
+### Swiss National Museum (Landesmuseum)
+
+<figure>
+	<img src="/images/2024-02_Europe/240217_Zurich/IMG_6426.jpeg" width="600">
+	<figcaption>At the Swiss National Museum (Landesmuseum). I think this is the first time in my life that I have visited two museums in one day. Actually, I visited one more museum after this place in a same day.</figcaption>
+</figure>
+<br>
+
+<figure>
+	<p>
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6443.jpeg" width="300">
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6444.png" width="300">
+	</p>
+	<figcaption>One of the most impressive exhibitions in the museum. The country of Switzerland was constructed as a 3D structure, and information about each region was obtained through AR technology. The AR equipment was installed as a fixed telescope-shaped device, and an iPhone with dedicated software installed was also provided.</figcaption>
 </figure>
 <br>
