@@ -3,7 +3,7 @@ layout: post
 categories: posts
 title: (Travel to Europe) Day1 - Zurich, Switzerland
 tags: [Travel]
-date-string: February 15, 2024
+date-string: February 16, 2024
 ---
 
 <figure>
