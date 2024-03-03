@@ -53,6 +53,6 @@ date-string: February 17, 2024
 		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6420.jpeg" width="300">
 		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6418.jpeg" width="300">
 	</p>
-	<figcaption>The building was made up of stacked containers, and the inner space was connected by steel stairs. There was a laptop bag caught my eye, but I didn't want to increase my luggage. So I bought a small pouch with the same pattern.</figcaption>
+	<figcaption>The building was made up of stacked containers, and the inner space was connected by steel stairs. There was a laptop bag caught my eye, but I didn't want to increase my luggage. So I just bought a small pouch with the same pattern.</figcaption>
 </figure>
 <br>
