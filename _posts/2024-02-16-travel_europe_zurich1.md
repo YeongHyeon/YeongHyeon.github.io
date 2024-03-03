@@ -62,3 +62,14 @@ date-string: February 16, 2024
 	<figcaption>The Opernhaus Zurich in front of the lake (left) and the library I came across while taking a walk (right). Both the inside and the outside of these were very beautiful.</figcaption>
 </figure>
 <br>
+
+<figure>
+	<img src="/images/2024-02_Europe/240216_Zurich/IMG_6295.jpeg" width="600">
+	<figcaption>Posters for art museum promotion. I decided to visit the Kunsthaus while I am in Zurich.</figcaption>
+</figure>
+<br>
+
+<figure>
+	<img src="/images/2024-02_Europe/240216_Zurich/IMG_6327.jpeg" width="600">
+	<figcaption>A night view of Zurich from Polyterrace ETH. In the cathedrals (Fraumünster and Grossmünster, the bells ring at 15-minute intervals, but in the evening hours a different bell sound was heard than usual.</figcaption>
+</figure>
