@@ -85,8 +85,8 @@ date-string: February 17, 2024
 
 <figure>
 	<p>
-		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6467.jpeg" width="300">
-		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6459.jpeg" width="300">
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6467.jpeg" width="350">
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6459.jpeg" width="350">
 	</p>
 	<figcaption>The inside of the Kunsthaus (left) and a scene from the video exhibition (right). The video exhibition showed people engaged in 'serious discussion' in the metaverse world.</figcaption>
 </figure>
