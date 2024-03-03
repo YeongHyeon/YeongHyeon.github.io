@@ -22,3 +22,14 @@ date-string: February 17, 2024
 </figure>
 <br>
 
+### Museum Rietberg
+
+<figure>
+	<p>
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6381.jpeg" width="300">
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6400.jpeg" width="300">
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6394.jpeg" width="300">
+	</p>
+	<figcaption>Photos taken on the walking path leading to the museum (left), the museum building (center), and the interior (right). Spending time indoors on a rainy day seemed like a good choice.</figcaption>
+</figure>
+<br>
