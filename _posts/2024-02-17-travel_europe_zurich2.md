@@ -33,3 +33,26 @@ date-string: February 17, 2024
 	<figcaption>Photos taken on the walking path leading to the museum (left), the museum building (center), and the interior (right). Spending time indoors on a rainy day seemed like a good choice.</figcaption>
 </figure>
 <br>
+
+<figure>
+	<img src="/images/2024-02_Europe/240217_Zurich/IMG_6402.jpeg" width="600">
+	<figcaption>I tried using the exit in the opposite direction of the trail. Maybe this was the main gate.</figcaption>
+</figure>
+<br>
+
+### Freitag flagship store
+
+<figure>
+	<img src="/images/2024-02_Europe/240217_Zurich/IMG_6419.jpeg" width="600">
+	<figcaption>Since the rain didn't stop, I decided to go to the Swiss National Museum. On the way, there was a Freitag flagship store, so I took a short look around.</figcaption>
+</figure>
+<br>
+
+<figure>
+	<p>
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6420.jpeg" width="300">
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6418.jpeg" width="300">
+	</p>
+	<figcaption>The building was made up of stacked containers, and the inner space was connected by steel stairs. There was a laptop bag caught my eye, but I didn't want to increase my luggage. So I bought a small pouch with the same pattern.</figcaption>
+</figure>
+<br>
