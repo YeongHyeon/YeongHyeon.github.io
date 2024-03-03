@@ -33,3 +33,13 @@ date-string: February 16, 2024
 	<img src="/images/2024-02_Europe/240216_Zurich/IMG_6248.jpeg" width="600">
 	<figcaption>A part of the castle above the Rhine Falls. Although there is a contrast between the large structure and the small car, it feels quite harmonious.</figcaption>
 </figure>
+
+<br>
+<figure>
+	<p>
+		<img src="/images/2024-02_Europe/240216_Zurich/IMG_6286.jpeg" width="300">
+		<img src="/images/2024-02_Europe/240216_Zurich/IMG_6299.jpeg" width="300">
+	</p>
+	<figcaption>Downtown of Zurich. It was a peaceful feeling, a little different from the busy scenes of the other European cities I had experienced. There are many swans in this place.</figcaption>
+</figure>
+
