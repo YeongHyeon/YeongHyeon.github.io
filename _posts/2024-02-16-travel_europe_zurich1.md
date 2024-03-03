@@ -64,7 +64,7 @@ date-string: February 16, 2024
 <br>
 
 <figure>
-	<img src="/images/2024-02_Europe/240216_Zurich/IMG_6295.jpeg" width="600">
+	<img src="/images/2024-02_Europe/240216_Zurich/IMG_6317.jpeg" width="600">
 	<figcaption>Posters for art museum promotion. I decided to visit the Kunsthaus while I am in Zurich.</figcaption>
 </figure>
 <br>
