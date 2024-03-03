@@ -6,7 +6,7 @@ tags: [Travel]
 date-string: February 18, 2024
 ---
 
-### Jungfraujoch
+### Trip to Jungfraujoch
 <figure>
 	<p>
 		<img src="/images/2024-02_Europe/240218_Jungfraujoch/IMG_6502.jpeg" width="300">
@@ -30,3 +30,14 @@ date-string: February 18, 2024
 	<figcaption>Taking the cable car for the Jungfraujoch. I had to take train additionally, after cable car.</figcaption>
 </figure>
 <br>
+
+<figure>
+	<p>
+		<img src="/images/2024-02_Europe/240218_Jungfraujoch/IMG_6604.jpeg" width="300">
+		<img src="/images/2024-02_Europe/240218_Jungfraujoch/IMG_6612.jpeg" width="300">
+	</p>
+	<figcaption>After passing through the ice cave, I arrived at the top of Jungfraujoch.</figcaption>
+</figure>
+<br>
+
+### Jungfraujoch
