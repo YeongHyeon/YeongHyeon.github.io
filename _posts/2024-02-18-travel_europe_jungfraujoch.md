@@ -64,6 +64,6 @@ date-string: February 18, 2024
 		<img src="/images/2024-02_Europe/240218_Jungfraujoch/IMG_6704.jpeg" width="300">
 		<img src="/images/2024-02_Europe/240218_Jungfraujoch/IMG_6709.jpeg" width="300">
 	</p>
-	<figcaption>By deeply impression from landscape of Jungfraujoch, so I immediately made plans to climb the nearest peak, First. First is located in Grindelwald.</figcaption>
+	<figcaption>By deeply impression from landscape of Jungfraujoch, so I immediately made plans to climb the nearest peak, First. First is located in Grindelwald. The chairs in Grindelwald's restaurant were covered with fur. It looks like soft.</figcaption>
 </figure>
 <br>
