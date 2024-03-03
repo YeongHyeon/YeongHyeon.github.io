@@ -76,3 +76,16 @@ date-string: February 18, 2024
 	<figcaption>The view from First. Unlike Jungfraujoch, where there was only snow and stones, there are trees and grass in this place.</figcaption>
 </figure>
 <br>
+
+### Lausanne
+
+<figure>
+	<img src="/images/2024-02_Europe/240218_Jungfraujoch/IMG_6767.jpeg" width="600">
+	<figcaption>On the way to the next city, Lausanne. Lake Leman (Lac Leman) is visible through the window. The area across Lake Leman is French territory.</figcaption>
+</figure>
+<br>
+
+<figure>
+	<img src="/images/2024-02_Europe/240218_Jungfraujoch/IMG_0199.jpeg" width="600">
+	<figcaption>A map with daily travel route. Although it was a long trip, happy day.</figcaption>
+</figure>
