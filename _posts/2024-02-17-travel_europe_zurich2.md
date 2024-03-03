@@ -67,8 +67,8 @@ date-string: February 17, 2024
 
 <figure>
 	<p>
-		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6443.jpeg" width="300">
-		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6444.png" width="300">
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6443.jpeg" width="390">
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6444.png" width="308">
 	</p>
 	<figcaption>One of the most impressive exhibitions in the museum. The country of Switzerland was constructed as a 3D structure, and information about each region was obtained through AR technology. The AR equipment was installed as a fixed telescope-shaped device, and an iPhone with dedicated software installed was also provided.</figcaption>
 </figure>
