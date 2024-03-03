@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: posts
-title: (Travel to Europe) Departure from Incheon, Korea
+title: (Travel to Europe) Day 0 - Departure from Incheon, Korea
 tags: [Travel]
 date-string: February 15, 2024
 ---
