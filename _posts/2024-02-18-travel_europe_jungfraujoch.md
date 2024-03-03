@@ -70,8 +70,8 @@ date-string: February 18, 2024
 
 <figure>
 	<p>
-		<img src="/images/2024-02_Europe/240218_Jungfraujoch/IMG_6740.jpeg" width="300">
-		<img src="/images/2024-02_Europe/240218_Jungfraujoch/IMG_6741.jpeg" width="200">
+		<img src="/images/2024-02_Europe/240218_Jungfraujoch/IMG_6740.jpeg" width="430">
+		<img src="/images/2024-02_Europe/240218_Jungfraujoch/IMG_6741.jpeg" width="242">
 	</p>
 	<figcaption>The view from First. Unlike Jungfraujoch, where there was only snow and stones, there are trees and grass in this place.</figcaption>
 </figure>
