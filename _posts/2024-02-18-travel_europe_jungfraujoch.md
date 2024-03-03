@@ -6,7 +6,7 @@ tags: [Travel]
 date-string: February 18, 2024
 ---
 
-### Trip to Jungfraujoch
+### Trip to snow mountains
 <figure>
 	<p>
 		<img src="/images/2024-02_Europe/240218_Jungfraujoch/IMG_6502.jpeg" width="300">
