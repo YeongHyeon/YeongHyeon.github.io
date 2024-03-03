@@ -9,7 +9,7 @@ date-string: February 17, 2024
 ### Zurich
 <figure>
 	<img src="/images/2024-02_Europe/240217_Zurich/IMG_6347.jpeg" width="600">
-	<figcaption>Lake walk. Perhaps because of the time difference, I woke up early.</figcaption>
+	<figcaption>Lake walk. Perhaps because of the time difference, I woke up early. It started raining suddenly, so we decided to go to a nearby museum, Museum Rietberg.</figcaption>
 </figure>
 <br>
 
