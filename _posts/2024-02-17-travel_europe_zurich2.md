@@ -50,8 +50,9 @@ date-string: February 17, 2024
 
 <figure>
 	<p>
-		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6420.jpeg" width="300">
-		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6418.jpeg" width="300">
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6420.jpeg" width="250">
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6416.jpeg" width="250">
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6418.jpeg" width="250">
 	</p>
 	<figcaption>The building was made up of stacked containers, and the inner space was connected by steel stairs. There was a laptop bag caught my eye, but I didn't want to increase my luggage. So I just bought a small pouch with the same pattern.</figcaption>
 </figure>
