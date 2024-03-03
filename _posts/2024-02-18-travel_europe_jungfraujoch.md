@@ -21,7 +21,7 @@ date-string: February 18, 2024
 		<img src="/images/2024-02_Europe/240218_Jungfraujoch/IMG_6545.jpeg" width="300">
 		<img src="/images/2024-02_Europe/240218_Jungfraujoch/IMG_6566.jpeg" width="300">
 	</p>
-	<figcaption>Grindelwald stopped for transfer (left) and Eigergletscher to climb Jungfraujoch (right). There were many people with skis.</figcaption>
+	<figcaption>Grindelwald, stopped for transfer (left) and Eigergletscher to climb Jungfraujoch (right). There were many people with skis.</figcaption>
 </figure>
 <br>
 
@@ -43,10 +43,27 @@ date-string: February 18, 2024
 ### Jungfraujoch
 
 <figure>
+	<img src="/images/2024-02_Europe/240218_Jungfraujoch/IMG_6662.jpeg" width="600">
+	<figcaption>Panoramic view of Jungfraujoch. The weather was predicted to be cloudy, but it was clear enough to see the peaks of distant mountains. It was worthy trip from early in the morning.</figcaption>
+</figure>
+<br>
+
+<figure>
 	<p>
 		<img src="/images/2024-02_Europe/240218_Jungfraujoch/IMG_6626.jpeg" width="300">
 		<img src="/images/2024-02_Europe/240218_Jungfraujoch/IMG_6649.jpeg" width="300">
 	</p>
 	<figcaption>Took the photo in a photo spots where people take a lot of photos.</figcaption>
+</figure>
+<br>
+
+### First
+
+<figure>
+	<p>
+		<img src="/images/2024-02_Europe/240218_Jungfraujoch/IMG_6704.jpeg" width="300">
+		<img src="/images/2024-02_Europe/240218_Jungfraujoch/IMG_6709.jpeg" width="300">
+	</p>
+	<figcaption>By deeply impression from landscape of Jungfraujoch, so I immediately made plans to climb the nearest peak, First. First is located in Grindelwald.</figcaption>
 </figure>
 <br>
