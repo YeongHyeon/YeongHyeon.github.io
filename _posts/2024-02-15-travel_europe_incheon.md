@@ -31,6 +31,15 @@ date-string: February 15, 2024
 	<figcaption>Helsinki Airport, Finland. I stay 2 hours for a transfer to Zurich, Switzerland. There was a lot of snow outside, and inside there was Moomin shop, featuring famous Finnish characters.</figcaption>
 </figure>
 
+<br>
+<figure>
+	<p align="center">
+		<img src="/images/2024-02_Europe/IMG_6154.jpeg" width="300">
+		<img src="/images/2024-02_Europe/IMG_6168.jpeg" width="300">
+	</p>
+	<figcaption>Finally arrived in Zurich. This region seems to use German. Trains are marked as 'bahn'.</figcaption>
+</figure>
+
 
 </center>
 
