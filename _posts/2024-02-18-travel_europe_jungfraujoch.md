@@ -24,3 +24,9 @@ date-string: February 18, 2024
 	<figcaption>Grindelwald stopped for transfer (left) and Eigergletscher to climb Jungfraujoch (right). There were many people with skis.</figcaption>
 </figure>
 <br>
+
+<figure>
+	<img src="/images/2024-02_Europe/240217_Zurich/IMG_6575.jpeg" width="600">
+	<figcaption>Taking the cable car for the Jungfraujoch. I had to take train additionally, after cable car.</figcaption>
+</figure>
+<br>
