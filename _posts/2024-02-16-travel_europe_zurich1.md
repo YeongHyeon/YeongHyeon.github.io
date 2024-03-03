@@ -28,3 +28,8 @@ date-string: February 16, 2024
 	</p>
 	<figcaption>At the observatory. This post is right in front of the waterfall, so we can feel the mist on face by get closer to the railing. The speed of water flows is quite scary.</figcaption>
 </figure>
+
+<figure>
+	<img src="/images/2024-02_Europe/240216_Zurich/IMG_6248.jpeg" width="600">
+	<figcaption>A part of the castle above the Rhine Falls. Although there is a contrast between the large structure and the small car, it feels quite harmonious.</figcaption>
+</figure>
