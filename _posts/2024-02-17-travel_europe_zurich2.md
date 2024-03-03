@@ -13,3 +13,12 @@ date-string: February 17, 2024
 </figure>
 <br>
 
+<figure>
+	<p>
+		<img src="/images/2024-02_Europe/240216_Zurich/IMG_6360.jpeg" width="300">
+		<img src="/images/2024-02_Europe/240216_Zurich/IMG_6371.jpeg" width="300">
+	</p>
+	<figcaption>I took the tram to go to the museum. The interior of the tram was like a room. Because I missed the place to get off, so just decided to stop by Starbucks for a warm drink.</figcaption>
+</figure>
+<br>
+
