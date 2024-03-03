@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: posts
-title: (Travel to Europe) Day 3 - Jungfraujoch, Switzerland
+title: (Travel to Europe) Day 3 - Jungfraujoch & First, Switzerland
 tags: [Travel]
 date-string: February 18, 2024
 ---
