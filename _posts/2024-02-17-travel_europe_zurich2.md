@@ -74,3 +74,20 @@ date-string: February 17, 2024
 	<figcaption>One of the most impressive exhibitions in the museum. The country of Switzerland was constructed as a 3D structure, and information about each region was obtained through AR technology. The AR equipment was installed as a fixed telescope-shaped device, and an iPhone with dedicated software installed was also provided.</figcaption>
 </figure>
 <br>
+
+## Kunsthaus Zurich
+
+<figure>
+	<img src="/images/2024-02_Europe/240217_Zurich/IMG_6457.jpeg" width="600">
+	<figcaption>Kunsthaus, the last museum I visited this day. There were the modern art pieces in most.</figcaption>
+</figure>
+<br>
+
+<figure>
+	<p>
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6467.jpeg" width="300">
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6459.jpeg" width="300">
+	</p>
+	<figcaption>The inside of the Kunsthaus (left) and a scene from the video exhibition (right). The video exhibition showed people engaged in 'serious discussion' in the metaverse world.</figcaption>
+</figure>
+<br>
