@@ -1,0 +1,26 @@
+---
+layout: post
+categories: posts
+title: (Travel to Europe) Day 3 - Jungfraujoch, Switzerland
+tags: [Travel]
+date-string: February 18, 2024
+---
+
+### Jungfraujoch
+<figure>
+	<p>
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6502.jpeg" width="300">
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6509.jpeg" width="300">
+	</p>
+	<figcaption>I left hostel early in the morning to visit Jungfraujoch, which I had not planned. To get to Jungfraujoch, I had to pass through Interlaken Ost. and Grindelwald Terminal.</figcaption>
+</figure>
+<br>
+
+<figure>
+	<p>
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6545.jpeg" width="300">
+		<img src="/images/2024-02_Europe/240217_Zurich/IMG_6566.jpeg" width="300">
+	</p>
+	<figcaption>Grindelwald stopped for transfer (left) and Eigergletscher to climb Jungfraujoch (right). There were many people with skis.</figcaption>
+</figure>
+<br>
