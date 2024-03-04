@@ -37,8 +37,8 @@ date-string: February 21, 2024
 
 <figure>
   <p>
-		<img src="/images/2024-02_Europe/240221_Zetmatt/IMG_7086.jpeg" width="300">
-		<img src="/images/2024-02_Europe/240221_Zetmatt/IMG_7098.jpeg" width="300">
+		<img src="/images/2024-02_Europe/240221_Zetmatt/IMG_7184.jpeg" width="300">
+		<img src="/images/2024-02_Europe/240221_Zetmatt/IMG_7192.jpeg" width="300">
 	</p>
 	<figcaption>Dinner after the hike. I visited a restaurant recommended by a Welsh man who shared the room with me at the hostel. Before entering the restaurant, I met the Finnish father and son (they are also roommate with our room) on the road.</figcaption>
 </figure>
