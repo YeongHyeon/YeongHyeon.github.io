@@ -8,7 +8,7 @@ date-string: February 19, 2024
 
 ### Vevey
 <figure>
-  <img src="/images/2024-02_Europe/240219_Leman/IMG_6796.jpeg" width="300">
+  <img src="/images/2024-02_Europe/240219_Leman/IMG_6796.jpeg" width="600">
 	<figcaption>The day I walked around Lake Leman and looked around. This day started with a train to the Vevey area. The lake fills the window and seems like it will overflow at any moment to inside.</figcaption>
 </figure>
 <br>
@@ -34,7 +34,7 @@ date-string: February 19, 2024
 
 ### Montreux
 <figure>
-  <img src="/images/2024-02_Europe/240219_Leman/IMG_6850.jpeg" width="300">
+  <img src="/images/2024-02_Europe/240219_Leman/IMG_6850.jpeg" width="600">
 	<figcaption>I moved to Montreux once more by train for walking. From here, I walked to Castle Chillon (Chateau de Chillon) for about an hour.</figcaption>
 </figure>
 <br> 
