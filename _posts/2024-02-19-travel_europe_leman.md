@@ -26,7 +26,7 @@ date-string: February 19, 2024
 	<p>
 		<img src="/images/2024-02_Europe/240219_Leman/IMG_6827.jpeg" width="260">
 		<img src="/images/2024-02_Europe/240219_Leman/IMG_6832.jpeg" width="260">
-    <img src="/images/2024-02_Europe/240219_Leman/IMG_6847.jpeg" width="260">
+		<img src="/images/2024-02_Europe/240219_Leman/IMG_6847.jpeg" width="260">
 	</p>
 	<figcaption>The weather suddenly became clear. For lunch, I took bread and an apple purchased at a nearby supermarket. At the lakeside, a human feeds something to birds.</figcaption>
 </figure>
