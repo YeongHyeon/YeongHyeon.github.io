@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: posts
-title: (Travel to Europe) Day 8 - Switzerland to Italy
+title: (Travel to Europe) Day 8 - Milano, Italy
 tags: [Travel]
 date-string: February 23, 2024
 ---
