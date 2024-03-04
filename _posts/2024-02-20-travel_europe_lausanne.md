@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: posts
-title: (Travel to Europe) Day 4 - Lausanne, Switzerland
+title: (Travel to Europe) Day 5 - Lausanne, Switzerland
 tags: [Travel]
 date-string: February 20, 2024
 ---
