@@ -22,7 +22,7 @@ date-string: February 22, 2024
 		<img src="/images/2024-02_Europe/240222_Milan/IMG_7220.jpeg" width="300">
 		<img src="/images/2024-02_Europe/240222_Milan/IMG_7217.jpeg" width="300">
 	</p>
-	<figcaption>Brig, stayed for a transfer on the way to Milan, Italy. It is a small and quiet town. I bought roasted chestnuts. It looks little different from what I saw in Korea (the shells were only half peeled).</figcaption>
+	<figcaption>Brig, stayed for a transfer on the way to Milano, Italy. It is a small and quiet town. I bought roasted chestnuts. It looks little different from what I saw in Korea (the shells were only half peeled).</figcaption>
 </figure>
 <br>
 
@@ -32,8 +32,8 @@ date-string: February 22, 2024
 </figure>
 <br>
 
-### Milan
+### Milano
 <figure>
 	<img src="/images/2024-02_Europe/240222_Milan/IMG_7248.jpeg" width="600">
-	<figcaption>It was heavy raining in Milan. Also it was late to go outside, I just stayed at the hostel. In the evening, I drank beer and socialized with my hostel roommates and friends from the next room. Excluding me, there are two Brazilians, one Austrian, and one Italian.</figcaption>
+	<figcaption>It was heavy raining in Milano. Also it was late to go outside, I just stayed at the hostel. In the evening, I drank beer and socialized with my hostel roommates and friends from the next room. Excluding me, there are two Brazilians, one Austrian, and one Italian.</figcaption>
 </figure>
