@@ -8,7 +8,7 @@ date-string: February 23, 2024
 
 ### Duomo
 <figure>
-	<img src="/images/2024-02_Europe/240223_Milan/IMG_7304.jpeg" width="600">IMG_7304
+	<img src="/images/2024-02_Europe/240223_Milan/IMG_7304.jpeg" width="600">
 	<figcaption>The Duomo, starting point of a trip in Milano. Duomo means the cathedral that represents the city.</figcaption>
 </figure>
 <br>

@@ -8,7 +8,7 @@ date-string: February 24, 2024
 
 ### Milano
 <figure>
-	<img src="/images/2024-02_Europe/240224_Sirmione/IMG_7374.jpeg" width="600">IMG_7304
+	<img src="/images/2024-02_Europe/240224_Sirmione/IMG_7374.jpeg" width="600">
 	<figcaption>After breakfast, I left Milan. The destination is Sirmione. I planned to move to Firenze after touring Sirmione.</figcaption>
 </figure>
 <br>
@@ -52,9 +52,9 @@ date-string: February 24, 2024
 ### Firenze
 <figure>
 	<p>
-		<img src="/images/2024-02_Europe/240224_Sirmione/IMG_7434.jpeg" width="260">
-		<img src="/images/2024-02_Europe/240224_Sirmione/IMG_7435.jpeg" width="260">
-		<img src="/images/2024-02_Europe/240224_Sirmione/IMG_7452.jpeg" width="260">
+		<img src="/images/2024-02_Europe/240224_Sirmione/IMG_7459.jpeg" width="260">
+		<img src="/images/2024-02_Europe/240224_Sirmione/IMG_7463.jpeg" width="260">
+		<img src="/images/2024-02_Europe/240224_Sirmione/IMG_7465.jpeg" width="260">
 	</p>
 	<figcaption>On the train to Firenze (left), at Firenze Station (center), and at the hotel I stayed (right). The hotel room was not large, but very cozy.</figcaption>
 </figure>
