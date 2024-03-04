@@ -12,7 +12,7 @@ date-string: February 27, 2024
 		<img src="/images/2024-02_Europe/240227_Firenze/IMG_7710.jpeg" width="300">
 		<img src="/images/2024-02_Europe/240227_Firenze/IMG_7711.jpeg" width="300">
 	</p>
-	<figcaption>I loved Firenze so much so I changed my plan to spend about half a day more and then move to Rome. First, I visited the Uffizi Gallery. Since you should wait in a long waiting line without a reservation, I highly recommend visiting after making a reservation.</figcaption>
+	<figcaption>I loved Firenze so much so I changed my plan to spend about half a day more and then move to Roma. First, I visited the Uffizi Gallery. Since you should wait in a long waiting line without a reservation, I highly recommend visiting after making a reservation.</figcaption>
 </figure>
 <br>
 
