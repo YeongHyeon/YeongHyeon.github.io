@@ -44,3 +44,24 @@ date-string: February 23, 2024
 	<figcaption>The courtyard of the museum (Left) and rest area (Right). I recommend to visit and view the remaining exhibits in person.</figcaption>
 </figure>
 <br>
+
+### Sforzesco Castle
+<figure>
+	<p>
+		<img src="/images/2024-02_Europe/240223_Milan/IMG_7344.jpeg" width="430">
+		<img src="/images/2024-02_Europe/240223_Milan/IMG_7347.jpeg" width="242">
+	</p>
+	<figcaption>A castle located in the center of Milano. There were traces of water flowing around the castle.</figcaption>
+</figure>
+<br>
+
+<figure>
+	<img src="/images/2024-02_Europe/240223_Milan/IMG_7362.jpeg" width="600">
+	<figcaption>The Arc de Triomph, Arco della Pace, behind the castle. The sunset is reflected on the marble, creating a beautiful appearance.</figcaption>
+</figure>
+<br>
+
+<figure>
+	<img src="/images/2024-02_Europe/240223_Milan/IMG_7368.jpeg" width="600">
+	<figcaption>A small concert was held in the hostel lobby. This hostel is very active.</figcaption>
+</figure>
