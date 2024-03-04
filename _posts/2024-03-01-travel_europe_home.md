@@ -30,8 +30,8 @@ date-string: March 1, 2024
 
 <figure>
 	<p>
-		<img src="/images/2024-02_Europe/240301_Home/IMG_8080.jpeg" width="430">
-		<img src="/images/2024-02_Europe/240301_Home/IMG_8085.jpeg" width="242">
+		<img src="/images/2024-02_Europe/240301_Home/IMG_8080.jpeg" width="300">
+		<img src="/images/2024-02_Europe/240301_Home/IMG_8085.jpeg" width="300">
 	</p>
 	<figcaption>Outside through the window while preparing for takeoff. The clear weather changed just in 5 minutes. I worried that takeoff would be delayed, but there were no problems with the schedule.</figcaption>
 </figure>
