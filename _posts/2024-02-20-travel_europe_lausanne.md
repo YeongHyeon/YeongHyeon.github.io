@@ -28,20 +28,20 @@ date-string: February 20, 2024
 
 ### The Olympic Museum
 <figure>
-  <img src="/images/2024-02_Europe/240220_Lausanne/IMG_6975.jpeg" width="300">
+  <img src="/images/2024-02_Europe/240220_Lausanne/IMG_6975.jpeg" width="600">
 	<figcaption>The Olympic Museum. I took a look around here while traveling downtown of Lausanne.</figcaption>
 </figure>
 <br>
 
 <figure>
-  <img src="/images/2024-02_Europe/240220_Lausanne/IMG_6978.jpeg" width="300">
+  <img src="/images/2024-02_Europe/240220_Lausanne/IMG_6978.jpeg" width="600">
 	<figcaption>Stairs on the way up to the museum. The Olympic venues for each year are engraved. The 1988 Seoul is engraved in this step.</figcaption>
 </figure>
 <br>
 
 <figure>
   <p>
-		<img src="/images/2024-02_Europe/240220_Lausanne/IMG_6985.jpeg" width="300">
+		<img src="/images/2024-02_Europe/240220_Lausanne/IMG_6984.jpeg" width="300">
 		<img src="/images/2024-02_Europe/240220_Lausanne/IMG_6999.jpeg" width="300">
 	</p>
 	<figcaption>Starting point for touring the Olympic Museum (Left). It looks like the starting point of the track. In the middle of the tour, there was a place where mascots for each event were collected.</figcaption>
@@ -67,6 +67,6 @@ date-string: February 20, 2024
 <br>
 
 <figure>
-  <img src="/images/2024-02_Europe/240220_Lausanne/IMG_7030.jpeg" width="300">
+  <img src="/images/2024-02_Europe/240220_Lausanne/IMG_7030.jpeg" width="600">
 	<figcaption>French territory across the lake seen from the Olympic Museum.</figcaption>
 </figure>
