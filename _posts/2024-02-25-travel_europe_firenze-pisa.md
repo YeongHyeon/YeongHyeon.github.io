@@ -58,7 +58,7 @@ date-string: February 25, 2024
 
 <figure>
 	<img src="/images/2024-02_Europe/240225_Firenze_Pisa/IMG_7556.jpeg" width="600">
-	<figcaption>The leaning tower of Pisa. It is much more tilted than it looks in the photo.</figcaption>
+	<figcaption>The Leaning Tower of Pisa. It is much more tilted than it looks in the photo.</figcaption>
 </figure>
 <br>
 
