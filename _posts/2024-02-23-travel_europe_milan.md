@@ -17,7 +17,7 @@ date-string: February 23, 2024
 	<p>
 		<img src="/images/2024-02_Europe/240223_Milan/IMG_7275.jpeg" width="260">
 		<img src="/images/2024-02_Europe/240223_Milan/IMG_7284.jpeg" width="260">
-		<img src="/images/2024-02_Europe/240223_Milan/IMG_7265.jpeg" width="260">
+		<img src="/images/2024-02_Europe/240223_Milan/IMG_7285.jpeg" width="260">
 	</p>
 	<figcaption>Duomo roof tour. It was good to see the decorations closer. The impressive thing was that each detailed decoration had a different pattern that are independent of each other (Right).</figcaption>
 </figure>
