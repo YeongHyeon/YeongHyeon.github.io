@@ -25,7 +25,7 @@ date-string: February 21, 2024
 		<img src="/images/2024-02_Europe/240221_Zetmatt/IMG_7086.jpeg" width="300">
 		<img src="/images/2024-02_Europe/240221_Zetmatt/IMG_7098.jpeg" width="300">
 	</p>
-	<figcaption>The train to the Matterhorn. The small town of Zermatt and the Matterhorn are shown through the window (Left). At the Gornergrat, an observatory to view the Matterhorn (Right).</figcaption>
+	<figcaption>The train to the Matterhorn. The small town of Zermatt and the Matterhorn are shown through the window (Left). At the Gornergrat, an observatory to view the Matterhorn (right).</figcaption>
 </figure>
 <br>
 

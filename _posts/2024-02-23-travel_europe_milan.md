@@ -9,7 +9,7 @@ date-string: February 23, 2024
 ### Duomo
 <figure>
 	<img src="/images/2024-02_Europe/240223_Milan/IMG_7304.jpeg" width="600">IMG_7304
-	<figcaption>The Duomo, starting point of a trip in Milano. Duomo means the cathedral that represents the city. I forgot to take a photo for here, so I took it from <a href="https://en.wikipedia.org/wiki/Milan_Cathedral">Wikipedia</a>.</figcaption>
+	<figcaption>The Duomo, starting point of a trip in Milano. Duomo means the cathedral that represents the city.</figcaption>
 </figure>
 <br>
 
@@ -41,7 +41,7 @@ date-string: February 23, 2024
 		<img src="/images/2024-02_Europe/240223_Milan/IMG_7332.jpeg" width="430">
 		<img src="/images/2024-02_Europe/240223_Milan/IMG_7327.jpeg" width="242">
 	</p>
-	<figcaption>The courtyard of the museum (Left) and rest area (Right). I recommend to visit and view the remaining exhibits in person.</figcaption>
+	<figcaption>The courtyard of the museum (left) and rest area (right). I recommend to visit and view the remaining exhibits in person.</figcaption>
 </figure>
 <br>
 

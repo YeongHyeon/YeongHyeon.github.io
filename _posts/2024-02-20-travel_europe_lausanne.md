@@ -44,7 +44,7 @@ date-string: February 20, 2024
 		<img src="/images/2024-02_Europe/240220_Lausanne/IMG_6984.jpeg" width="300">
 		<img src="/images/2024-02_Europe/240220_Lausanne/IMG_6999.jpeg" width="300">
 	</p>
-	<figcaption>Starting point for touring the Olympic Museum (Left). It looks like the starting point of the track. In the middle of the tour, there was a place where mascots for each event were collected.</figcaption>
+	<figcaption>Starting point for touring the Olympic Museum (left). It looks like the starting point of the track. In the middle of the tour, there was a place where mascots for each event were collected.</figcaption>
 </figure>
 <br>
 
