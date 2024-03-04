@@ -65,8 +65,8 @@ date-string: February 28, 2024
 ### Pantheon and Trevi Fountain
 <figure>
 	<p>
-		<img src="/images/2024-02_Europe/240228_Vatican/IMG_7861.jpeg" width="300">
-		<img src="/images/2024-02_Europe/240228_Vatican/IMG_7865.jpeg" width="300">
+		<img src="/images/2024-02_Europe/240228_Vatican/IMG_7861.jpeg" width="350">
+		<img src="/images/2024-02_Europe/240228_Vatican/IMG_7865.jpeg" width="350">
 	</p>
 	<figcaption>On the way to the hotel, I stopped by the Pantheon and Trevi Fountain. The narrow space was full of people.</figcaption>
 </figure>
