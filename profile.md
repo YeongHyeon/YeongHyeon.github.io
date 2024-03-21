@@ -7,7 +7,7 @@ layout: post
 <img src="https://github.com/YeongHyeon/YeongHyeon.github.io/blob/master/images/profile.jpeg?raw=true" width="250"><br/>   
 
 # YeongHyeon Park
-(yeonghyeon@sk.com or young200405@gmail.com) 
+Email: yeonghyeon@sk.com (or young200405@gmail.com for personal)<br/>
 [<a href="https://scholar.google.com/citations?user=cZq6j0MAAAAJ&hl=en">Google Scholar</a>]
 [<a href="https://github.com/YeongHyeon">Github</a>]
 
