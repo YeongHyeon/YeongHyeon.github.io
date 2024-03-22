@@ -1,5 +1,5 @@
 ---
-title: About
+title: CV
 permalink: "/about/"
 layout: post
 ---
