@@ -103,6 +103,7 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 
 
 ## Additional Activities
+* Reviewer in <a href="https://www.nature.com/srep/">Scientific Reports</aa>, Springer [<a href="https://www.nature.com/srep/highlights/our-reviewers"></a>]
 * NVIDIA University Ambassador
 * NVIDIA DLI Instructor
 * Kaggle Notebooks Expert 
