@@ -8,6 +8,7 @@ layout: post
 
 # YeongHyeon Park
 yeonghyeon@sk.com<br/>
+[<a href="https://www.linkedin.com/in/yeonghyeon-park-25aa97138/">LinkedIn</a>]
 [<a href="https://scholar.google.com/citations?user=cZq6j0MAAAAJ&hl=en">Google Scholar</a>]
 [<a href="https://github.com/YeongHyeon">Github</a>]
 
