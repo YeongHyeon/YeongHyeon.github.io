@@ -28,7 +28,7 @@ date-string: February 22, 2024
 
 <figure>
 	<img src="/images/2024-02_Europe/240222_Milan/IMG_7242.jpeg" width="600">
-	<figcaption>'VALAIS. GRAVE DANS MON COEUR'. It means that I will keep the region called VALAIS deeply in my heart. I deeply agree that it was such a beautiful region.</figcaption>
+	<figcaption>'VALAIS. GRAVE DANS MON COEUR'. It means that I will keep the region called VALAIS deeply in my mind. Also, I deeply agree that it was such a beautiful region.</figcaption>
 </figure>
 <br>
 
