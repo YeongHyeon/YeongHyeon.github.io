@@ -104,7 +104,8 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 
 
 ## Additional Activities
-* Reviewer in <a href="https://www.nature.com/srep/">Scientific Reports</a>, Springer _(2023.09 - )_ [<a href="https://www.nature.com/srep/highlights/our-reviewers">reviewer list</a>]  
+* Reviewer in <a href="https://www.nature.com/srep/">Scientific Reports</a>, Nature _(2023.09 - )_ [<a href="https://www.nature.com/srep/highlights/our-reviewers">reviewer list</a>]  
+* Reviewer in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a>, IEEE _(2021.06 - )_  
 * NVIDIA University Ambassador [<a href="https://learn.nvidia.com/certificates?id=1403c0a68647461485704f0b0041cf86">certificate</a>]  
 * NVIDIA DLI Instructor [<a href="https://learn.nvidia.com/certificates?id=96017e53395a4dacb32dfe69be7d2530">certificate</a>]  
 * Kaggle Notebooks Expert [<a href="https://www.kaggle.com/yeonghyeon">profile</a>]  
