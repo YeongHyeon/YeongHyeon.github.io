@@ -12,6 +12,11 @@ yeonghyeon@sk.com / young200405@gmail.com (for personal)<br/>
 [<a href="https://scholar.google.com/citations?user=cZq6j0MAAAAJ&hl=en">Google Scholar</a>]
 [<a href="https://github.com/YeongHyeon">Github</a>]
 
+
+## Research Interests
+
+Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
+
 ## Education
 
 **Ph.D. in** Electrical and Computer Engineering _(2022.02 - )_ <br/>
@@ -22,11 +27,6 @@ yeonghyeon@sk.com / young200405@gmail.com (for personal)<br/>
 
 **B.S. in** Digital Information Engineering, Minor in International Business _(2012.02 - 2018.02)_ <br/>
 *Hankuk University of Foreign Studies (HUFS)*, Rep. of Korea
-
-
-## Research Interests
-
-Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 
 
 ## Experience
