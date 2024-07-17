@@ -8,9 +8,11 @@ layout: post
 
 # YeongHyeon Park
 yeonghyeon@sk.com / young200405@gmail.com (for personal)<br/>
-[<a href="https://www.linkedin.com/in/yeonghyeon-park-25aa97138/">LinkedIn</a>]
+[<a href="https://yeonghyeon.github.io/resume/CV_YeongHyeon.pdf">CV (pdf)</a>]
 [<a href="https://scholar.google.com/citations?hl=en&user=cZq6j0MAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>]
 [<a href="https://github.com/YeongHyeon">Github</a>]
+[<a href="https://www.linkedin.com/in/yeonghyeon-park-25aa97138/">LinkedIn</a>]
+
 
 
 ## Research Interests
