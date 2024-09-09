@@ -35,7 +35,7 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 **Research Engineer** <br/>
 *SK Planet Co., Ltd., Rep. of Korea* _(2019.09 - )_ <br/>
   - Research and Develop the Anomaly Detection System
-  - Publications: 3 SCIE papers, 9 international conference papers
+  - Publications: 4 SCIE papers, 10 international conference papers
 
 **Research Assistant** <br/>
 *Vision & Signal Processing Lab. Hankuk University of Foreign Studies (HUFS), Rep. of Korea* _(2017.09 - 2019.08)_ <br/>
@@ -108,8 +108,8 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 
 
 ## Additional Activities
-* Reviewer in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">Transactions on Circuits and Systems for Video Technology (T-CSVT)</a>, IEEE _(2024.09 - )_
-* Reviewer in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97">Signal Processing Letters</a>, IEEE _(2024.08 - )_
+* Reviewer in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</a>, IEEE _(2024.09 - )_
+* Reviewer in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97">IEEE Signal Processing Letters</a>, IEEE _(2024.08 - )_
 * Reviewer in <a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a>, Springer _(2024.08 - )_   
 * Reviewer in <a href="https://www.nature.com/srep/">Scientific Reports</a>, Nature _(2023.09 - )_   
 * Reviewer in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a>, IEEE _(2021.06 - )_  
