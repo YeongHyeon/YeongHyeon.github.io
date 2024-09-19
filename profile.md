@@ -107,13 +107,17 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 * A System and Method for Early Diagnosing Dental Caries base on The Deep Learning. Republic of Korea. 2020
 * Apparatus and Method for Anomaly Detection of SMD Assembly Device Operation based on Deeplearnig. Republic of Korea. 2020
 
-
-## Additional Activities
+## Review Activities
 * Reviewer in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</a>, IEEE _(2024.09 - )_
 * Reviewer in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97">IEEE Signal Processing Letters</a>, IEEE _(2024.08 - )_
-* Reviewer in <a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a>, Springer _(2024.08 - )_   
+* Reviewer in <a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a>, Springer _(2024.08 - )_
+* Reviewer in <a href="https://link.springer.com/journal/10921">Journal of Nondestructive Evaluation</a>, Springer _(2024.02 - )_   
+* Reviewer in <a href="https://ietresearch.onlinelibrary.wiley.com/journal/1350911x">Electronics Letters</a>, IET _(2024.01 - )_   
+* Reviewer in <a href="https://link.springer.com/journal/11760">Signal, Image and Video Processing</a>, Springer _(2023.12 - )_   
 * Reviewer in <a href="https://www.nature.com/srep/">Scientific Reports</a>, Nature _(2023.09 - )_   
-* Reviewer in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a>, IEEE _(2021.06 - )_  
+* Reviewer in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a>, IEEE _(2021.06 - )_
+
+## Additional Activities
 * NVIDIA University Ambassador [<a href="https://learn.nvidia.com/certificates?id=1403c0a68647461485704f0b0041cf86">certificate</a>]  
 * NVIDIA DLI Instructor [<a href="https://learn.nvidia.com/certificates?id=96017e53395a4dacb32dfe69be7d2530">certificate</a>]  
 * Kaggle Notebooks Expert [<a href="https://www.kaggle.com/yeonghyeon">profile</a>]  
