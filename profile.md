@@ -73,19 +73,19 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 * [2021] <strong>YeongHyeon Park</strong> and JongHee Jung. <strong>"Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise."</strong> IEEE ICACEH [<a href="https://ieeexplore.ieee.org/document/9768853">paper</a>]  
 * [2021] <strong>YeongHyeon Park</strong> and Myung Jin Kim. <strong>"Design of Cost-Effective Auto-Encoder for Electric Motor Anomaly Detection in Resource Constrained Edge Device."</strong> IEEE ECICE [<a href="https://ieeexplore.ieee.org/document/9645739">paper</a>]  
   
-### Domestic Conference
-* [2024] <strong>박영현</strong>, 강성호, 김명진, 이연호, 이준호. <strong>"Connection-Switching U-Net을 활용하는 표면이상탐지 성능 향상"</strong> [<a href="https://www.kibme.org/academic/download?&af_idx=188&af_name=20240621102548776.pdf&af_name_server=2024%20%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_v7.pdf">program</a>]
-* [2023] 김재선, 박춘우, 박원석, <strong>박영현</strong>, 조창현, 김동주. <strong>"공정 매개변수 및 열화상 이미지를 기반으로 한 다공성 결함 감지를 위한 고압 다이캐스팅 결함 예측 딥러닝 알고리즘에 관한 연구"</strong> [<a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11513747">paper</a>]    
-* [2023] <strong>박영현</strong>, 김명진, 박원석, 이준호. <strong>"재활용품 분류 자동화 효율증대를 위한 어텐션 메커니즘 기반 객체분할 방법"</strong>  
-* [2023] 강성호, 박현규, 정현호, <strong>박영현</strong>, 배세호, 이준호. <strong>"단안 영상 깊이 추정을 활용하는 객체 변환 합성"</strong>  
-* [2023] 박현규, 배세호, <strong>박영현</strong>, 강성호, 이준호. <strong>"양방향 스타일 변환 네트워크를 사용하는 비지도 학습 기반의 도메인 간 영상 변환"</strong>  
-* [2023] 김명진, <strong>박영현</strong>, 윤일동. <strong>"적대적 학습에서 긍정 샘플의 선정에 대한 기법"</strong>  
-* [2022] 김우주, <strong>박영현</strong>. <strong>"이상 탐지를 위한 오토인코더 기반 잠재 벡터 확장"</strong> [<a href="https://arxiv.org/abs/2201.01416">arXiv</a>]  
-* [2022] <strong>박영현</strong>, 이준성, 김명진, 박원석. <strong>"주행 소음 기반 도로 이상탐지 성능 향상을 위한 주행 이벤트 추출 및 노이즈 감쇄 방법"</strong> [<a href="https://arxiv.org/abs/2112.07214">arXiv</a>]  
-* [2022] 김명진, <strong>박영현</strong>. <strong>"Attention 기반의 이상 부위 자동 labeling 기법"</strong>  
-* [2021] <strong>박영현</strong>, 이준성, 박원석. <strong>"신뢰도 기반 개별 모델 영향력을 조정하는 자체 가중치 앙상블 방법"</strong> [<a href="https://arxiv.org/abs/2104.04120">arXiv</a>]  
+### Domestic Journal / Conference
+* [2024] <strong>박영현</strong>, 강성호, 김명진, 이연호, 이준호. <strong>"Connection-Switching U-Net을 활용하는 표면이상탐지 성능 향상"</strong> 한국방송미디어공학회 2024년 하계학술대회 (2024 The Korean Institute of Broadcast and Media Engineers Summer Conference)
+* [2023] 김재선, 박춘우, 박원석, <strong>박영현</strong>, 조창현, 김동주. <strong>"공정 매개변수 및 열화상 이미지를 기반으로 한 다공성 결함 감지를 위한 고압 다이캐스팅 결함 예측 딥러닝 알고리즘에 관한 연구"</strong> 한국 CDE 학회 논문집 (Korean Journal of Computational Design and Engineering) [<a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11513747">paper</a>]    
+* [2023] <strong>박영현</strong>, 김명진, 박원석, 이준호. <strong>"재활용품 분류 자동화 효율증대를 위한 어텐션 메커니즘 기반 객체분할 방법"</strong> 제 35회 영상처리 및 이해에 관한 워크샵 (35th Workshop on Image Processing and Image Understanding)  
+* [2023] 강성호, 박현규, 정현호, <strong>박영현</strong>, 배세호, 이준호. <strong>"단안 영상 깊이 추정을 활용하는 객체 변환 합성"</strong> 제 35회 영상처리 및 이해에 관한 워크샵 (35th Workshop on Image Processing and Image Understanding)  
+* [2023] 박현규, 배세호, <strong>박영현</strong>, 강성호, 이준호. <strong>"양방향 스타일 변환 네트워크를 사용하는 비지도 학습 기반의 도메인 간 영상 변환"</strong> 제 35회 영상처리 및 이해에 관한 워크샵 (35th Workshop on Image Processing and Image Understanding)  
+* [2023] 김명진, <strong>박영현</strong>, 윤일동. <strong>"적대적 학습에서 긍정 샘플의 선정에 대한 기법"</strong> 제 35회 영상처리 및 이해에 관한 워크샵 (35th Workshop on Image Processing and Image Understanding)  
+* [2022] 김우주, <strong>박영현</strong>. <strong>"이상 탐지를 위한 오토인코더 기반 잠재 벡터 확장"</strong> 제 34회 영상처리 및 이해에 관한 워크샵 (34th Workshop on Image Processing and Image Understanding) [<a href="https://arxiv.org/abs/2201.01416">arXiv</a>]  
+* [2022] <strong>박영현</strong>, 이준성, 김명진, 박원석. <strong>"주행 소음 기반 도로 이상탐지 성능 향상을 위한 주행 이벤트 추출 및 노이즈 감쇄 방법"</strong> 제 34회 영상처리 및 이해에 관한 워크샵 (34th Workshop on Image Processing and Image Understanding) [<a href="https://arxiv.org/abs/2112.07214">arXiv</a>]  
+* [2022] 김명진, <strong>박영현</strong>. <strong>"Attention 기반의 이상 부위 자동 labeling 기법"</strong> 제 34회 영상처리 및 이해에 관한 워크샵 (34th Workshop on Image Processing and Image Understanding)  
+* [2021] <strong>박영현</strong>, 이준성, 박원석. <strong>"신뢰도 기반 개별 모델 영향력을 조정하는 자체 가중치 앙상블 방법"</strong> 제 33회 영상처리 및 이해에 관한 워크샵 (33th Workshop on Image Processing and Image Understanding) [<a href="https://arxiv.org/abs/2104.04120">arXiv</a>]  
 
-### arXiv
+### Preprints
 * [2024] <strong>YeongHyeon Park</strong>, Sungho Kang, Myung Jin Kim, Hyeong Seok Kim, and Juneho Yi. <strong>"Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection"</strong> [<a href="https://arxiv.org/abs/2407.04597">arXiv</a>]  
 * [2024] Dongeon Kim, <strong>YeongHyeon Park</strong>. <strong>"Empirical Analysis of Anomaly Detection on Hyperspectral Imaging Using Dimension Reduction Methods"</strong> [<a href="https://arxiv.org/abs/2401.04437">arXiv</a>]  
 * [2022] <strong>YeongHyeon Park</strong>. <strong>"Concise Logarithmic Loss Function for Robust Training of Anomaly Detection Model"</strong> [<a href="https://arxiv.org/abs/2201.05748">arXiv</a>]  
