@@ -112,11 +112,11 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 ## Review Activities
 * Reviewer in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</a>, IEEE _(2024.09 - )_
 * Reviewer in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97">IEEE Signal Processing Letters</a>, IEEE _(2024.08 - )_
-* Reviewer in <a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a>, Springer _(2024.08 - )_
-* Reviewer in <a href="https://link.springer.com/journal/10921">Journal of Nondestructive Evaluation</a>, Springer _(2024.02 - )_   
+* Reviewer in <a href="https://link.springer.com/journal/10921">Journal of Nondestructive Evaluation</a>, Springer _(2024.03 - )_   
 * Reviewer in <a href="https://ietresearch.onlinelibrary.wiley.com/journal/1350911x">Electronics Letters</a>, IET _(2024.01 - )_   
-* Reviewer in <a href="https://link.springer.com/journal/11760">Signal, Image and Video Processing</a>, Springer _(2023.12 - )_   
-* Reviewer in <a href="https://www.nature.com/srep/">Scientific Reports</a>, Nature _(2023.09 - )_   
+* Reviewer in <a href="https://link.springer.com/journal/11760">Signal, Image and Video Processing</a>, Springer _(2024.01 - )_   
+* Reviewer in <a href="https://www.nature.com/srep/">Scientific Reports</a>, Nature _(2023.09 - )_
+* Reviewer in <a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a>, Springer _(2023.08 - )_
 * Reviewer in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a>, IEEE _(2021.06 - )_
 
 ## Additional Activities
