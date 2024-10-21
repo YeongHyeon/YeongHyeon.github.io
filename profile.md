@@ -51,7 +51,7 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 
 ## Publications
 
-### SCIE
+### SCIE Journals
 * [2024] <strong>YeongHyeon Park</strong>, Sungho Kang, Myung Jin Kim, Yeonho Lee, Hyeong Seok Kim, and Juneho Yi. <strong>"Visual Defect Obfuscation Based Self-Supervised Anomaly Detection."</strong> *Scientific Reports* [<a href="https://www.nature.com/articles/s41598-024-69698-5">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2024-SciRep.pdf">poster</a>]  
 * [2023] <strong>YeongHyeon Park</strong>, Myung Jin Kim, Uju Gim, and Juneho Yi. <strong>"Boost-up Efficiency of Defective Solar Panel Detection with Pre-trained Attention Recycling."</strong> *IEEE T-IA* [<a href="https://ieeexplore.ieee.org/document/10065567">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2023-IEEE-TIA.pdf">slide</a>]  
 * [2022] <strong>YeongHyeon Park</strong> and JongHee Jung. <strong>"Efficient Non-Compression Auto-Encoder for Driving Noise-Based Road Surface Anomaly Detection."</strong> *IEEJ T-EEE* [<a href="https://doi.org/10.1002/tee.23672">paper</a>]  
@@ -110,7 +110,8 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 * Apparatus and Method for Anomaly Detection of SMD Assembly Device Operation based on Deeplearnig. Republic of Korea. 2020
 
 ## Review Activities
-* <a href="https://2025.ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</a> 2025
+
+### SCIE Journals
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</a> _(2024.09 - )_
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97">IEEE Signal Processing Letters</a> _(2024.08 - )_
 * <a href="https://link.springer.com/journal/10921">Journal of Nondestructive Evaluation</a> _(2024.03 - )_   
@@ -119,6 +120,9 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 * <a href="https://www.nature.com/srep/">Scientific Reports</a> _(2023.09 - )_
 * <a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a> _(2023.08 - )_
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a> _(2021.06 - )_
+
+### International Conference
+* <a href="https://2025.ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</a> 2025
 
 ## Additional Activities
 * NVIDIA University Ambassador [<a href="https://learn.nvidia.com/certificates?id=1403c0a68647461485704f0b0041cf86">certificate</a>]  
