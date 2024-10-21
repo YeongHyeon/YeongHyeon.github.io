@@ -110,15 +110,15 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 * Apparatus and Method for Anomaly Detection of SMD Assembly Device Operation based on Deeplearnig. Republic of Korea. 2020
 
 ## Review Activities
-* <a href="https://2025.ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025)</a>
-* <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</a>, IEEE _(2024.09 - )_
-* <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97">IEEE Signal Processing Letters</a>, IEEE _(2024.08 - )_
-* <a href="https://link.springer.com/journal/10921">Journal of Nondestructive Evaluation</a>, Springer _(2024.03 - )_   
-* <a href="https://ietresearch.onlinelibrary.wiley.com/journal/1350911x">Electronics Letters</a>, IET _(2024.01 - )_   
-* <a href="https://link.springer.com/journal/11760">Signal, Image and Video Processing</a>, Springer _(2024.01 - )_   
-* <a href="https://www.nature.com/srep/">Scientific Reports</a>, Nature _(2023.09 - )_
-* <a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a>, Springer _(2023.08 - )_
-* <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a>, IEEE _(2021.06 - )_
+* <a href="https://2025.ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</a> 2025
+* <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</a> _(2024.09 - )_
+* <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97">IEEE Signal Processing Letters</a> _(2024.08 - )_
+* <a href="https://link.springer.com/journal/10921">Journal of Nondestructive Evaluation</a> _(2024.03 - )_   
+* <a href="https://ietresearch.onlinelibrary.wiley.com/journal/1350911x">Electronics Letters</a> _(2024.01 - )_   
+* <a href="https://link.springer.com/journal/11760">Signal, Image and Video Processing</a> _(2024.01 - )_   
+* <a href="https://www.nature.com/srep/">Scientific Reports</a> _(2023.09 - )_
+* <a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a> _(2023.08 - )_
+* <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a> _(2021.06 - )_
 
 ## Additional Activities
 * NVIDIA University Ambassador [<a href="https://learn.nvidia.com/certificates?id=1403c0a68647461485704f0b0041cf86">certificate</a>]  
