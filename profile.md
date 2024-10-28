@@ -121,7 +121,7 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 * <a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a> _(2023.08 - )_
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a> _(2021.06 - )_
 
-### International Conference
+### International Conferences
 * <a href="https://2025.ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</a> 2025
 
 ### Scopus Journals
