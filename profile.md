@@ -125,7 +125,7 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 * <a href="https://2025.ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</a> 2025
 
 ### Scopus Journals
-* <a href="[https://link.springer.com/journal/10921](https://link.springer.com/journal/44163)">Discover Artificial Intelligence</a> _(2024.10 - )_
+* <a href="https://link.springer.com/journal/44163">Discover Artificial Intelligence</a> _(2024.10 - )_
 
 ## Additional Activities
 * NVIDIA University Ambassador [<a href="https://learn.nvidia.com/certificates?id=1403c0a68647461485704f0b0041cf86">certificate</a>]  
