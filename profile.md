@@ -123,7 +123,7 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 
 ### International Conferences
 * <a href="https://2025.ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</a> 2025
-* * <a href="https://www.bigcomputing.org/conf2025/index.html">IEEE International Conference on Big Data and Smart Computing (BigComp)</a> 2025
+* <a href="https://www.bigcomputing.org/conf2025/index.html">IEEE International Conference on Big Data and Smart Computing (BigComp)</a> 2025
 
 ### Scopus Journals
 * <a href="https://link.springer.com/journal/44163">Discover Artificial Intelligence</a> _(2024.10 - )_
