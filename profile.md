@@ -106,6 +106,7 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 
 ## Patents
 * Several pending status patents exist in environmental and industrial fields.
+* Management Method of Foreign Matter for Liquid Products and an Device Supporting the Same. Republic of Korea. 2024
 * ECG Preprocessing Method and STEMI Detection method. Republic of Korea. 2021
 * A System and Method for Early Diagnosing Dental Caries base on The Deep Learning. Republic of Korea. 2020
 * Apparatus and Method for Anomaly Detection of SMD Assembly Device Operation based on Deeplearnig. Republic of Korea. 2020
