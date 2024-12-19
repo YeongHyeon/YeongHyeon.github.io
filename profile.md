@@ -125,6 +125,7 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a> _(2021.06 - )_
 
 ### International Conferences
+* <a href="https://2025.ijcnn.org/">IEEE International Joint Conference on Neural Networks (IJCNN)</a> 2025
 * <a href="https://2025.ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</a> 2025
 * <a href="https://www.bigcomputing.org/conf2025/index.html">IEEE International Conference on Big Data and Smart Computing (BigComp)</a> 2025
 
