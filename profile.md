@@ -112,7 +112,7 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 * KR Patent 1023465330000, <a href="https://doi.org/10.8080/1020200057140?urlappend=en">Road condition detection device and system, road condition detection method using the same</a>, Dec.2021.
 * KR Patent 1021790400000, <a href="https://doi.org/10.8080/1020180128383?urlappend=en">Apparatus and Method for Anomaly Detection of SMD Assembly Device Operation based on Deeplearnig</a>, Nov.2020.
 
-## Services
+## Professional Activities 
 
 ### Journal Reviewer
 * <a href="https://link.springer.com/journal/44163">Discover Artificial Intelligence</a> _(2024.10 - )_
