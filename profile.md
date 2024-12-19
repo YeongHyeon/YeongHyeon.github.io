@@ -112,9 +112,10 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 * KR Patent 1023465330000, <a href="https://doi.org/10.8080/1020200057140?urlappend=en">Road condition detection device and system, road condition detection method using the same</a>, Dec.2021.
 * KR Patent 1021790400000, <a href="https://doi.org/10.8080/1020180128383?urlappend=en">Apparatus and Method for Anomaly Detection of SMD Assembly Device Operation based on Deeplearnig</a>, Nov.2020.
 
-## Review Activities
+## Services
 
-### SCIE Journals
+### Journal Reviewer
+* <a href="https://link.springer.com/journal/44163">Discover Artificial Intelligence</a> _(2024.10 - )_
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</a> _(2024.09 - )_
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97">IEEE Signal Processing Letters</a> _(2024.08 - )_
 * <a href="https://link.springer.com/journal/10921">Journal of Nondestructive Evaluation</a> _(2024.03 - )_   
@@ -124,13 +125,10 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 * <a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a> _(2023.08 - )_
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a> _(2021.06 - )_
 
-### International Conferences
+### Conference Reviewer
 * <a href="https://2025.ijcnn.org/">IEEE International Joint Conference on Neural Networks (IJCNN)</a> 2025
 * <a href="https://2025.ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</a> 2025
 * <a href="https://www.bigcomputing.org/conf2025/index.html">IEEE International Conference on Big Data and Smart Computing (BigComp)</a> 2025
-
-### Scopus Journals
-* <a href="https://link.springer.com/journal/44163">Discover Artificial Intelligence</a> _(2024.10 - )_
 
 ## Additional Activities
 * NVIDIA University Ambassador [<a href="https://learn.nvidia.com/certificates?id=1403c0a68647461485704f0b0041cf86">certificate</a>]  
