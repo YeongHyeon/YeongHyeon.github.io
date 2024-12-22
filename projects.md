@@ -14,7 +14,17 @@ layout: post
         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
     </a>
   </div>
-  <h3>Industrial Anomaly Detection</h3>
+  <h4>Industrial Anomaly Detection</h4>
+</div>
+
+<div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
+  <div style="width: 100%; aspect-ratio: 1 / 1; overflow: hidden;">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10446942">  
+      <img src="/images/projects/lamp.png" 
+        style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+    </a>
+  </div>
+  <h4>Loss function transformation</h4>
 </div>
 
 <div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
@@ -24,7 +34,17 @@ layout: post
         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
     </a>
   </div>
-  <h3>Defective Solar Panel Detection</h3>
+  <h4>Defective Solar Panel Detection</h4>
+</div>
+
+<div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
+  <div style="width: 100%; aspect-ratio: 1 / 1; overflow: hidden;">
+    <a href="https://onlinelibrary.wiley.com/doi/10.1002/tee.23672">  
+      <img src="/images/projects/dryroad.png" 
+        style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+    </a>
+  </div>
+  <h4>Road Anomaly Detection</h4>
 </div>
 
 <div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
@@ -34,7 +54,7 @@ layout: post
         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
     </a>
   </div>
-  <h3>STEMI Detection in ECG</h3>
+  <h4>Sensor Anomaly Detection</h4>
 </div>
 
 <div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
@@ -44,7 +64,7 @@ layout: post
         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
     </a>
   </div>
-  <h3>STEMI Detection in ECG</h3>
+  <h4>STEMI Detection in ECG</h4>
 </div>
 
 <div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
@@ -54,7 +74,7 @@ layout: post
         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
     </a>
   </div>
-  <h3>SMD Anomaly Detection</h3>
+  <h4>SMD Anomaly Detection</h4>
 </div>
 
 </div>
