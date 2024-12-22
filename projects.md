@@ -24,7 +24,7 @@ layout: post
         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
     </a>
   </div>
-  <h4>Loss function transformation</h4>
+  <h4>Loss Function Transformation</h4>
 </div>
 
 <div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
