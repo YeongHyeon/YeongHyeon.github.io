@@ -8,7 +8,7 @@ layout: post
 
 # YeongHyeon Park
 yeonghyeon@sk.com / yeonghyeon@g.skku.edu <br/>
-[<a href="https://yeonghyeon.github.io/resume/CV_YeongHyeon.pdf">CV (pdf)</a>]
+[<a href="https://yeonghyeon.github.io/resume/CV_YeongHyeon.pdf">CV</a>]
 [<a href="https://scholar.google.com/citations?hl=en&user=cZq6j0MAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>]
 [<a href="https://github.com/YeongHyeon">Github</a>]
 [<a href="https://www.linkedin.com/in/yeonghyeon-park-25aa97138/">LinkedIn</a>]
