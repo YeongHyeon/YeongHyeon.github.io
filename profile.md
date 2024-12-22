@@ -36,7 +36,7 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 *SK Planet Co., Ltd., Rep. of Korea* _(2019.09 - )_ <br/>
   - Research and Develop the Anomaly Detection System
   - Publications: 4 SCIE papers, 11 international conference papers
-  - Patents: 1 registered patents
+  - Patents: 4 registered patents
 
 **Research Assistant** <br/>
 *Vision & Signal Processing Lab. Hankuk University of Foreign Studies (HUFS), Rep. of Korea* _(2017.09 - 2019.08)_ <br/>
