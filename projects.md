@@ -39,12 +39,32 @@ layout: post
 
 <div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
   <div style="width: 100%; aspect-ratio: 1 / 1; overflow: hidden;">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10393463">  
+      <img src="/images/projects/audiocomp.png" 
+        style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+    </a>
+  </div>
+  <h4>Edge Storage Efficiency</h4>
+</div>
+
+<div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
+  <div style="width: 100%; aspect-ratio: 1 / 1; overflow: hidden;">
     <a href="https://onlinelibrary.wiley.com/doi/10.1002/tee.23672">  
       <img src="/images/projects/dryroad.png" 
         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
     </a>
   </div>
   <h4>Road Anomaly Detection</h4>
+</div>
+
+<div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
+  <div style="width: 100%; aspect-ratio: 1 / 1; overflow: hidden;">
+    <a href="https://ieeexplore.ieee.org/document/9645739">  
+      <img src="/images/projects/motor.png" 
+        style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+    </a>
+  </div>
+  <h4>Motor Anomaly Detection</h4>
 </div>
 
 <div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
