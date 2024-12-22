@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: "/cv/"
+permalink: "/about/"
 layout: post
 ---
 
