@@ -1,5 +1,5 @@
 ---
-title: Curriculum Vitae
+title: About
 permalink: "/cv/"
 layout: post
 ---
