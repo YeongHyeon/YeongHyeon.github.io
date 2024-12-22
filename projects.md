@@ -29,6 +29,16 @@ layout: post
 
 <div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
   <div style="width: 100%; aspect-ratio: 1 / 1; overflow: hidden;">
+    <a href="https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2020-0052">  
+      <img src="/images/projects/pmsensor.png" 
+        style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+    </a>
+  </div>
+  <h3>STEMI Detection in ECG</h3>
+</div>
+
+<div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
+  <div style="width: 100%; aspect-ratio: 1 / 1; overflow: hidden;">
     <a href="https://ieeexplore.ieee.org/abstract/document/8771175/">  
       <img src="/images/projects/ecg.png" 
         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
