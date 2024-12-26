@@ -115,6 +115,7 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 ## Professional Activities 
 
 ### Journal Reviewer
+* <a href="https://link.springer.com/journal/44196">International Journal of Computational Intelligence Systems</a> _(2024.12 - )_
 * <a href="https://link.springer.com/journal/530">Multimedia Systems</a> _(2024.12 - )_
 * <a href="https://link.springer.com/journal/44163">Discover Artificial Intelligence</a> _(2024.10 - )_
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</a> _(2024.09 - )_
