@@ -64,7 +64,7 @@ layout: post
         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
     </a>
   </div>
-  <h4>Motor Anomaly Detection</h4>
+  <h4>Electric Motor Anomaly Detection</h4>
 </div>
 
 <div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
