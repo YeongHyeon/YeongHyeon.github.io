@@ -48,15 +48,6 @@ date-string: February 18, 2024
 </figure>
 <br>
 
-<figure>
-	<p>
-		<img src="/images/2024-02_Europe/240218_Jungfraujoch/IMG_6626.jpeg" width="300">
-		<img src="/images/2024-02_Europe/240218_Jungfraujoch/IMG_6649.jpeg" width="300">
-	</p>
-	<figcaption>Took the photo in a photo spots where people take a lot of photos.</figcaption>
-</figure>
-<br>
-
 ### First
 
 <figure>
