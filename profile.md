@@ -21,7 +21,7 @@ Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
 
 ## Education
 
-**Ph.D. in** Electrical and Computer Engineering _(2022.02 - )_ <br/>
+**Ph.D. in** Electrical and Computer Engineering _(2022.02 - 2025.02)_ <br/>
 *SungKyunKwan University (SKKU)*, Rep. of Korea
 
 **M.S. in** Computer and Electronic Systems Engineering _(2018.03 - 2020.02)_ <br/>
