@@ -17,15 +17,17 @@ yeonghyeon@sk.com / yeonghyeon@g.skku.edu <br/>
 
 ## Research Interests
 
-Anomaly Detection, Computer Vision, Signal Processing, Edge Computing
+Anomaly Detection, Computer Vision, Signal Processing
 
 ## Education
 
 **Ph.D. in** Electrical and Computer Engineering _(2022.02 - 2025.02)_ <br/>
-*SungKyunKwan University (SKKU)*, Rep. of Korea
+*SungKyunKwan University (SKKU)*, Rep. of Korea  
+Advisor: Prof. <a href="https://scholar.google.com/citations?user=LI9f-mwAAAAJ&hl=en">Juneho Yi</a>
 
 **M.S. in** Computer and Electronic Systems Engineering _(2018.03 - 2020.02)_ <br/>
-*Hankuk University of Foreign Studies (HUFS)*, Rep. of Korea
+*Hankuk University of Foreign Studies (HUFS)*, Rep. of Korea  
+Advisor: Prof. <a href="https://scholar.google.com/citations?user=0tPAxMgAAAAJ&hl=en">Il Dong Yun</a>
 
 **B.S. in** Digital Information Engineering, Minor in International Business _(2012.02 - 2018.02)_ <br/>
 *Hankuk University of Foreign Studies (HUFS)*, Rep. of Korea
