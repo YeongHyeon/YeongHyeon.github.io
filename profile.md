@@ -37,7 +37,7 @@ Advisor: Prof. <a href="https://scholar.google.com/citations?user=0tPAxMgAAAAJ&h
 **Research Engineer** <br/>
 *SK Planet Co., Ltd., Rep. of Korea* _(2019.09 - )_ <br/>
   - Research and Develop the Anomaly Detection System
-  - Publications: 4 SCIE papers, 11 international conference papers
+  - Publications: 4 SCIE papers, 12 international conference papers
   - Patents: 4 registered patents
 
 **Research Assistant** <br/>
