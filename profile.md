@@ -13,11 +13,13 @@ yeonghyeon@sk.com / yeonghyeon@g.skku.edu <br/>
 [<a href="https://github.com/YeongHyeon">Github</a>]
 [<a href="https://www.linkedin.com/in/yeonghyeon-park-25aa97138/">LinkedIn</a>]
 
-
+-----
 
 ## Research Interests
 
 Anomaly Detection, Computer Vision, Signal Processing
+
+-----
 
 ## Education
 
@@ -32,6 +34,7 @@ Advisor: Prof. <a href="https://scholar.google.com/citations?user=0tPAxMgAAAAJ&h
 **B.S. in** Digital Information Engineering, Minor in International Business _(2012.02 - 2018.02)_ <br/>
 *Hankuk University of Foreign Studies (HUFS)*, Rep. of Korea
 
+-----
 
 ## Experience
 **Research Engineer** <br/>
@@ -50,6 +53,7 @@ Advisor: Prof. <a href="https://scholar.google.com/citations?user=0tPAxMgAAAAJ&h
 *StoryAnt INC., Rep. of Korea* _(2017.01 - 2017.02)_ <br/> 
   - Research and Develop the Intelligent Archive
 
+-----
 
 ## Publications
 
@@ -83,6 +87,17 @@ Advisor: Prof. <a href="https://scholar.google.com/citations?user=0tPAxMgAAAAJ&h
 * [2022] <ins>YeongHyeon Park</ins>. <strong>"Concise Logarithmic Loss Function for Robust Training of Anomaly Detection Model"</strong> [<a href="https://arxiv.org/abs/2201.05748">arXiv</a>]  
 * [2018] <ins>YeongHyeon Park</ins> and Il Dong Yun. <strong>"Comparison of RNN Encoder-Decoder Models for Anomaly Detection"</strong> [<a href="https://arxiv.org/abs/1807.06576">arXiv</a>]  
 
+-----
+
+## Patents
+* Several pending status patents exist in environmental and industrial fields.
+* KR Patent 1027374770000, <a href="https://doi.org/10.8080/1020230067683?urlappend=en">Management Method of Foreign Matter for Liquid Products based on a Graph and an Device Supporting the Same</a>, Nov.2024.
+* KR Patent 1027374760000, <a href="https://doi.org/10.8080/1020230067682?urlappend=en">Management Method of Foreign Matter for Liquid Products and an Device Supporting the Same</a>, Nov.2024.
+* KR Patent 1024517510000, <a href="https://doi.org/10.8080/1020200025038?urlappend=en">ECG preprocessing method and STEMI detection method</a>, Sep.2022.
+* KR Patent 1023465330000, <a href="https://doi.org/10.8080/1020200057140?urlappend=en">Road condition detection device and system, road condition detection method using the same</a>, Dec.2021.
+* KR Patent 1021790400000, <a href="https://doi.org/10.8080/1020180128383?urlappend=en">Apparatus and Method for Anomaly Detection of SMD Assembly Device Operation based on Deeplearnig</a>, Nov.2020.
+
+-----
 
 ## Certifications
 * NVIDIA DLI Certificate - Deep Learning for Industrial Inspection. NVIDIA
@@ -93,14 +108,7 @@ Advisor: Prof. <a href="https://scholar.google.com/citations?user=0tPAxMgAAAAJ&h
 * Deep Learning Specialization. Coursera
 * Graphic Technical Qualification. Korea Productivity Center
 
-
-## Patents
-* Several pending status patents exist in environmental and industrial fields.
-* KR Patent 1027374770000, <a href="https://doi.org/10.8080/1020230067683?urlappend=en">Management Method of Foreign Matter for Liquid Products based on a Graph and an Device Supporting the Same</a>, Nov.2024.
-* KR Patent 1027374760000, <a href="https://doi.org/10.8080/1020230067682?urlappend=en">Management Method of Foreign Matter for Liquid Products and an Device Supporting the Same</a>, Nov.2024.
-* KR Patent 1024517510000, <a href="https://doi.org/10.8080/1020200025038?urlappend=en">ECG preprocessing method and STEMI detection method</a>, Sep.2022.
-* KR Patent 1023465330000, <a href="https://doi.org/10.8080/1020200057140?urlappend=en">Road condition detection device and system, road condition detection method using the same</a>, Dec.2021.
-* KR Patent 1021790400000, <a href="https://doi.org/10.8080/1020180128383?urlappend=en">Apparatus and Method for Anomaly Detection of SMD Assembly Device Operation based on Deeplearnig</a>, Nov.2020.
+-----
 
 ## Professional Activities 
 
@@ -122,7 +130,7 @@ Advisor: Prof. <a href="https://scholar.google.com/citations?user=0tPAxMgAAAAJ&h
 * <a href="https://2025.ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</a> 2025
 * <a href="https://www.bigcomputing.org/conf2025/index.html">IEEE International Conference on Big Data and Smart Computing (BigComp)</a> 2025
 
-## Additional Activities
+### Additional Activities
 * NVIDIA University Ambassador [<a href="https://learn.nvidia.com/certificates?id=1403c0a68647461485704f0b0041cf86">certificate</a>]  
 * NVIDIA DLI Instructor [<a href="https://learn.nvidia.com/certificates?id=96017e53395a4dacb32dfe69be7d2530">certificate</a>]  
 * Kaggle Notebooks Expert [<a href="https://www.kaggle.com/yeonghyeon">profile</a>]  
