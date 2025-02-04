@@ -112,6 +112,9 @@ Advisor: Prof. <a href="https://scholar.google.com/citations?user=0tPAxMgAAAAJ&h
 
 ## Professional Activities 
 
+### Editorial Board
+* <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering, Elsevier</a> _(2025.02 - )_
+
 ### Journal Reviewer
 * <a href="https://link.springer.com/journal/44196">International Journal of Computational Intelligence Systems</a> _(2024.12 - )_
 * <a href="https://link.springer.com/journal/530">Multimedia Systems</a> _(2024.12 - )_
