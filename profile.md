@@ -91,11 +91,11 @@ Advisor: Prof. <a href="https://scholar.google.com/citations?user=0tPAxMgAAAAJ&h
 
 ## Patents
 * Several pending status patents exist in environmental and industrial fields.
-* KR Patent 1027374770000, <a href="https://doi.org/10.8080/1020230067683?urlappend=en">Management Method of Foreign Matter for Liquid Products based on a Graph and an Device Supporting the Same</a>, Nov.2024.
-* KR Patent 1027374760000, <a href="https://doi.org/10.8080/1020230067682?urlappend=en">Management Method of Foreign Matter for Liquid Products and an Device Supporting the Same</a>, Nov.2024.
-* KR Patent 1024517510000, <a href="https://doi.org/10.8080/1020200025038?urlappend=en">ECG preprocessing method and STEMI detection method</a>, Sep.2022.
-* KR Patent 1023465330000, <a href="https://doi.org/10.8080/1020200057140?urlappend=en">Road condition detection device and system, road condition detection method using the same</a>, Dec.2021.
-* KR Patent 1021790400000, <a href="https://doi.org/10.8080/1020180128383?urlappend=en">Apparatus and Method for Anomaly Detection of SMD Assembly Device Operation based on Deeplearnig</a>, Nov.2020.
+* KR Patent 1027374770000, <a href="https://doi.org/10.8080/1020230067683">Management Method of Foreign Matter for Liquid Products based on a Graph and an Device Supporting the Same</a>, Nov.2024.
+* KR Patent 1027374760000, <a href="https://doi.org/10.8080/1020230067682">Management Method of Foreign Matter for Liquid Products and an Device Supporting the Same</a>, Nov.2024.
+* KR Patent 1024517510000, <a href="https://doi.org/10.8080/1020200025038">ECG preprocessing method and STEMI detection method</a>, Sep.2022.
+* KR Patent 1023465330000, <a href="https://doi.org/10.8080/1020200057140">Road condition detection device and system, road condition detection method using the same</a>, Dec.2021.
+* KR Patent 1021790400000, <a href="https://doi.org/10.8080/1020180128383">Apparatus and Method for Anomaly Detection of SMD Assembly Device Operation based on Deeplearnig</a>, Nov.2020.
 
 -----
 
