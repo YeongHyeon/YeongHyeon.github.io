@@ -4,12 +4,12 @@ permalink: "/about/"
 layout: post
 ---
 
-<table style="border: none; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td style="width: 230px; vertical-align: top; border: none; background: transparent;">
-      <img src="https://github.com/YeongHyeon/YeongHyeon.github.io/blob/master/images/profile.jpeg?raw=true" width="230">
+<table style="border: none; border-collapse: collapse; border-spacing: 0; background: transparent;">
+  <tr>
+    <td style="width: 230px; vertical-align: top; border: none;">
+      <img src="https://github.com/YeongHyeon/YeongHyeon.github.io/blob/master/images/profile.jpeg?raw=true" width="230" alt="Profile">
     </td>
-    <td style="vertical-align: top; border: none; background: transparent;">
+    <td style="vertical-align: top; border: none;">
       <h1>YeongHyeon Park</h1>
       <p>yeonghyeon@sk.com / yeonghyeon@g.skku.edu</p>
       <p>
