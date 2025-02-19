@@ -4,14 +4,35 @@ permalink: "/about/"
 layout: post
 ---
 
-<img src="https://github.com/YeongHyeon/YeongHyeon.github.io/blob/master/images/profile.jpeg?raw=true" width="250"><br/>   
-
-# YeongHyeon Park
-yeonghyeon@sk.com / yeonghyeon@g.skku.edu <br/>
-[<a href="https://yeonghyeon.github.io/resume/CV_YeongHyeon.pdf">CV</a>]
-[<a href="https://scholar.google.com/citations?hl=en&user=cZq6j0MAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>]
-[<a href="https://github.com/YeongHyeon">Github</a>]
-[<a href="https://www.linkedin.com/in/yeonghyeon-park-25aa97138/">LinkedIn</a>]
+<table>
+    <tr>
+        <td style="width: 230px; vertical-align: top;">
+            <img src="https://github.com/YeongHyeon/YeongHyeon.github.io/blob/master/images/profile.jpeg?raw=true" width="230">
+        </td>
+        <td style="vertical-align: top;">
+            <h1>YeongHyeon Park</h1>
+            <p>yeonghyeon@sk.com / yeonghyeon@g.skku.edu</p>
+            <p>
+                <a href="https://yeonghyeon.github.io/resume/CV_YeongHyeon.pdf">
+                    <img src="https://cdn-icons-png.flaticon.com/128/2991/2991108.png" width="16">
+                    CV
+                </a> |
+                <a href="https://scholar.google.com/citations?hl=en&user=cZq6j0MAAAAJ&view_op=list_works&sortby=pubdate">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="16">
+                    Google Scholar
+                </a> |
+                <a href="https://github.com/YeongHyeon">
+                    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16">
+                    Github
+                </a> |
+                <a href="https://www.linkedin.com/in/yeonghyeon-park-25aa97138/">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="16">
+                    LinkedIn
+                </a>
+            </p>
+        </td>
+    </tr>
+</table>
 
 -----
 
