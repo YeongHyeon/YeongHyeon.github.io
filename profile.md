@@ -11,7 +11,7 @@ layout: post
   <a href="https://yeonghyeon.github.io/resume/CV_YeongHyeon.pdf">
     <img src="https://img.shields.io/badge/CV-Download-blue?style=flat-square&logo=adobeacrobatreader" alt="CV">
   </a>
-  <a href="https://scholar.google.com/citations?hl=en&user=cZq6j0MAAAAJ&view_op=list_works&sortby=pubdate">
+  <a href="https://scholar.google.com/citations?hl=en&user=cZq6j0MAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar">
   </a>
   <a href="https://github.com/YeongHyeon">
