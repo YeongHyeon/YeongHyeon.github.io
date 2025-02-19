@@ -4,34 +4,30 @@ permalink: "/about/"
 layout: post
 ---
 
-<table>
-    <tr>
-        <td style="width: 230px; vertical-align: top;">
-            <img src="https://github.com/YeongHyeon/YeongHyeon.github.io/blob/master/images/profile.jpeg?raw=true" width="230">
-        </td>
-        <td style="vertical-align: top;">
-            <h1>YeongHyeon Park</h1>
-            <p>yeonghyeon@sk.com / yeonghyeon@g.skku.edu</p>
-            <p>
-                <a href="https://yeonghyeon.github.io/resume/CV_YeongHyeon.pdf">
-                    <img src="https://cdn-icons-png.flaticon.com/128/2991/2991108.png" width="16">
-                    CV
-                </a> |
-                <a href="https://scholar.google.com/citations?hl=en&user=cZq6j0MAAAAJ&view_op=list_works&sortby=pubdate">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="16">
-                    Google Scholar
-                </a> |
-                <a href="https://github.com/YeongHyeon">
-                    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16">
-                    Github
-                </a> |
-                <a href="https://www.linkedin.com/in/yeonghyeon-park-25aa97138/">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="16">
-                    LinkedIn
-                </a>
-            </p>
-        </td>
-    </tr>
+<table style="border: none; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td style="width: 230px; vertical-align: top; border: none; background: transparent;">
+      <img src="https://github.com/YeongHyeon/YeongHyeon.github.io/blob/master/images/profile.jpeg?raw=true" width="230">
+    </td>
+    <td style="vertical-align: top; border: none; background: transparent;">
+      <h1>YeongHyeon Park</h1>
+      <p>yeonghyeon@sk.com / yeonghyeon@g.skku.edu</p>
+      <p>
+        <a href="https://yeonghyeon.github.io/resume/CV_YeongHyeon.pdf">
+          <img src="https://img.shields.io/badge/CV-Download-blue?style=flat-square&logo=adobeacrobatreader" alt="CV">
+        </a>
+        <a href="https://scholar.google.com/citations?hl=en&user=cZq6j0MAAAAJ&view_op=list_works&sortby=pubdate">
+          <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar">
+        </a>
+        <a href="https://github.com/YeongHyeon">
+          <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" alt="Github">
+        </a>
+        <a href="https://www.linkedin.com/in/yeonghyeon-park-25aa97138/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 -----
