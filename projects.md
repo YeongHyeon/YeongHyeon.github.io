@@ -9,6 +9,16 @@ layout: post
 
 <div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
   <div style="width: 100%; aspect-ratio: 1 / 1; overflow: hidden;">
+    <a href="https://arxiv.org/abs/2411.07546v2">  
+      <img src="/images/projects/clap.png" 
+        style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+    </a>
+  </div>
+  <h4>Medical Anomaly Detection with VLM</h4>
+</div>
+
+<div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
+  <div style="width: 100%; aspect-ratio: 1 / 1; overflow: hidden;">
     <a href="https://www.nature.com/articles/s41598-024-69698-5">  
       <img src="/images/projects/ear.png" 
         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
