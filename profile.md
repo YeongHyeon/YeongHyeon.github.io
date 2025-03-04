@@ -32,39 +32,39 @@ Anomaly Detection, Computer Vision, Signal Processing
 
 ## Education
 
-**Ph.D. in** Electrical and Computer Engineering _(Feb. 2022 - Feb. 2025)_ <br/>
+**Ph.D. in** Electrical and Computer Engineering _(Feb.2022 - Feb.2025)_ <br/>
 *SungKyunKwan University*, Rep. of Korea  
 Advisor: Prof. <a href="https://scholar.google.com/citations?user=LI9f-mwAAAAJ&hl=en">Juneho Yi</a>
 
-**M.S. in** Computer and Electronic Systems Engineering _(Mar. 2018 - Feb. 2020)_ <br/>
+**M.S. in** Computer and Electronic Systems Engineering _(Mar.2018 - Feb.2020)_ <br/>
 *Hankuk University of Foreign Studies*, Rep. of Korea  
 Advisor: Prof. <a href="https://scholar.google.com/citations?user=0tPAxMgAAAAJ&hl=en">Il Dong Yun</a>
 
-**B.S. in** Digital Information Engineering, Minor in International Business _(Feb. 2012 - Feb. 2018)_ <br/>
+**B.S. in** Digital Information Engineering, Minor in International Business _(Feb.2012 - Feb.2018)_ <br/>
 *Hankuk University of Foreign Studies (HUFS)*, Rep. of Korea
 
 -----
 
 ## Experience
 **Research Engineer** <br/>
-*SK Planet Co., Ltd., Rep. of Korea* _(Sep. 2019 - )_ <br/>
+*SK Planet Co., Ltd., Rep. of Korea* _(Sep.2019 - )_ <br/>
   - Research and Develop the Anomaly Detection System
   - Publications: 4 SCIE papers, 12 international conference papers (including work from research at SungKyunKwan University)
   - Patents: 4 registered patents
 
 **Research Assistant** <br/>
-*Computer Vision Lab. SungKyunKwan University, Rep. of Korea* _(Oct. 2021 - Jan. 2025)_ <br/>
+*Computer Vision Lab. SungKyunKwan University, Rep. of Korea* _(Oct.2021 - Jan.2025)_ <br/>
   - Research on Biosignal Analysis, Medical Image Analysis, and Anomaly Detection
   - Publications: 2 SCIE papers, 6 international conference papers
  
 **Research Assistant** <br/>
-*Vision & Signal Processing Lab. Hankuk University of Foreign Studies, Rep. of Korea* _(Sep. 2017 - Aug. 2019)_ <br/>
+*Vision & Signal Processing Lab. Hankuk University of Foreign Studies, Rep. of Korea* _(Sep.2017 - Aug.2019)_ <br/>
   - Research on Biosignal Analysis, Medical Image Analysis, and Anomaly Detection
   - Publications: 4 SCIE papers 
   - Patents: 2 registered patents
 
 **Research Intern** <br/>
-*StoryAnt INC., Rep. of Korea* _(Jan. 2017 - Feb. 2017)_ <br/> 
+*StoryAnt INC., Rep. of Korea* _(Jan.2017 - Feb.2017)_ <br/> 
   - Research and Develop the Intelligent Archive
 
 -----
@@ -128,20 +128,20 @@ Advisor: Prof. <a href="https://scholar.google.com/citations?user=0tPAxMgAAAAJ&h
 ## Professional Activities 
 
 ### Editorial Board
-* <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering, Elsevier</a> _(Feb. 2025 - )_
+* <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering, Elsevier</a> _(Feb.2025 - )_
 
 ### Journal Reviewer
-* <a href="https://link.springer.com/journal/44196">International Journal of Computational Intelligence Systems</a> _(Dec. 2024 - )_
-* <a href="https://link.springer.com/journal/530">Multimedia Systems</a> _(Dec. 2024 - )_
-* <a href="https://link.springer.com/journal/44163">Discover Artificial Intelligence</a> _(Oct. 2024 - )_
-* <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</a> _(Sep. 2024 - )_
-* <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97">IEEE Signal Processing Letters</a> _(Aug. 2024 - )_
-* <a href="https://link.springer.com/journal/10921">Journal of Nondestructive Evaluation</a> _(Mar. 2024 - )_   
-* <a href="https://ietresearch.onlinelibrary.wiley.com/journal/1350911x">Electronics Letters</a> _(Jan. 2024 - )_   
-* <a href="https://link.springer.com/journal/11760">Signal, Image and Video Processing</a> _(Jan. 2024 - )_   
-* <a href="https://www.nature.com/srep/">Scientific Reports</a> _(Sep. 2023 - )_
-* <a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a> _(Aug. 2023 - )_
-* <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a> _(Jun. 2021 - )_
+* <a href="https://link.springer.com/journal/44196">International Journal of Computational Intelligence Systems</a> _(Dec.2024 - )_
+* <a href="https://link.springer.com/journal/530">Multimedia Systems</a> _(Dec.2024 - )_
+* <a href="https://link.springer.com/journal/44163">Discover Artificial Intelligence</a> _(Oct.2024 - )_
+* <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</a> _(Sep.2024 - )_
+* <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97">IEEE Signal Processing Letters</a> _(Aug.2024 - )_
+* <a href="https://link.springer.com/journal/10921">Journal of Nondestructive Evaluation</a> _(Mar.2024 - )_   
+* <a href="https://ietresearch.onlinelibrary.wiley.com/journal/1350911x">Electronics Letters</a> _(Jan.2024 - )_   
+* <a href="https://link.springer.com/journal/11760">Signal, Image and Video Processing</a> _(Jan.2024 - )_   
+* <a href="https://www.nature.com/srep/">Scientific Reports</a> _(Sep.2023 - )_
+* <a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a> _(Aug.2023 - )_
+* <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a> _(Jun.2021 - )_
 
 ### Conference Reviewer
 * <a href="https://2025.ijcnn.org/">IEEE International Joint Conference on Neural Networks (IJCNN)</a> 2025
