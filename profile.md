@@ -34,13 +34,13 @@ Anomaly Detection, Computer Vision, Signal Processing
 
 **Ph.D. in** Electrical and Computer Engineering _(Feb.2022 - Feb.2025)_ <br/>
 *SungKyunKwan University*, Rep. of Korea  
-Advisor: Prof. <a href="https://scholar.google.com/citations?user=LI9f-mwAAAAJ&hl=en">Juneho Yi</a>
-<a href="https://dcollection.skku.edu/srch/srchDetail/000000180997?localeParam=en">Dissertation</a>
+Advisor: Prof. <a href="https://scholar.google.com/citations?user=LI9f-mwAAAAJ&hl=en">Juneho Yi</a>  
+<a href="https://dcollection.skku.edu/srch/srchDetail/000000180997?localeParam=en">Dissertation</a>  
 
 **M.S. in** Computer and Electronic Systems Engineering _(Mar.2018 - Feb.2020)_ <br/>
 *Hankuk University of Foreign Studies*, Rep. of Korea  
-Advisor: Prof. <a href="https://scholar.google.com/citations?user=0tPAxMgAAAAJ&hl=en">Il Dong Yun</a>
-<a href="https://lib.hufs.ac.kr/en/#/search/detail/2032364">Thesis</a>
+Advisor: Prof. <a href="https://scholar.google.com/citations?user=0tPAxMgAAAAJ&hl=en">Il Dong Yun</a>  
+<a href="https://lib.hufs.ac.kr/en/#/search/detail/2032364">Thesis</a>  
 
 **B.S. in** Digital Information Engineering, Minor in International Business _(Feb.2012 - Feb.2018)_ <br/>
 *Hankuk University of Foreign Studies (HUFS)*, Rep. of Korea
