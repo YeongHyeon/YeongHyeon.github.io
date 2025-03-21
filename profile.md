@@ -17,7 +17,7 @@ layout: post
   <a href="https://github.com/YeongHyeon">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github">
   </a>
-  <a href="[https://github.com/YeongHyeon](https://huggingface.co/YeongHyeon)">
+  <a href="https://huggingface.co/YeongHyeon">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="HuggingFace">
   </a>
   <a href="https://www.linkedin.com/in/yeonghyeon-park-25aa97138/">
@@ -37,13 +37,13 @@ Anomaly Detection, Computer Vision, Signal Processing
 
 **Ph.D. in** Electrical and Computer Engineering _(Feb.2022 - Feb.2025)_ <br/>
 *SungKyunKwan University*, Rep. of Korea  
-Advisor: Prof. <a href="https://scholar.google.com/citations?user=LI9f-mwAAAAJ&hl=en">Juneho Yi</a>  
-<a href="https://dcollection.skku.edu/srch/srchDetail/000000180997?localeParam=en">Dissertation</a>  
+  - Dissertation: <a href="https://dcollection.skku.edu/srch/srchDetail/000000180997?localeParam=en">Effective Anomaly Detection Towards Edge Computing by Leveraging Pre-trained Attention Mechanisms</a>  
+  - Advisor: Prof. <a href="https://scholar.google.com/citations?user=LI9f-mwAAAAJ&hl=en">Juneho Yi</a>  
 
 **M.S. in** Computer and Electronic Systems Engineering _(Mar.2018 - Feb.2020)_ <br/>
 *Hankuk University of Foreign Studies*, Rep. of Korea  
-Advisor: Prof. <a href="https://scholar.google.com/citations?user=0tPAxMgAAAAJ&hl=en">Il Dong Yun</a>  
-<a href="https://lib.hufs.ac.kr/en/#/search/detail/2032364">Thesis</a>  
+  - Thesis: <a href="https://lib.hufs.ac.kr/en/#/search/detail/2032364">Performance Improvement based on Preprocessing Method in CNN-based STEIM Detection</a>  
+  - Advisor: Prof. <a href="https://scholar.google.com/citations?user=0tPAxMgAAAAJ&hl=en">Il Dong Yun</a>  
 
 **B.S. in** Digital Information Engineering, Minor in International Business _(Feb.2012 - Feb.2018)_ <br/>
 *Hankuk University of Foreign Studies (HUFS)*, Rep. of Korea
