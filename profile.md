@@ -14,6 +14,8 @@ layout: post
   <a href="https://scholar.google.com/citations?hl=en&user=cZq6j0MAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar">
   </a>
+</p>
+<p>
   <a href="https://github.com/YeongHyeon">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github">
   </a>
