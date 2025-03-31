@@ -105,7 +105,6 @@ Anomaly Detection, Computer Vision, Signal Processing
 * [2021] <ins>YeongHyeon Park</ins> and Myung Jin Kim. <strong>"Design of Cost-Effective Auto-Encoder for Electric Motor Anomaly Detection in Resource Constrained Edge Device"</strong> IEEE ECICE [<a href="https://ieeexplore.ieee.org/document/9645739">paper</a>]  
 
 ### Preprints
-* [2024] <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Hyeong Seok Kim, and Juneho Yi. <strong>"Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection"</strong> [<a href="https://arxiv.org/abs/2407.04597">arXiv</a>]  
 * [2024] Dongeon Kim, <ins>YeongHyeon Park</ins>. <strong>"Empirical Analysis of Anomaly Detection on Hyperspectral Imaging Using Dimension Reduction Methods"</strong> [<a href="https://arxiv.org/abs/2401.04437">arXiv</a>]  
 * [2022] <ins>YeongHyeon Park</ins>. <strong>"Concise Logarithmic Loss Function for Robust Training of Anomaly Detection Model"</strong> [<a href="https://arxiv.org/abs/2201.05748">arXiv</a>]  
 * [2018] <ins>YeongHyeon Park</ins> and Il Dong Yun. <strong>"Comparison of RNN Encoder-Decoder Models for Anomaly Detection"</strong> [<a href="https://arxiv.org/abs/1807.06576">arXiv</a>]  
