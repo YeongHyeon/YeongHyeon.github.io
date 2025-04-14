@@ -134,11 +134,9 @@ Anomaly Detection, Computer Vision, Signal Processing
 
 ## Professional Activities 
 
-### Editorial Board
-* <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering, Elsevier</a> _(Feb.2025 - )_
-
 ### Journal Reviewer
 * <a href="https://www.sciencedirect.com/journal/results-in-engineering">Results in Engineering</a> _(Apr.2025 - )_
+* <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering</a> _(Feb.2025 - )_
 * <a href="https://link.springer.com/journal/44196">International Journal of Computational Intelligence Systems</a> _(Dec.2024 - )_
 * <a href="https://link.springer.com/journal/530">Multimedia Systems</a> _(Dec.2024 - )_
 * <a href="https://link.springer.com/journal/44163">Discover Artificial Intelligence</a> _(Oct.2024 - )_
