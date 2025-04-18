@@ -49,6 +49,7 @@ Anomaly Detection, Computer Vision, Signal Processing
 
 **B.S. in** Digital Information Engineering, Minor in International Business _(Feb.2012 - Feb.2018)_ <br/>
 *Hankuk University of Foreign Studies (HUFS)*, Rep. of Korea
+   - Military Service _(Aug.2013 - May.2015)_
 
 -----
 
