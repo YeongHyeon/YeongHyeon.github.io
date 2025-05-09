@@ -37,27 +37,17 @@ Anomaly Detection, Computer Vision, Signal Processing
 
 ## Education
 
-**Ph.D. in** Electrical and Computer Engineering _(Feb.2022 - Feb.2025)_ <br/>
-*SungKyunKwan University*, Rep. of Korea  
-  - Dissertation: <a href="https://dcollection.skku.edu/srch/srchDetail/000000180997?localeParam=en">Effective Anomaly Detection Towards Edge Computing by Leveraging Pre-trained Attention Mechanisms</a>  
-  - Advisor: Prof. <a href="https://scholar.google.com/citations?user=LI9f-mwAAAAJ&hl=en">Juneho Yi</a>  
-
-**M.S. in** Computer and Electronic Systems Engineering _(Mar.2018 - Feb.2020)_ <br/>
-*Hankuk University of Foreign Studies*, Rep. of Korea  
-  - Thesis: <a href="https://lib.hufs.ac.kr/en/#/search/detail/2032364">Performance Improvement based on Preprocessing Method in CNN-based STEIM Detection</a>  
-  - Advisor: Prof. <a href="https://scholar.google.com/citations?user=0tPAxMgAAAAJ&hl=en">Il Dong Yun</a>  
-
-**B.S. in** Digital Information Engineering, Minor in International Business _(Feb.2012 - Feb.2018)_ <br/>
-*Hankuk University of Foreign Studies (HUFS)*, Rep. of Korea
-   - Military Service _(Aug.2013 - May.2015)_
++ Ph.D., Electrical and Computer Engineering at *SungKyunKwan University* _(Feb.2022 - Feb.2025)_ <br/>
++ M.S., Computer and Electronic Systems Engineering at *Hankuk University of Foreign Studies* _(Mar.2018 - Feb.2020)_ <br/>
++ B.S., Digital Information Engineering at *Hankuk University of Foreign Studies (HUFS)* _(Feb.2012 - Feb.2018)_ <br/>
 
 -----
 
 ## Experience
-**Research Engineer**, *SK Planet Co., Ltd., Rep. of Korea* _(Sep.2019 - Apr.2025)_ <br/>
-**Research Assistant**, *Computer Vision Lab. SungKyunKwan University, Rep. of Korea* _(Oct.2021 - Jan.2025)_ <br/> 
-**Research Assistant**, *Vision & Signal Processing Lab. Hankuk University of Foreign Studies, Rep. of Korea* _(Sep.2017 - Aug.2019)_ <br/>
-**Research Intern**, *StoryAnt INC., Rep. of Korea* _(Jan.2017 - Feb.2017)_ <br/> 
++ Research Engineer, *SK Planet Co., Ltd.* _(Sep.2019 - Apr.2025)_ <br/>
++ Research Assistant, *Computer Vision Lab. SungKyunKwan University* _(Oct.2021 - Jan.2025)_ <br/> 
++ Research Assistant, *Vision & Signal Processing Lab. Hankuk University of Foreign Studies* _(Sep.2017 - Aug.2019)_ <br/>
++ Research Intern, *StoryAnt INC.* _(Jan.2017 - Feb.2017)_ <br/> 
 
 -----
 
