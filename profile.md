@@ -51,40 +51,28 @@ Anomaly Detection, Computer Vision, Signal Processing
 
 -----
 
-## Certifications
-* NVIDIA DLI Certificate - Deep Learning for Industrial Inspection. NVIDIA
-* Big Data Analysis Engineer. KOREA Data Agency
-* NVIDIA DLI Certificate - Applications of AI for Anomaly Detection. NVIDIA
-* Advanced Data Analytics Semi-Professional. KOREA Data Agency
-* COVID19 Data Analysis Using Python. Coursera
-* Deep Learning Specialization. Coursera
-* Graphic Technical Qualification. Korea Productivity Center
-
------
-
-## Professional Activities 
+## Activities 
 
 ### Journal Reviewer
-* <a href="https://www.sciencedirect.com/journal/results-in-engineering">Results in Engineering</a> _(Apr.2025 - )_
-* <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering</a> _(Feb.2025 - )_
-* <a href="https://link.springer.com/journal/44196">International Journal of Computational Intelligence Systems</a> _(Dec.2024 - )_
-* <a href="https://link.springer.com/journal/530">Multimedia Systems</a> _(Dec.2024 - )_
-* <a href="https://link.springer.com/journal/44163">Discover Artificial Intelligence</a> _(Oct.2024 - )_
-* <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</a> _(Sep.2024 - )_
-* <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97">IEEE Signal Processing Letters</a> _(Aug.2024 - )_
-* <a href="https://link.springer.com/journal/10921">Journal of Nondestructive Evaluation</a> _(Mar.2024 - )_   
-* <a href="https://ietresearch.onlinelibrary.wiley.com/journal/1350911x">Electronics Letters</a> _(Jan.2024 - )_   
-* <a href="https://link.springer.com/journal/11760">Signal, Image and Video Processing</a> _(Jan.2024 - )_   
-* <a href="https://www.nature.com/srep/">Scientific Reports</a> _(Sep.2023 - )_
-* <a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a> _(Aug.2023 - )_
-* <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a> _(Jun.2021 - )_
++ <a href="https://www.sciencedirect.com/journal/results-in-engineering">Results in Engineering</a> _(Apr.2025 - )_
++ <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering</a> _(Feb.2025 - )_
++ <a href="https://link.springer.com/journal/44196">International Journal of Computational Intelligence Systems</a> _(Dec.2024 - )_
++ <a href="https://link.springer.com/journal/530">Multimedia Systems</a> _(Dec.2024 - )_
++ <a href="https://link.springer.com/journal/44163">Discover Artificial Intelligence</a> _(Oct.2024 - )_
++ <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</a> _(Sep.2024 - )_
++ <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97">IEEE Signal Processing Letters</a> _(Aug.2024 - )_
++ <a href="https://link.springer.com/journal/10921">Journal of Nondestructive Evaluation</a> _(Mar.2024 - )_   
++ <a href="https://ietresearch.onlinelibrary.wiley.com/journal/1350911x">Electronics Letters</a> _(Jan.2024 - )_   
++ <a href="https://link.springer.com/journal/11760">Signal, Image and Video Processing</a> _(Jan.2024 - )_   
++ <a href="https://www.nature.com/srep/">Scientific Reports</a> _(Sep.2023 - )_
++ <a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a> _(Aug.2023 - )_
++ <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a> _(Jun.2021 - )_
 
 ### Conference Reviewer
-* <a href="https://2025.ijcnn.org/">IEEE International Joint Conference on Neural Networks (IJCNN)</a> 2025
-* <a href="https://2025.ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</a> 2025
-* <a href="https://www.bigcomputing.org/conf2025/index.html">IEEE International Conference on Big Data and Smart Computing (BigComp)</a> 2025
++ <a href="https://2025.ijcnn.org/">IEEE International Joint Conference on Neural Networks (IJCNN)</a> 2025
++ <a href="https://2025.ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</a> 2025
++ <a href="https://www.bigcomputing.org/conf2025/index.html">IEEE International Conference on Big Data and Smart Computing (BigComp)</a> 2025
 
 ### Additional Activities
 * NVIDIA University Ambassador [<a href="https://learn.nvidia.com/certificates?id=1403c0a68647461485704f0b0041cf86">certificate</a>]  
 * NVIDIA DLI Instructor [<a href="https://learn.nvidia.com/certificates?id=96017e53395a4dacb32dfe69be7d2530">certificate</a>]  
-* Kaggle Notebooks Expert [<a href="https://www.kaggle.com/yeonghyeon">profile</a>]  

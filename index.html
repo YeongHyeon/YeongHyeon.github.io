@@ -13,7 +13,6 @@ layout: default
 <div id="image-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
 
   <script>
-  // 이미지 데이터 배열
   const images = [
     { link: "https://yeonghyeon.github.io/travel_europe_zurich1/", src: "/images/2024-02_Europe/240216_Zurich/IMG_6299.jpeg" },
     { link: "https://yeonghyeon.github.io/travel_europe_zurich2/", src: "/images/2024-02_Europe/240217_Zurich/IMG_6371.jpeg" },
@@ -27,7 +26,6 @@ layout: default
     { link: "https://yeonghyeon.github.io/travel_europe_firenze2/", src: "/images/2024-02_Europe/240227_Firenze/IMG_7763.jpeg" }
   ];
   
-  // 배열을 랜덤하게 섞는 함수 (Fisher-Yates 알고리즘)
   function shuffleArray(array) {
     for (let i = array.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
@@ -36,10 +34,8 @@ layout: default
     return array;
   }
   
-  // 랜덤 섞기 적용
   const shuffledImages = shuffleArray(images);
   
-  // DOM에 이미지 추가
   const grid = document.getElementById('image-grid');
   shuffledImages.forEach(image => {
     const div = document.createElement('div');
