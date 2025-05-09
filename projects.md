@@ -6,6 +6,16 @@ layout: post
 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+ 
+<div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
+  <div style="width: 100%; aspect-ratio: 1 / 1; overflow: hidden;">
+    <a href="https://arxiv.org/abs/2407.04597">  
+      <img src="/images/projects/fader.png" 
+        style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+    </a>
+  </div>
+  <h4>FADeR, Industrial Anomaly Detection</h4>
+</div>
 
 <div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
   <div style="width: 100%; aspect-ratio: 1 / 1; overflow: hidden;">
@@ -14,7 +24,7 @@ layout: post
         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
     </a>
   </div>
-  <h4>Medical Anomaly Detection with VLM</h4>
+  <h4>CLAP, Medical Anomaly Detection with VLM</h4>
 </div>
 
 <div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
@@ -24,7 +34,7 @@ layout: post
         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
     </a>
   </div>
-  <h4>Industrial Anomaly Detection</h4>
+  <h4>EAR, Industrial Anomaly Detection</h4>
 </div>
 
 <div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
@@ -34,7 +44,7 @@ layout: post
         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
     </a>
   </div>
-  <h4>Loss Function Transformation</h4>
+  <h4>LAMP, Loss Function Transformation</h4>
 </div>
 
 <div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
@@ -84,7 +94,7 @@ layout: post
         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
     </a>
   </div>
-  <h4>Sensor Anomaly Detection</h4>
+  <h4>HP-GAN, Sensor Anomaly Detection</h4>
 </div>
 
 <div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
@@ -104,7 +114,7 @@ layout: post
         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
     </a>
   </div>
-  <h4>SMD Anomaly Detection</h4>
+  <h4>FARED, SMD Anomaly Detection</h4>
 </div>
 
 </div>
