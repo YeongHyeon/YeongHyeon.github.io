@@ -6,7 +6,7 @@ layout: post
 
 <img src="https://github.com/YeongHyeon/YeongHyeon.github.io/blob/master/images/profile.jpeg?raw=true" width="230" alt="Profile">
 <h2>YeongHyeon Park, Ph.D.</h2>
-<p>yeonghyeon@sk.com / yeonghyeon@g.skku.edu</p>
+<p>yeonghyeon@g.skku.edu</p>
 <p>
   <a href="https://yeonghyeon.github.io/resume/CV_YeongHyeon.pdf">
     <img src="https://img.shields.io/badge/CV-Download-blue?style=flat-square&logo=adobeacrobatreader" alt="CV">
