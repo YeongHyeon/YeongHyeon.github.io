@@ -54,26 +54,10 @@ Anomaly Detection, Computer Vision, Signal Processing
 -----
 
 ## Experience
-**Research Engineer** <br/>
-*SK Planet Co., Ltd., Rep. of Korea* _(Sep.2019 - )_ <br/>
-  - Research and Develop the Anomaly Detection System
-  - Publications: 4 SCIE papers, 12 international conference papers (including work from research at SungKyunKwan University)
-  - Patents: 4 registered patents
-
-**Research Assistant** <br/>
-*Computer Vision Lab. SungKyunKwan University, Rep. of Korea* _(Oct.2021 - Jan.2025)_ <br/>
-  - Research on Biosignal Analysis, Medical Image Analysis, and Anomaly Detection
-  - Publications: 2 SCIE papers, 6 international conference papers
- 
-**Research Assistant** <br/>
-*Vision & Signal Processing Lab. Hankuk University of Foreign Studies, Rep. of Korea* _(Sep.2017 - Aug.2019)_ <br/>
-  - Research on Biosignal Analysis, Medical Image Analysis, and Anomaly Detection
-  - Publications: 4 SCIE papers 
-  - Patents: 2 registered patents
-
-**Research Intern** <br/>
-*StoryAnt INC., Rep. of Korea* _(Jan.2017 - Feb.2017)_ <br/> 
-  - Research and Develop the Intelligent Archive
+**Research Engineer**, *SK Planet Co., Ltd., Rep. of Korea* _(Sep.2019 - Apr.2025)_ <br/>
+**Research Assistant**, *Computer Vision Lab. SungKyunKwan University, Rep. of Korea* _(Oct.2021 - Jan.2025)_ <br/> 
+**Research Assistant**, *Vision & Signal Processing Lab. Hankuk University of Foreign Studies, Rep. of Korea* _(Sep.2017 - Aug.2019)_ <br/>
+**Research Intern**, *StoryAnt INC., Rep. of Korea* _(Jan.2017 - Feb.2017)_ <br/> 
 
 -----
 
@@ -90,7 +74,7 @@ Anomaly Detection, Computer Vision, Signal Processing
 * [2018] <ins>YeongHyeon Park</ins> and Il Dong Yun. <strong>"Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine"</strong> *Sensors* [<a href="https://www.mdpi.com/1424-8220/18/10/3573">paper</a>]  
   
 ### International Conference
-* [2025] <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Hyeong Seok Kim, and Juneho Yi. <strong>"Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection"</strong> CVPR-W VAND3.0 _(Accepted)_ [<a href="https://arxiv.org/abs/2407.04597">arXiv</a>]  
+* [2025] <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Hyeong Seok Kim, and Juneho Yi. <strong>"Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection"</strong> CVPR-W VAND3.0 _(Accepted)_ [<a href="https://arxiv.org/abs/2407.04597">arXiv</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2025-CVPRW-FADeR.pdf">poster</a>]  
 * [2025] <ins>YeongHyeon Park</ins>, Myung Jin Kim, and Hyeong Seok Kim. <strong>"Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection"</strong> IEEE ISBI _(Accepted)_ [<a href="https://arxiv.org/abs/2411.07546v2">arXiv</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2025-ISBI_Park.pdf">poster</a>]  
 * [2025] Myung Jin Kim <ins>YeongHyeon Park</ins>. <strong>"Encouraging LLM Thought Improvements for Medical Diagnosis Consistency"</strong> IEEE ISBI (1-Page Paper) _(Accepted)_ [<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2025-ISBI_Kim.pdf">poster</a>]  
 * [2024] <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Yeonho Lee, and Juneho Yi. <strong>"Exploiting Connection-Switching U-Net for Enhancing Surface Anomaly Detection"</strong> IEEE ICECIE [<a href="https://ieeexplore.ieee.org/document/10815658">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2024-IEEE_ICECIE.pdf">slide</a>]
