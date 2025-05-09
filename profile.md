@@ -51,51 +51,6 @@ Anomaly Detection, Computer Vision, Signal Processing
 
 -----
 
-## Publications
-
-### International Journal
-* [2024] <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Yeonho Lee, Hyeong Seok Kim, and Juneho Yi. <strong>"Visual Defect Obfuscation Based Self-Supervised Anomaly Detection"</strong> *Scientific Reports* [<a href="https://www.nature.com/articles/s41598-024-69698-5">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2024-SciRep.pdf">poster</a>]  
-* [2023] <ins>YeongHyeon Park</ins>, Myung Jin Kim, Uju Gim, and Juneho Yi. <strong>"Boost-up Efficiency of Defective Solar Panel Detection with Pre-trained Attention Recycling"</strong> *IEEE T-IA* [<a href="https://ieeexplore.ieee.org/document/10065567">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2023-IEEE-TIA.pdf">slide</a>]  
-* [2022] <ins>YeongHyeon Park</ins> and JongHee Jung. <strong>"Efficient Non-Compression Auto-Encoder for Driving Noise-Based Road Surface Anomaly Detection"</strong> *IEEJ T-EEE* [<a href="https://doi.org/10.1002/tee.23672">paper</a>]  
-* [2020] <ins>YeongHyeon Park</ins>, Won Seok Park, and Yeong Beom Kim. <strong>"Anomaly Detection in Particulate Matter Sensor using Hypothesis Pruning Generative Adversarial Network"</strong> *ETRI Journal* [<a href="https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2020-0052">paper</a>]  
-* [2020] <ins>YeongHyeon Park</ins>, Il Dong Yun, and Si-Hyuck Kang. <strong>"The CNN-based Coronary Occlusion Site Localization with Effective Preprocessing Method"</strong> *IEEJ T-EEE* [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.23225">paper</a>]  
-* [2019] <ins>YeongHyeon Park</ins>, Il Dong Yun, and Si-Hyuck Kang. <strong>"Preprocessing Method for Performance Enhancement in CNN-based STEMI Detection from 12-lead ECG"</strong> *IEEE Access* [<a href="https://ieeexplore.ieee.org/abstract/document/8771175">paper</a>]  
-* [2019] <ins>YeongHyeon Park</ins> and Il Dong Yun. <strong>"Arrhythmia detection in electrocardiogram based on recurrent neural network encoder–decoder with Lyapunov exponent"</strong> *IEEJ T-EEE* [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.22927">paper</a>]  
-* [2018] <ins>YeongHyeon Park</ins> and Il Dong Yun. <strong>"Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine"</strong> *Sensors* [<a href="https://www.mdpi.com/1424-8220/18/10/3573">paper</a>]  
-  
-### International Conference
-* [2025] <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Hyeong Seok Kim, and Juneho Yi. <strong>"Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection"</strong> CVPR-W VAND3.0 _(Accepted)_ [<a href="https://arxiv.org/abs/2407.04597">arXiv</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2025-CVPRW-FADeR.pdf">poster</a>]  
-* [2025] <ins>YeongHyeon Park</ins>, Myung Jin Kim, and Hyeong Seok Kim. <strong>"Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection"</strong> IEEE ISBI _(Accepted)_ [<a href="https://arxiv.org/abs/2411.07546v2">arXiv</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2025-ISBI_Park.pdf">poster</a>]  
-* [2025] Myung Jin Kim <ins>YeongHyeon Park</ins>. <strong>"Encouraging LLM Thought Improvements for Medical Diagnosis Consistency"</strong> IEEE ISBI (1-Page Paper) _(Accepted)_ [<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2025-ISBI_Kim.pdf">poster</a>]  
-* [2024] <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Yeonho Lee, and Juneho Yi. <strong>"Exploiting Connection-Switching U-Net for Enhancing Surface Anomaly Detection"</strong> IEEE ICECIE [<a href="https://ieeexplore.ieee.org/document/10815658">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2024-IEEE_ICECIE.pdf">slide</a>]
-* [2024] <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Hyeonho Jeong, Hyunkyu Park, Hyeong Seok Kim, and Juneho Yi. <strong>"Neural Network Training Strategy to Enhance Anomaly Detection Performance: A Perspective on Reconstruction Loss Amplification"</strong> IEEE ICASSP [<a href="https://ieeexplore.ieee.org/document/10446942">paper</a>][<a href="https://sigport.org/documents/neural-network-training-strategy-enhance-anomaly-detection-performance-perspective">poster</a>]
-* [2024] Hanbyul Lee\*, <strong>YeongHyeon Park\*</strong>, and Juneho Yi. <strong>"Enhancing Defective Solar Panel Detection with Attention-guided Statistical Features using Pre-trained Neural Networks"</strong> IEEE BigComp [<a href="https://ieeexplore.ieee.org/abstract/document/10488244">paper</a>] (* Equal contribution) 
-* [2023] <ins>YeongHyeon Park</ins>, Uju Gim, and Myung Jin Kim. <strong>"Edge Storage Management Recipe with Zero-Shot Data Compression for Road Anomaly Detection"</strong> IEEE ICTC [<a href="https://ieeexplore.ieee.org/abstract/document/10393463">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2023-IEEE-ICTC.pdf">slide</a>]  
-* [2023] Sungho Kang, Hyunkyu Park, <ins>YeongHyeon Park</ins>, Yeonho Lee, Hanbyul Lee, Seho Bae, and Juneho Yi. <strong>"Exploiting Monocular Depth Estimation for Style Harmonization in Landscape Painting"</strong> IEEE ICKII [<a href="https://ieeexplore.ieee.org/document/10332789">paper</a>]  
-* [2023] Hyunkyu Park, Sungho Kang, <ins>YeongHyeon Park</ins>, Yeonho Lee, Hanbyul Lee, Seho Bae, and Juneho Yi. <strong>"Unsupervised Image-to-Image Translation Based on Bidirectional Style Transfer"</strong> IEEE ICKII [<a href="https://ieeexplore.ieee.org/document/10332712">paper</a>]  
-* [2023] <ins>YeongHyeon Park</ins>, Myung Jin Kim, Won Seok Park, and Juneho Yi. <strong>"Recycling for Recycling: RoI Cropping by Recycling a Pre-trained Attention Mechanism for Accurate Classification of Recyclables"</strong> IEEE SIST [<a href="https://ieeexplore.ieee.org/document/10223525">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2023-IEEE-SIST.pdf">slide</a>]  
-* [2023] <ins>YeongHyeon Park</ins>, Myung Jin Kim, and Won Seok Park. <strong>"Frequency of Interest-based Noise Attenuation Method to Improve Anomaly Detection Performance"</strong> IEEE BigComp [<a href="https://ieeexplore.ieee.org/document/10066697">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2023-IEEE_BigComp.pdf">slide</a>]  
-* [2022] <ins>YeongHyeon Park</ins>, Myung Jin Kim, and Uju Gim. <strong>"Attention! Is Recycling Artificial Neural Network Effective for Maintaining Renewable Energy Efficiency?"</strong> IEEE TPEC [<a href="https://ieeexplore.ieee.org/document/9750784">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2022-IEEE_TPEC.pdf">slide</a>]  
-* [2021] <ins>YeongHyeon Park</ins> and JongHee Jung. <strong>"Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise"</strong> IEEE ICACEH [<a href="https://ieeexplore.ieee.org/document/9768853">paper</a>]  
-* [2021] <ins>YeongHyeon Park</ins> and Myung Jin Kim. <strong>"Design of Cost-Effective Auto-Encoder for Electric Motor Anomaly Detection in Resource Constrained Edge Device"</strong> IEEE ECICE [<a href="https://ieeexplore.ieee.org/document/9645739">paper</a>]  
-
-### Preprints
-* [2024] Dongeon Kim, <ins>YeongHyeon Park</ins>. <strong>"Empirical Analysis of Anomaly Detection on Hyperspectral Imaging Using Dimension Reduction Methods"</strong> [<a href="https://arxiv.org/abs/2401.04437">arXiv</a>]  
-* [2022] <ins>YeongHyeon Park</ins>. <strong>"Concise Logarithmic Loss Function for Robust Training of Anomaly Detection Model"</strong> [<a href="https://arxiv.org/abs/2201.05748">arXiv</a>]  
-* [2018] <ins>YeongHyeon Park</ins> and Il Dong Yun. <strong>"Comparison of RNN Encoder-Decoder Models for Anomaly Detection"</strong> [<a href="https://arxiv.org/abs/1807.06576">arXiv</a>]  
-
------
-
-## Patents
-* Several pending status patents exist in environmental and industrial fields.
-* KR Patent 1027374770000, <a href="https://doi.org/10.8080/1020230067683">Management Method of Foreign Matter for Liquid Products based on a Graph and an Device Supporting the Same</a>, Nov.2024.
-* KR Patent 1027374760000, <a href="https://doi.org/10.8080/1020230067682">Management Method of Foreign Matter for Liquid Products and an Device Supporting the Same</a>, Nov.2024.
-* KR Patent 1024517510000, <a href="https://doi.org/10.8080/1020200025038">ECG preprocessing method and STEMI detection method</a>, Sep.2022.
-* KR Patent 1023465330000, <a href="https://doi.org/10.8080/1020200057140">Road condition detection device and system, road condition detection method using the same</a>, Dec.2021.
-* KR Patent 1021790400000, <a href="https://doi.org/10.8080/1020180128383">Apparatus and Method for Anomaly Detection of SMD Assembly Device Operation based on Deeplearnig</a>, Nov.2020.
-
------
-
 ## Certifications
 * NVIDIA DLI Certificate - Deep Learning for Industrial Inspection. NVIDIA
 * Big Data Analysis Engineer. KOREA Data Agency
