@@ -34,7 +34,7 @@ layout: post
     *IEEJ Transactions on Electrical and Electronic Engineering*, 2019  
     [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.22927)  
 + Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine  
-    <ins>YeongHyeon Park</ins> Il Dong Yun  
+    <ins>YeongHyeon Park</ins>, Il Dong Yun  
     *Sensors*, 2018  
     [[paper]](https://www.mdpi.com/1424-8220/18/10/3573)  
   
