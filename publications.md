@@ -7,11 +7,11 @@ layout: post
 ## International Journal
 + Visual Defect Obfuscation Based Self-Supervised Anomaly Detection  
     <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Yeonho Lee, Hyeong Seok Kim, Juneho Yi  
-    *Scientific Reports*, 2024  
+    *Scientific Reports*, 2024 <img src="https://img.shields.io/badge/Q1-%23E34F26.svg?style=for-the-badge&logoColor=white" alt="CV">  
     [[paper]](https://www.nature.com/articles/s41598-024-69698-5) [[poster]](https://yeonghyeon.github.io/pdfs/SciRep2024_Park-EAR.pdf)  
 + Boost-up Efficiency of Defective Solar Panel Detection with Pre-trained Attention Recycling  
     <ins>YeongHyeon Park</ins>, Myung Jin Kim, Uju Gim, Juneho Yi  
-    *IEEE Transactions on Industry Applications*, 2023  
+    *IEEE Transactions on Industry Applications*, 2023 <img src="https://img.shields.io/badge/Q1-%23E34F26.svg?style=for-the-badge&logoColor=white" alt="CV">  
     [[paper]](https://ieeexplore.ieee.org/document/10065567) [[slide]](https://yeonghyeon.github.io/pdfs/TIA2023_Park-Solar.pdf)  
 + Efficient Non-Compression Auto-Encoder for Driving Noise-Based Road Surface Anomaly Detection  
     <ins>YeongHyeon Park</ins>, JongHee Jung  
@@ -41,15 +41,15 @@ layout: post
 ## International Conference
 + Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection  
     <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Hyeong Seok Kim, Juneho Yi  
-    *IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2025 VAND3.0 workshop)* _(Accepted)_   
+    *IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (<span style="color:red">CVPR 2025 VAND3.0 workshop</span>)* _(Accepted)_   
     [[arXiv]](https://arxiv.org/abs/2407.04597) [[poster]](https://yeonghyeon.github.io/pdfs/CVPRW2025_Park-FADeR.pdf)  
 + [2025] Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection  
     <ins>YeongHyeon Park</ins>, Myung Jin Kim, Hyeong Seok Kim  
-    *IEEE International Symposium on Biomedical Imaging (ISBI 2025)*  
+    *IEEE International Symposium on Biomedical Imaging (<span style="color:red">ISBI 2025</span>)*  
     [[arXiv]](https://arxiv.org/abs/2411.07546v2) [[poster]](https://yeonghyeon.github.io/pdfs/ISBI2025_Park-CLAP.pdf)  
 + [2025] Encouraging LLM Thought Improvements for Medical Diagnosis Consistency  
     Myung Jin Kim <ins>YeongHyeon Park</ins>  
-    *IEEE International Symposium on Biomedical Imaging (ISBI 2025)* (1-Page Paper)  
+    *IEEE International Symposium on Biomedical Imaging (ISBI 2025*, 1-Page Paper)  
     [[poster]](https://yeonghyeon.github.io/pdfs/ISBI2025_Kim-LLM.pdf)  
 + Exploiting Connection-Switching U-Net for Enhancing Surface Anomaly Detection  
     <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Yeonho Lee, Juneho Yi  
@@ -57,7 +57,7 @@ layout: post
     [[paper]](https://ieeexplore.ieee.org/document/10815658) [[slide]](https://yeonghyeon.github.io/pdfs/ICECIE2024_Park-CSUNet.pdf)  
 + Neural Network Training Strategy to Enhance Anomaly Detection Performance: A Perspective on Reconstruction Loss Amplification  
     <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Hyeonho Jeong, Hyunkyu Park, Hyeong Seok Kim, Juneho Yi  
-    *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024)*  
+    *IEEE International Conference on Acoustics, Speech, and Signal Processing (<span style="color:red">ICASSP 2024</span>)*  
     [[paper]](https://ieeexplore.ieee.org/document/10446942) [[poster]](https://yeonghyeon.github.io/pdfs/ICASSP2024_Park-LAMP.pdf)  
 + Enhancing Defective Solar Panel Detection with Attention-guided Statistical Features using Pre-trained Neural Networks  
     Hanbyul Lee\*, <ins>YeongHyeon Park\*</ins>, Juneho Yi (* Equal contribution)   
@@ -90,6 +90,7 @@ layout: post
 + Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise  
     <ins>YeongHyeon Park</ins>, JongHee Jung  
     *IEEE International Conference on Architecture, Construction, Environment and Hydraulics (ICACEH 2021)*  
+    <span style="color:red">Best Conference Paper Award</span>  
     [[paper]](https://ieeexplore.ieee.org/document/9768853) [[award]](https://yeonghyeon.github.io/pdfs/ICACEH2021_X210031.pdf)  
 + Design of Cost-Effective Auto-Encoder for Electric Motor Anomaly Detection in Resource Constrained Edge Device  
     <ins>YeongHyeon Park</ins>, Myung Jin Kim  
