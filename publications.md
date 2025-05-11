@@ -8,11 +8,11 @@ layout: post
 + Visual Defect Obfuscation Based Self-Supervised Anomaly Detection  
     <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Yeonho Lee, Hyeong Seok Kim, Juneho Yi  
     *Scientific Reports*, 2024  
-    [[paper]](https://www.nature.com/articles/s41598-024-69698-5) [[poster]](https://github.com/YeongHyeon/Conference_History/raw/main/2024-SciRep.pdf)  
+    [[paper]](https://www.nature.com/articles/s41598-024-69698-5) [[poster]](https://yeonghyeon.github.io/pdfs/SciRep2024_Park-EAR.pdf)  
 + Boost-up Efficiency of Defective Solar Panel Detection with Pre-trained Attention Recycling  
     <ins>YeongHyeon Park</ins>, Myung Jin Kim, Uju Gim, Juneho Yi  
     *IEEE Transactions on Industry Applications*, 2023  
-    [[paper]](https://ieeexplore.ieee.org/document/10065567) [[slide]](https://github.com/YeongHyeon/Conference_History/raw/main/2023-IEEE-TIA.pdf)  
+    [[paper]](https://ieeexplore.ieee.org/document/10065567) [[slide]](https://yeonghyeon.github.io/pdfs/TIA2023_Park-Solar.pdf)  
 + Efficient Non-Compression Auto-Encoder for Driving Noise-Based Road Surface Anomaly Detection  
     <ins>YeongHyeon Park</ins>, JongHee Jung  
     *IEEJ Transactions on Electrical and Electronic Engineering*, 2022  
@@ -42,23 +42,23 @@ layout: post
 + Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection  
     <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Hyeong Seok Kim, Juneho Yi  
     *IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2025 VAND3.0 workshop)* _(Accepted)_   
-    [[arXiv]](https://arxiv.org/abs/2407.04597) [[poster]](https://github.com/YeongHyeon/Conference_History/raw/main/2025-CVPRW-FADeR.pdf)  
+    [[arXiv]](https://arxiv.org/abs/2407.04597) [[poster]](https://yeonghyeon.github.io/pdfs/CVPRW2025_Park-FADeR.pdf)  
 + [2025] Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection  
     <ins>YeongHyeon Park</ins>, Myung Jin Kim, Hyeong Seok Kim  
     *IEEE International Symposium on Biomedical Imaging (ISBI 2025)*  
-    [[arXiv]](https://arxiv.org/abs/2411.07546v2) [[poster]](https://github.com/YeongHyeon/Conference_History/raw/main/2025-ISBI_Park.pdf)  
+    [[arXiv]](https://arxiv.org/abs/2411.07546v2) [[poster]](https://yeonghyeon.github.io/pdfs/ISBI2025_Park-CLAP.pdf)  
 + [2025] Encouraging LLM Thought Improvements for Medical Diagnosis Consistency  
     Myung Jin Kim <ins>YeongHyeon Park</ins>  
     *IEEE International Symposium on Biomedical Imaging (ISBI 2025)* (1-Page Paper)  
-    [[poster]](https://github.com/YeongHyeon/Conference_History/raw/main/2025-ISBI_Kim.pdf)  
+    [[poster]](https://yeonghyeon.github.io/pdfs/ISBI2025_Kim-LLM.pdf)  
 + Exploiting Connection-Switching U-Net for Enhancing Surface Anomaly Detection  
     <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Yeonho Lee, Juneho Yi  
     *IEEE International Conference on Electrical, Control and Instrumentation Engineering (ICECIE 2024)*  
-    [[paper]](https://ieeexplore.ieee.org/document/10815658) [[slide]](https://github.com/YeongHyeon/Conference_History/raw/main/2024-IEEE_ICECIE.pdf)  
+    [[paper]](https://ieeexplore.ieee.org/document/10815658) [[slide]](https://yeonghyeon.github.io/pdfs/ICECIE2024_Park-CSUNet.pdf)  
 + Neural Network Training Strategy to Enhance Anomaly Detection Performance: A Perspective on Reconstruction Loss Amplification  
     <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Hyeonho Jeong, Hyunkyu Park, Hyeong Seok Kim, Juneho Yi  
     *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024)*  
-    [[paper]](https://ieeexplore.ieee.org/document/10446942) [[poster]](https://sigport.org/documents/neural-network-training-strategy-enhance-anomaly-detection-performance-perspective)  
+    [[paper]](https://ieeexplore.ieee.org/document/10446942) [[poster]](https://yeonghyeon.github.io/pdfs/ICASSP2024_Park-LAMP.pdf)  
 + Enhancing Defective Solar Panel Detection with Attention-guided Statistical Features using Pre-trained Neural Networks  
     Hanbyul Lee\*, <ins>YeongHyeon Park\*</ins>, Juneho Yi (* Equal contribution)   
     *IEEE International Conference on Big Data and Smart Computing (BigComp 2024)*  
@@ -66,7 +66,7 @@ layout: post
 + Edge Storage Management Recipe with Zero-Shot Data Compression for Road Anomaly Detection  
     <ins>YeongHyeon Park</ins>, Uju Gim, Myung Jin Kim  
     *IEEE International Conference on Information and Communication Technology Convergence (ICTC 2023)*  
-    [[paper]](https://ieeexplore.ieee.org/abstract/document/10393463) [[slide]](https://github.com/YeongHyeon/Conference_History/raw/main/2023-IEEE-ICTC.pdf)  
+    [[paper]](https://ieeexplore.ieee.org/abstract/document/10393463) [[slide]](https://yeonghyeon.github.io/pdfs/ICTC2023_Park-Edge.pdf)  
 + Exploiting Monocular Depth Estimation for Style Harmonization in Landscape Painting  
     Sungho Kang, Hyunkyu Park, <ins>YeongHyeon Park</ins>, Yeonho Lee, Hanbyul Lee, Seho Bae, Juneho Yi  
     *IEEE International Conference on Knowledge Innovation and Invention (ICKII 2023)*  
@@ -78,19 +78,19 @@ layout: post
 + Recycling for Recycling: RoI Cropping by Recycling a Pre-trained Attention Mechanism for Accurate Classification of Recyclables  
     <ins>YeongHyeon Park</ins>, Myung Jin Kim, Won Seok Park, Juneho Yi  
     *IEEE International Conference on Smart Information Systems and Technologies (SIST 2023)*  
-    [[paper]](https://ieeexplore.ieee.org/document/10223525) [[slide]](https://github.com/YeongHyeon/Conference_History/raw/main/2023-IEEE-SIST.pdf)  
+    [[paper]](https://ieeexplore.ieee.org/document/10223525) [[slide]](https://yeonghyeon.github.io/pdfs/SIST2023_Park-Recycle.pdf)  
 + Frequency of Interest-based Noise Attenuation Method to Improve Anomaly Detection Performance  
     <ins>YeongHyeon Park</ins>, Myung Jin Kim, Won Seok Park  
     *IEEE International Conference on Big Data and Smart Computing (BigComp 2023)*  
-    [[paper]](https://ieeexplore.ieee.org/document/10066697) [[slide]](https://github.com/YeongHyeon/Conference_History/raw/main/2023-IEEE_BigComp.pdf)  
+    [[paper]](https://ieeexplore.ieee.org/document/10066697) [[slide]](https://yeonghyeon.github.io/pdfs/BigComp2024_Park-Frequency.pdf)  
 + Attention! Is Recycling Artificial Neural Network Effective for Maintaining Renewable Energy Efficiency?  
     <ins>YeongHyeon Park</ins>, Myung Jin Kim, Uju Gim  
     *IEEE Texas Power and Energy Conference (TPEC 2022)*  
-    [[paper]](https://ieeexplore.ieee.org/document/9750784) [[slide]](https://github.com/YeongHyeon/Conference_History/raw/main/2022-IEEE_TPEC.pdf)  
+    [[paper]](https://ieeexplore.ieee.org/document/9750784) [[slide]](https://yeonghyeon.github.io/pdfs/TPEC2022_Park-Attention.pdf)  
 + Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise  
     <ins>YeongHyeon Park</ins>, JongHee Jung  
     *IEEE International Conference on Architecture, Construction, Environment and Hydraulics (ICACEH 2021)*  
-    [[paper]](https://ieeexplore.ieee.org/document/9768853)  
+    [[paper]](https://ieeexplore.ieee.org/document/9768853) [[award]](https://yeonghyeon.github.io/pdfs/ICACEH2021_X210031.pdf)  
 + Design of Cost-Effective Auto-Encoder for Electric Motor Anomaly Detection in Resource Constrained Edge Device  
     <ins>YeongHyeon Park</ins>, Myung Jin Kim  
     *IEEE Eurasia Conference on IOT, Communication and Engineering (ECICE 2021)*  
