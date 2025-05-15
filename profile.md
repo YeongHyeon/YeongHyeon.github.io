@@ -45,8 +45,8 @@ Anomaly Detection, Computer Vision, Signal Processing
 
 ## Experience
 + Research Engineer, *SK Planet Co., Ltd.* _(Sep.2019 - Apr.2025)_ <br/>
-+ Research Assistant, *Computer Vision Lab. SungKyunKwan University* _(Oct.2021 - Jan.2025)_ <br/> 
-+ Research Assistant, *Vision & Signal Processing Lab. Hankuk University of Foreign Studies* _(Sep.2017 - Aug.2019)_ <br/>
++ Research Assistant, Computer Vision Lab. *SungKyunKwan University* _(Oct.2021 - Jan.2025)_ <br/> 
++ Research Assistant, Vision & Signal Processing Lab. *Hankuk University of Foreign Studies* _(Sep.2017 - Aug.2019)_ <br/>
 + Research Intern, *StoryAnt INC.* _(Jan.2017 - Feb.2017)_ <br/> 
 
 -----
