@@ -45,11 +45,11 @@ layout: post
     <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Hyeong Seok Kim, Juneho Yi  
     *IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (<span style="color:red">CVPR 2025 VAND3.0 workshop</span>)* _(Accepted)_   
     [[arXiv]](https://arxiv.org/abs/2407.04597) [[poster]](https://yeonghyeon.github.io/pdfs/CVPRW2025_Park-FADeR.pdf)  
-+ [2025] Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection  
++ Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection  
     <ins>YeongHyeon Park</ins>, Myung Jin Kim, Hyeong Seok Kim  
     *IEEE International Symposium on Biomedical Imaging (<span style="color:red">ISBI 2025</span>)*  
     [[paper]](https://ieeexplore.ieee.org/document/10981093) [[poster]](https://yeonghyeon.github.io/pdfs/ISBI2025_Park-CLAP.pdf)  
-+ [2025] Encouraging LLM Thought Improvements for Medical Diagnosis Consistency  
++ Encouraging LLM Thought Improvements for Medical Diagnosis Consistency  
     Myung Jin Kim <ins>YeongHyeon Park</ins>  
     *IEEE International Symposium on Biomedical Imaging (ISBI 2025*, 1-Page Paper)  
     [[poster]](https://yeonghyeon.github.io/pdfs/ISBI2025_Kim-LLM.pdf)  
