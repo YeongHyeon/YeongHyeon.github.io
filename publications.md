@@ -48,7 +48,7 @@ layout: post
 + [2025] Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection  
     <ins>YeongHyeon Park</ins>, Myung Jin Kim, Hyeong Seok Kim  
     *IEEE International Symposium on Biomedical Imaging (<span style="color:red">ISBI 2025</span>)*  
-    [[arXiv]](https://arxiv.org/abs/2411.07546v2) [[poster]](https://yeonghyeon.github.io/pdfs/ISBI2025_Park-CLAP.pdf)  
+    [[paper]](https://ieeexplore.ieee.org/document/10981093) [[poster]](https://yeonghyeon.github.io/pdfs/ISBI2025_Park-CLAP.pdf)  
 + [2025] Encouraging LLM Thought Improvements for Medical Diagnosis Consistency  
     Myung Jin Kim <ins>YeongHyeon Park</ins>  
     *IEEE International Symposium on Biomedical Imaging (ISBI 2025*, 1-Page Paper)  
