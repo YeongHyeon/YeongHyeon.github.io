@@ -9,21 +9,19 @@ layout: post
 <p>yeonghyeon@g.skku.edu</p>
 <p>
   <a href="https://yeonghyeon.github.io/resume/CV_YeongHyeon.pdf">
-    <img src="https://img.shields.io/badge/CV-Download-blue?style=flat-square&logo=adobeacrobatreader" alt="CV">
+    <img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logoColor=white" alt="CV">  
   </a>
   <a href="https://scholar.google.com/citations?hl=en&user=cZq6j0MAAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar">
-  </a>
-</p>
-<p>
-  <a href="https://github.com/YeongHyeon">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github">
-  </a>
-  <a href="https://huggingface.co/YeongHyeon">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="HuggingFace">
+    <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logoColor=white" alt="CV">  
   </a>
   <a href="https://www.linkedin.com/in/yeonghyeon-park-25aa97138/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="CV">  
+  </a>
+  <a href="https://github.com/YeongHyeon">
+    <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logoColor=white" alt="CV">  
+  </a>
+  <a href="https://huggingface.co/YeongHyeon">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logoColor=white" alt="CV">  
   </a>
 </p>
       
