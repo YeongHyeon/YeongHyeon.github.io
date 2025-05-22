@@ -7,8 +7,8 @@ date-string: May 22, 2025
 ---
 
 ## 2025
-* Adding Conditional Control to Text-to-Image Diffusion Models [[post](https://yeong813.tistory.com/2)][[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html)]
-* ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions [[post](https://yeong813.tistory.com/1)][[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xia_ViT-CoMer_Vision_Transformer_with_Convolutional_Multi-scale_Feature_Interaction_for_Dense_CVPR_2024_paper.html)]
+* Adding Conditional Control to Text-to-Image Diffusion Models, ICCV 2023 [[post](https://yeong813.tistory.com/2)][[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html)]
+* ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions, CVPR 2024 [[post](https://yeong813.tistory.com/1)][[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xia_ViT-CoMer_Vision_Transformer_with_Convolutional_Multi-scale_Feature_Interaction_for_Dense_CVPR_2024_paper.html)]
 
 ## 2024
 * EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies, WACV 2024 [[slide](https://github.com/YeongHyeon/Review_Presentations/blob/main/slides/240921_EfficientAD_review.pdf)][[paper](https://openaccess.thecvf.com/content/WACV2024/html/Batzner_EfficientAD_Accurate_Visual_Anomaly_Detection_at_Millisecond-Level_Latencies_WACV_2024_paper.html)]  
