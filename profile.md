@@ -17,16 +17,13 @@ layout: post
   <a href="https://www.linkedin.com/in/yeonghyeon-park-25aa97138/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn">  
   </a>
-<p>
-</p>
+<!-- <p>
+</p> -->
   <a href="https://github.com/YeongHyeon">
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logoColor=white" alt="Github">  
   </a>
   <a href="https://huggingface.co/YeongHyeon">
     <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logoColor=white" alt="HuggingFace">  
-  </a>
-  <a href="https://yeong813.tistory.com/">
-    <img src="https://img.shields.io/badge/TiStory-eb531f?style=for-the-badge&logoColor=white" alt="HuggingFace">  
   </a>
 </p>
       
