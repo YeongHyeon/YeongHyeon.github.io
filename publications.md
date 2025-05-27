@@ -44,11 +44,11 @@ layout: post
 + Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection  
     <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Hyeong Seok Kim, Juneho Yi  
     *IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (<span style="color:red">CVPR 2025 VAND3.0 workshop</span>)* _(Accepted)_   
-    [[arXiv]](https://arxiv.org/abs/2407.04597) [[poster]](https://yeonghyeon.github.io/pdfs/CVPRW2025_Park-FADeR.pdf)  
+    [[paper]](https://arxiv.org/abs/2407.04597) [[poster]](https://yeonghyeon.github.io/pdfs/CVPRW2025_Park-FADeR.pdf)  
 + Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection  
     <ins>YeongHyeon Park</ins>, Myung Jin Kim, Hyeong Seok Kim  
     *IEEE International Symposium on Biomedical Imaging (<span style="color:red">ISBI 2025</span>)*  
-    [[paper]](https://ieeexplore.ieee.org/document/10981093) [[poster]](https://yeonghyeon.github.io/pdfs/ISBI2025_Park-CLAP.pdf)  
+    [[paper]](https://arxiv.org/abs/2411.07546) [[poster]](https://yeonghyeon.github.io/pdfs/ISBI2025_Park-CLAP.pdf)  
 + Encouraging LLM Thought Improvements for Medical Diagnosis Consistency  
     Myung Jin Kim <ins>YeongHyeon Park</ins>  
     *IEEE International Symposium on Biomedical Imaging (ISBI 2025*, 1-Page Paper)  
@@ -60,7 +60,7 @@ layout: post
 + Neural Network Training Strategy to Enhance Anomaly Detection Performance: A Perspective on Reconstruction Loss Amplification  
     <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Hyeonho Jeong, Hyunkyu Park, Hyeong Seok Kim, Juneho Yi  
     *IEEE International Conference on Acoustics, Speech, and Signal Processing (<span style="color:red">ICASSP 2024</span>)*  
-    [[paper]](https://ieeexplore.ieee.org/document/10446942) [[poster]](https://yeonghyeon.github.io/pdfs/ICASSP2024_Park-LAMP.pdf)  
+    [[paper]](https://arxiv.org/abs/2308.14595) [[poster]](https://yeonghyeon.github.io/pdfs/ICASSP2024_Park-LAMP.pdf)  
 + Enhancing Defective Solar Panel Detection with Attention-guided Statistical Features using Pre-trained Neural Networks  
     Hanbyul Lee\*, <ins>YeongHyeon Park\*</ins>, Juneho Yi (* Equal contribution)   
     *IEEE International Conference on Big Data and Smart Computing (BigComp 2024)*  
@@ -84,7 +84,7 @@ layout: post
 + Frequency of Interest-based Noise Attenuation Method to Improve Anomaly Detection Performance  
     <ins>YeongHyeon Park</ins>, Myung Jin Kim, Won Seok Park  
     *IEEE International Conference on Big Data and Smart Computing (BigComp 2023)*  
-    [[paper]](https://ieeexplore.ieee.org/document/10066697) [[slide]](https://yeonghyeon.github.io/pdfs/BigComp2024_Park-Frequency.pdf)  
+    [[paper]](https://arxiv.org/abs/2210.11068) [[slide]](https://yeonghyeon.github.io/pdfs/BigComp2024_Park-Frequency.pdf)  
 + Attention! Is Recycling Artificial Neural Network Effective for Maintaining Renewable Energy Efficiency?  
     <ins>YeongHyeon Park</ins>, Myung Jin Kim, Uju Gim  
     *IEEE Texas Power and Energy Conference (TPEC 2022)*  
@@ -103,15 +103,15 @@ layout: post
 + Empirical Analysis of Anomaly Detection on Hyperspectral Imaging Using Dimension Reduction Methods  
     Dongeon Kim, <ins>YeongHyeon Park</ins>  
     *arXiv:2401.04437*  
-    [[arXiv]](https://arxiv.org/abs/2401.04437)  
+    [[paper]](https://arxiv.org/abs/2401.04437)  
 + Concise Logarithmic Loss Function for Robust Training of Anomaly Detection Model  
     <ins>YeongHyeon Park</ins>  
     *arXiv:2201.05748*  
-    [[arXiv]](https://arxiv.org/abs/2201.05748)  
+    [[paper]](https://arxiv.org/abs/2201.05748)  
 + Comparison of RNN Encoder-Decoder Models for Anomaly Detection  
     <ins>YeongHyeon Park</ins>, Il Dong Yun  
     *arXiv:1807.06576*  
-    [[arXiv]](https://arxiv.org/abs/1807.06576)  
+    [[paper]](https://arxiv.org/abs/1807.06576)  
 
 -----
 
