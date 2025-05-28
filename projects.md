@@ -49,7 +49,7 @@ layout: post
 
 <div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
   <div style="width: 100%; aspect-ratio: 1.5 / 1; overflow: hidden;">
-    <a href="https://ieeexplore.ieee.org/abstract/document/10065567">  
+    <a href="https://arxiv.org/abs/2308.14595">  
       <img src="/images/projects/solar.png" 
         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
     </a>
