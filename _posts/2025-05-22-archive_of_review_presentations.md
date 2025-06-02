@@ -7,6 +7,7 @@ date-string: May 22, 2025
 ---
 
 ## 2025
+* Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment, arXiv 2025 [[post](https://yeong813.tistory.com/6)][[paper](https://arxiv.org/abs/2505.18600)]
 * LoRA: Low-Rank Adaptation of Large Language Models, ICLR 2022 [[post](https://yeong813.tistory.com/5)][[paper](https://openreview.net/forum?id=nZeVKeeFYf9)]
 * Adding Conditional Control to Text-to-Image Diffusion Models, ICCV 2023 [[post](https://yeong813.tistory.com/2)][[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html)]
 * ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions, CVPR 2024 [[post](https://yeong813.tistory.com/1)][[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xia_ViT-CoMer_Vision_Transformer_with_Convolutional_Multi-scale_Feature_Interaction_for_Dense_CVPR_2024_paper.html)]
