@@ -44,7 +44,7 @@ layout: post
 + Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection  
     <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Hyeong Seok Kim, Juneho Yi  
     *IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (<span style="color:red">CVPR 2025 VAND3.0 workshop</span>)* _(Accepted)_   
-    [[paper]](https://arxiv.org/abs/2407.04597) [[poster]](https://yeonghyeon.github.io/pdfs/CVPRW2025_Park-FADeR.pdf)  
+    [[paper]](https://openaccess.thecvf.com/content/CVPR2025W/VAND/html/Park_Feature_Attenuation_of_Defective_Representation_Can_Resolve_Incomplete_Masking_on_CVPRW_2025_paper.html) [[poster]](https://yeonghyeon.github.io/pdfs/CVPRW2025_Park-FADeR.pdf)  
 + Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection  
     <ins>YeongHyeon Park</ins>, Myung Jin Kim, Hyeong Seok Kim  
     *IEEE International Symposium on Biomedical Imaging (<span style="color:red">ISBI 2025</span>)*  

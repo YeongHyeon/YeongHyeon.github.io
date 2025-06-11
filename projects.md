@@ -9,7 +9,7 @@ layout: post
  
 <div style="text-align: center; border: 0px solid #ddd; padding: 0px; overflow: hidden;">
   <div style="width: 100%; aspect-ratio: 1.5 / 1; overflow: hidden;">
-    <a href="https://arxiv.org/abs/2407.04597">  
+    <a href="https://openaccess.thecvf.com/content/CVPR2025W/VAND/html/Park_Feature_Attenuation_of_Defective_Representation_Can_Resolve_Incomplete_Masking_on_CVPRW_2025_paper.html">  
       <img src="/images/projects/fader.png" 
         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
     </a>
