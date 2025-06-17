@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: post
 ---
 
-<img src="https://github.com/YeongHyeon/YeongHyeon.github.io/blob/master/images/profile.jpeg?raw=true" width="200" alt="Profile">
+<img src="https://github.com/YeongHyeon/YeongHyeon.github.io/blob/master/images/profile.png?raw=true" width="200" alt="Profile">
 <h2>YeongHyeon Park, Ph.D.</h2>
 <p>yeonghyeon@g.skku.edu</p>
 <p>
