@@ -1,7 +1,7 @@
 body
   display: flex
   flex-direction: column
-  overflow-x: hidden  // Change from 'auto' to 'hidden'
+  overflow-x: hidden
 
 article
   flex-grow: 1
@@ -11,7 +11,8 @@ body > header, body > footer
   flex-wrap: wrap
   align-items: center
   justify-content: space-between
-  max-width: 100% 
+  max-width: 100%
+  overflow-x: hidden  // 헤더에도 추가
 
 body > header, body > article, body > footer
   padding: 1.5em
@@ -25,18 +26,17 @@ article header h1
   margin: 0 0 .1em
 
 nav
-  margin: .5em -1.2em
+  margin: .5em 0  // 음수 마진 제거
   overflow-x: auto
   overflow-y: hidden
-  -webkit-overflow-scrolling: touch  // For Safari smooth scrolling
-  scrollbar-width: none  // Firefox
-  -ms-overflow-style: none  // IE/Edge
+  -webkit-overflow-scrolling: touch
+  scrollbar-width: none
+  -ms-overflow-style: none
 
 nav a
   margin: .5em 1.2em
-  display: inline-block  // Important for Safari
-  white-space: nowrap  // Prevent text wrapping
+  display: inline-block
+  white-space: nowrap
 
-// Hide scrollbars across browsers
 nav::-webkit-scrollbar
   display: none
