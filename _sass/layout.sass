@@ -26,3 +26,11 @@ nav
 
 nav a
   margin: .5em 1.2em
+
+// horizontal scroll for mobile screen
+@media screen and (max-width: 768px)
+  nav
+    overflow-x: auto
+    overflow-y: hidden
+    white-space: nowrap
+    -webkit-overflow-scrolling: touch
