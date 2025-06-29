@@ -1,6 +1,15 @@
 body
   display: flex
   flex-direction: column
+  overflow-x: hidden
+
+html, body
+  max-width: 100%
+  overflow-x: hidden
+
+*
+  max-width: 100%
+  box-sizing: border-box
 
 article
   flex-grow: 1
@@ -10,9 +19,11 @@ body > header, body > footer
   flex-wrap: wrap
   align-items: center
   justify-content: space-between
+  max-width: 100% 
 
 body > header, body > article, body > footer
   padding: 1.5em
+  box-sizing: border-box 
 
 article header
   margin-bottom: 1.5em
@@ -23,14 +34,7 @@ article header h1
 
 nav
   margin: .5em -1.2em
+  max-width: 100% 
 
 nav a
   margin: .5em 1.2em
-
-// horizontal scroll for mobile screen
-@media screen and (max-width: 768px)
-  nav
-    overflow-x: auto
-    overflow-y: hidden
-    white-space: nowrap
-    -webkit-overflow-scrolling: touch
