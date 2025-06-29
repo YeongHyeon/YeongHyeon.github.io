@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: post
 ---
 
-<img src="https://github.com/YeongHyeon/YeongHyeon.github.io/blob/master/images/profile.png?raw=true" width="200" alt="Profile">  
+<img src="https://github.com/YeongHyeon/YeongHyeon.github.io/blob/master/images/profile.png?raw=true" width="200" alt="Profile"><br>
 ## YeongHyeon Park, Ph.D.  
 yeonghyeon@g.skku.edu  
 
@@ -28,11 +28,7 @@ yeonghyeon@g.skku.edu
   </a>
 </p>
       
------
-
-## Research Interests
-
-Anomaly Detection, Computer Vision, Signal Processing
+**Research Interests:** Anomaly Detection, Computer Vision, Signal Processing
 
 -----
 
