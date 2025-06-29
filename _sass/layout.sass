@@ -1,7 +1,7 @@
 body
   display: flex
   flex-direction: column
-  overflow-x: auto
+  overflow-x: hidden  // Change from 'auto' to 'hidden'
 
 article
   flex-grow: 1
@@ -27,6 +27,16 @@ article header h1
 nav
   margin: .5em -1.2em
   overflow-x: auto
+  overflow-y: hidden
+  -webkit-overflow-scrolling: touch  // For Safari smooth scrolling
+  scrollbar-width: none  // Firefox
+  -ms-overflow-style: none  // IE/Edge
 
 nav a
   margin: .5em 1.2em
+  display: inline-block  // Important for Safari
+  white-space: nowrap  // Prevent text wrapping
+
+// Hide scrollbars across browsers
+nav::-webkit-scrollbar
+  display: none
