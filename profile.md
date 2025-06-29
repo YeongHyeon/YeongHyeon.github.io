@@ -4,9 +4,10 @@ permalink: "/about/"
 layout: post
 ---
 
-<img src="https://github.com/YeongHyeon/YeongHyeon.github.io/blob/master/images/profile.png?raw=true" width="200" alt="Profile">
-<h2>YeongHyeon Park, Ph.D.</h2>
-<p>yeonghyeon@g.skku.edu</p>
+<img src="https://github.com/YeongHyeon/YeongHyeon.github.io/blob/master/images/profile.png?raw=true" width="200" alt="Profile">  
+## YeongHyeon Park, Ph.D.  
+yeonghyeon@g.skku.edu  
+
 <p>
   <a href="https://yeonghyeon.github.io/resume/CV_YeongHyeon.pdf">
     <img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logoColor=white" alt="CV">  
