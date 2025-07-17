@@ -41,7 +41,7 @@ yeonghyeon@g.skku.edu
 -----
 
 ## Experience
-+ Postdoctoral Research Fellow, *MD Anderson Cancer Center, TX, U.S.* _(Expected start: July 2025)_ <br/> 
++ Postdoctoral Research Fellow, *MD Anderson Cancer Center, TX, U.S.* _(Aug.2025 - )_ <br/> 
 + Research Engineer, *SK Planet Co., Ltd., Rep. of Korea* _(Sep.2019 - Apr.2025)_ <br/>
 + Research Assistant, Computer Vision Lab. *SungKyunKwan University, Rep. of Korea* _(Oct.2021 - Jan.2025)_ <br/> 
 + Research Assistant, Vision & Signal Processing Lab. *Hankuk University of Foreign Studies, Rep. of Korea* _(Sep.2017 - Aug.2019)_ <br/>
