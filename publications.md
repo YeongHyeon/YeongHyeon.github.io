@@ -114,10 +114,12 @@ layout: post
 -----
 
 ## Patents
+### United States (US)
 + Apparatus and System for Detecting Road Surface Condition and Method for Detecting Road Surface Condition by Using Same 
     *US Patent US12300101B2*, May.2025.  
     [[link]](https://patentimages.storage.googleapis.com/86/56/82/78e1ab626dea7e/US12300101B2.pdf)
 
+### Korea (KR)
 + Apparatus for detecting abnormality of Particulate Matter sensor based on hypothetical pruning Generative Adversarial Network (HP-GAN) and method therefor  
     *KR Patent 1028435060000*, Aug.2025.  
     [[link]](https://doi.org/10.8080/1020210019727)  
