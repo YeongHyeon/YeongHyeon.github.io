@@ -29,7 +29,7 @@ layout: post
     <ins>YeongHyeon Park</ins>, Il Dong Yun, Si-Hyuck Kang  
     *IEEE Access*, 2019  
     [[paper]](https://ieeexplore.ieee.org/abstract/document/8771175)  
-+ Arrhythmia detection in electrocardiogram based on recurrent neural network encoder–decoder with Lyapunov exponent  
++ Arrhythmia Detection in Electrocardiogram based on Recurrent Neural Network Encoder–Decoder with Lyapunov Exponent  
     <ins>YeongHyeon Park</ins>, Il Dong Yun   
     *IEEJ Transactions on Electrical and Electronic Engineering*, 2019  
     [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.22927)  
@@ -114,6 +114,9 @@ layout: post
 -----
 
 ## Patents
++ Apparatus for detecting abnormality of Particulate Matter sensor based on hypothetical pruning Generative Adversarial Network (HP-GAN) and method therefor  
+    *KR Patent 1028435060000*, Aug.2025.  
+    [[link]](https://doi.org/10.8080/1020210019727)  
 + Management Method of Foreign Matter for Liquid Products based on a Graph and an Device Supporting the Same  
     *KR Patent 1027374770000*, Nov.2024.  
     [[link]](https://doi.org/10.8080/1020230067683)  
