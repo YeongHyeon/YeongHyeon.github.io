@@ -113,7 +113,9 @@ layout: post
 
 -----
 
-## Patents
+## Patents 
+This list may not reflect the latest patent status. Please refer [[Google Patent]](https://patents.google.com/?inventor=YeongHyeon+Park&oq=YeongHyeon+Park).
+
 ### United States (US)
 + Apparatus and System for Detecting Road Surface Condition and Method for Detecting Road Surface Condition by Using Same 
     *US Patent US12300101B2*, May.2025.  
