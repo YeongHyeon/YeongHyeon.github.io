@@ -98,6 +98,10 @@ layout: post
     [[paper]](https://ieeexplore.ieee.org/document/9645739)  
 
 ## Preprints
++ ARMA Block: A CNN-Based Autoregressive and Moving Average Module for Long-Term Time Series Forecasting  
+    Myung Jin Kim, <ins>YeongHyeon Park</ins>, Il Dong Yun  
+    *arXiv:2509.10324*  
+    [[paper]](https://arxiv.org/abs/2509.10324)  
 + Empirical Analysis of Anomaly Detection on Hyperspectral Imaging Using Dimension Reduction Methods  
     Dongeon Kim, <ins>YeongHyeon Park</ins>  
     *arXiv:2401.04437*  
