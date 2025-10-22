@@ -118,7 +118,7 @@ layout: post
 -----
 
 ## Patents 
-This list may not reflect the latest patent status. Please refer [[Google Patent]](https://patents.google.com/?inventor=YeongHyeon+Park&oq=YeongHyeon+Park).
+This list may not reflect the latest patent status. Please refer [[Google Patent-US Patents]](https://patents.google.com/?inventor=YeongHyeon+Park&oq=YeongHyeon+Park) and [[Google Patent-KR Patents]](https://patents.google.com/?inventor=%EB%B0%95%EC%98%81%ED%98%84&assignee=%ED%95%9C%EA%B5%AD%EC%99%B8%EA%B5%AD%EC%96%B4%EB%8C%80%ED%95%99%EA%B5%90,%EC%97%90%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%8C%EB%9E%98%EB%8B%9B).
 
 ### United States (US)
 + Apparatus and Method for Analyzing Road Surface Condition based on Vehicle Noise   
@@ -128,7 +128,7 @@ This list may not reflect the latest patent status. Please refer [[Google Patent
     *US Patent US12300101B2*, May.2025.  
     [[link]](https://patentimages.storage.googleapis.com/86/56/82/78e1ab626dea7e/US12300101B2.pdf)
 
-### Korea (KR)
+### Korea (KR) 
 + Apparatus for detecting abnormality of Particulate Matter sensor based on hypothetical pruning Generative Adversarial Network (HP-GAN) and method therefor  
     *KR Patent KR102843506B1*, Aug.2025.  
     [[link]](https://patents.google.com/patent/KR102843506B1/en)  
