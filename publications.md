@@ -137,7 +137,10 @@ This list may not reflect the latest patent status. Please refer [[Google Patent
     [[link]](https://patents.google.com/patent/KR102737477B1/en)  
 + Management Method of Foreign Matter for Liquid Products and an Device Supporting the Same  
     *KR Patent KR102737476B1*, Nov.2024.  
-    [[link]](https://patents.google.com/patent/KR102737476B1/en)   
+    [[link]](https://patents.google.com/patent/KR102737476B1/en)
++ Road condition detection device and system, road condition detection method using the same  
+    *KR Patent KR102609459B1*, Dec.2023.  
+    [[link]](https://patents.google.com/patent/KR102609459B1/en)  
 + ECG preprocessing method and STEMI detection method  
     *KR Patent KR102451751B1*, Sep.2022.  
     [[link]](https://patents.google.com/patent/KR102451751B1/en)  
