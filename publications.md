@@ -130,20 +130,20 @@ This list may not reflect the latest patent status. Please refer [[Google Patent
 
 ### Korea (KR)
 + Apparatus for detecting abnormality of Particulate Matter sensor based on hypothetical pruning Generative Adversarial Network (HP-GAN) and method therefor  
-    *KR Patent 1028435060000*, Aug.2025.  
-    [[link]](https://doi.org/10.8080/1020210019727)  
+    *KR Patent KR102843506B1*, Aug.2025.  
+    [[link]](https://patents.google.com/patent/KR102843506B1/en)  
 + Management Method of Foreign Matter for Liquid Products based on a Graph and an Device Supporting the Same  
-    *KR Patent 1027374770000*, Nov.2024.  
-    [[link]](https://doi.org/10.8080/1020230067683)  
+    *KR Patent KR102737477B1*, Nov.2024.  
+    [[link]](https://patents.google.com/patent/KR102737477B1/en)  
 + Management Method of Foreign Matter for Liquid Products and an Device Supporting the Same  
-    *KR Patent 1027374760000*, Nov.2024.  
-    [[link]](https://doi.org/10.8080/1020230067682)   
+    *KR Patent KR102737476B1*, Nov.2024.  
+    [[link]](https://patents.google.com/patent/KR102737476B1/en)   
 + ECG preprocessing method and STEMI detection method  
-    *KR Patent 1024517510000*, Sep.2022.  
-    [[link]](https://doi.org/10.8080/1020200025038)  
+    *KR Patent KR102451751B1*, Sep.2022.  
+    [[link]](https://patents.google.com/patent/KR102451751B1/en)  
 + Road condition detection device and system, road condition detection method using the same  
-    *KR Patent 1023465330000*, Dec.2021.  
-    [[link]](https://doi.org/10.8080/1020200057140)  
+    *KR Patent KR102346533B1*, Dec.2021.  
+    [[link]](https://patents.google.com/patent/KR102346533B1/en)  
 + Apparatus and Method for Anomaly Detection of SMD Assembly Device Operation based on Deeplearnig  
-    *KR Patent 1021790400000*, Nov.2020.  
-    [[link]](https://doi.org/10.8080/1020180128383)
+    *KR Patent KR102179040B1*, Nov.2020.  
+    [[link]](https://patents.google.com/patent/KR102179040B1/en)
