@@ -67,9 +67,9 @@ yeonghyeon@g.skku.edu
 + <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a> _(Jun.2021 - )_
 
 ### Conference Reviewer
-+ <a href="https://2025.ijcnn.org/">IEEE International Joint Conference on Neural Networks (IJCNN)</a> 2025
-+ <a href="https://2025.ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</a> 2025, 2026
-+ <a href="https://www.bigcomputing.org/conf2025/index.html">IEEE International Conference on Big Data and Smart Computing (BigComp)</a> 2025
++ <a href="https://ijcnn.org/">IEEE International Joint Conference on Neural Networks (IJCNN)</a> 2025
++ <a href="https://ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</a> 2025, 2026
++ <a href="https://www.bigcomputing.org">IEEE International Conference on Big Data and Smart Computing (BigComp)</a> 2025
 
 ### Additional Activities
 * NVIDIA University Ambassador [<a href="https://learn.nvidia.com/certificates?id=1403c0a68647461485704f0b0041cf86">certificate</a>]  
