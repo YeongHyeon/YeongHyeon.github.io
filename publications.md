@@ -121,6 +121,9 @@ layout: post
 This list may not reflect the latest patent status. Please refer [[Google Patent]](https://patents.google.com/?inventor=YeongHyeon+Park&oq=YeongHyeon+Park).
 
 ### United States (US)
++ Apparatus and Method for Analyzing Road Surface Condition based on Vehicle Noise   
+    *US Patent US12442796B2*, Oct.2025.  
+    [[link]](https://patents.google.com/patent/US12442796B2/en?inventor=YeongHyeon+Park&oq=YeongHyeon+Park&page=1)
 + Apparatus and System for Detecting Road Surface Condition and Method for Detecting Road Surface Condition by Using Same   
     *US Patent US12300101B2*, May.2025.  
     [[link]](https://patentimages.storage.googleapis.com/86/56/82/78e1ab626dea7e/US12300101B2.pdf)
