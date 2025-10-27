@@ -118,15 +118,23 @@ layout: post
 -----
 
 ## Patents 
-This list may not reflect the latest patent status. Please refer [[Google Patent-US Patents]](https://patents.google.com/?inventor=YeongHyeon+Park&oq=YeongHyeon+Park) and [[Google Patent-KR Patents]](https://patents.google.com/?inventor=%EB%B0%95%EC%98%81%ED%98%84&assignee=%ED%95%9C%EA%B5%AD%EC%99%B8%EA%B5%AD%EC%96%B4%EB%8C%80%ED%95%99%EA%B5%90,%EC%97%90%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%8C%EB%9E%98%EB%8B%9B).
+This list may not reflect the latest patent status. Please refer below for recent patents.
+<p>
+    <a href="https://patents.google.com/?inventor=YeongHyeon+Park&oq=YeongHyeon+Park">
+        <img src="https://img.shields.io/badge/Google Patent (US)-4285F4?style=for-the-badge&logoColor=white" alt="Google Scholar">  
+      </a>
+    <a href="https://patents.google.com/?inventor=%EB%B0%95%EC%98%81%ED%98%84&assignee=%ED%95%9C%EA%B5%AD%EC%99%B8%EA%B5%AD%EC%96%B4%EB%8C%80%ED%95%99%EA%B5%90,%EC%97%90%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%8C%EB%9E%98%EB%8B%9B">
+        <img src="https://img.shields.io/badge/Google Patent (KR)-4285F4?style=for-the-badge&logoColor=white" alt="Google Scholar">  
+    </a>
+</p>
 
 ### United States (US)
 + Apparatus and Method for Analyzing Road Surface Condition based on Vehicle Noise   
     *US Patent US12442796B2*, Oct.2025.  
-    [[link]](https://patents.google.com/patent/US12442796B2/en?inventor=YeongHyeon+Park&oq=YeongHyeon+Park&page=1)
+    [[link]](https://patents.google.com/patent/US12442796B2/en)
 + Apparatus and System for Detecting Road Surface Condition and Method for Detecting Road Surface Condition by Using Same   
     *US Patent US12300101B2*, May.2025.  
-    [[link]](https://patentimages.storage.googleapis.com/86/56/82/78e1ab626dea7e/US12300101B2.pdf)
+    [[link]](https://patents.google.com/patent/US12300101B2/en)
 
 ### Korea (KR) 
 + Apparatus for detecting abnormality of Particulate Matter sensor based on hypothetical pruning Generative Adversarial Network (HP-GAN) and method therefor  
