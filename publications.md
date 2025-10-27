@@ -118,7 +118,7 @@ layout: post
 -----
 
 ## Patents 
-This list may not reflect the latest patent status. Please refer below for recent patents.
+This list may not reflect the latest patent status. To check the latest patents, please visit the Google Patents site by clicking the button below.
 <p>
     <a href="https://patents.google.com/?inventor=YeongHyeon+Park&oq=YeongHyeon+Park">
         <img src="https://img.shields.io/badge/Google Patent (US)-4285F4?style=for-the-badge&logoColor=white" alt="Google Scholar">  
