@@ -6,7 +6,7 @@ layout: post
 
 <img src="https://github.com/YeongHyeon/YeongHyeon.github.io/blob/master/images/profile.png?raw=true" width="200" alt="Profile"><br>
 ## YeongHyeon Park, Ph.D.  
-yeonghyeon@g.skku.edu  
+young200405@gmail.com | ypark6@mdanderson.org  
 
 <p>
   <a href="https://yeonghyeon.github.io/resume/CV_YeongHyeon.pdf">
