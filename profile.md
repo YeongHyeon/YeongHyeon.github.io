@@ -9,7 +9,7 @@ layout: post
 young200405@gmail.com | ypark6@mdanderson.org  
 
 <p>
-  <a href="https://yeonghyeon.github.io/resume/CV_YeongHyeon.pdf">
+  <a href="https://yeonghyeon.github.io/resume/YeongHyeon_Park-CV.pdf">
     <img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logoColor=white" alt="CV">  
   </a>
   <a href="https://scholar.google.com/citations?hl=en&user=cZq6j0MAAAAJ">
