@@ -41,7 +41,7 @@ layout: post
 ## International Conference
 + Dosimetric Impact of Hidden Input Parameters in Inverse Optimization Algorithms for GYN HDR Brachytherapy: A Systematic In-House Study  
     <ins>YeongHyeon Park</ins>, Yusung Kim, Shiqin Su, Sarath Vijayan, Zhiqian Henry Yu, Mandy Cunningham  
-    *Joint American Association of Physicists in Medicine (AAPM) | Canadian Organization of Medical Physics (COMP) Annual Meeting \& Exhibition 2026 (Submitted)*    
+    *Joint American Association of Physicists in Medicine | Canadian Organization of Medical Physics Annual Meeting & Exhibition 2026 (AAPM|COMP 2026, Submitted)*    
 + Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection  
     <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Hyeong Seok Kim, Juneho Yi  
     *IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (<span style="color:red">CVPR 2025 VAND3.0 workshop</span>)*    
