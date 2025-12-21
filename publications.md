@@ -39,7 +39,7 @@ layout: post
     [[paper]](https://www.mdpi.com/1424-8220/18/10/3573)  
   
 ## International Conference
-+ Dosimetric Impact of Hidden Input Parameters in Inverse Optimization Algorithms for GYN HDR Brachytherapy: A Systematic In-House Study. 
++ Dosimetric Impact of Hidden Input Parameters in Inverse Optimization Algorithms for GYN HDR Brachytherapy: A Systematic In-House Study  
     <ins>YeongHyeon Park</ins>, Yusung Kim, Shiqin Su, Sarath Vijayan, Zhiqian Henry Yu, Mandy Cunningham  
     *Joint American Association of Physicists in Medicine (AAPM) | Canadian Organization of Medical Physics (COMP) Annual Meeting \& Exhibition 2026 (Submitted)*    
 + Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection  
