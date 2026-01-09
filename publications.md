@@ -132,6 +132,9 @@ This list may not reflect the latest patent status. To check the latest patents,
 </p>
 
 ### United States (US)
++ Apparatus and method for analyzing road surface condition   
+    *US Patent US12510515B2*, Dec.2025.  
+    [[link]](https://patents.google.com/patent/US12510515B2/en)
 + Apparatus and Method for Analyzing Road Surface Condition based on Vehicle Noise   
     *US Patent US12442796B2*, Oct.2025.  
     [[link]](https://patents.google.com/patent/US12442796B2/en)
