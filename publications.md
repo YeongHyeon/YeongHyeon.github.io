@@ -4,6 +4,20 @@ permalink: "/publications/"
 layout: post
 ---
 
+This list may not reflect the latest publications or patents. To check the latest, please visit the link below.
+<p>
+    <a href="https://scholar.google.com/citations?hl=en&user=cZq6j0MAAAAJ">
+        <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logoColor=white" alt="Google Scholar">  
+    </a>
+    <a href="https://patents.google.com/?inventor=YeongHyeon+Park&oq=YeongHyeon+Park">
+        <img src="https://img.shields.io/badge/Google Patent (US)-4285F4?style=for-the-badge&logoColor=white" alt="Google Scholar">  
+      </a>
+    <a href="https://patents.google.com/?inventor=%EB%B0%95%EC%98%81%ED%98%84&assignee=%ED%95%9C%EA%B5%AD%EC%99%B8%EA%B5%AD%EC%96%B4%EB%8C%80%ED%95%99%EA%B5%90,%EC%97%90%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%8C%EB%9E%98%EB%8B%9B">
+        <img src="https://img.shields.io/badge/Google Patent (KR)-4285F4?style=for-the-badge&logoColor=white" alt="Google Scholar">  
+    </a>
+</p>
+
+
 ## International Journal
 + Visual Defect Obfuscation Based Self-Supervised Anomaly Detection  
     <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Yeonho Lee, Hyeong Seok Kim, Juneho Yi  
@@ -121,15 +135,6 @@ layout: post
 -----
 
 ## Patents 
-This list may not reflect the latest patent status. To check the latest patents, please visit the Google Patents site by clicking the button below.
-<p>
-    <a href="https://patents.google.com/?inventor=YeongHyeon+Park&oq=YeongHyeon+Park">
-        <img src="https://img.shields.io/badge/Google Patent (US)-4285F4?style=for-the-badge&logoColor=white" alt="Google Scholar">  
-      </a>
-    <a href="https://patents.google.com/?inventor=%EB%B0%95%EC%98%81%ED%98%84&assignee=%ED%95%9C%EA%B5%AD%EC%99%B8%EA%B5%AD%EC%96%B4%EB%8C%80%ED%95%99%EA%B5%90,%EC%97%90%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%8C%EB%9E%98%EB%8B%9B">
-        <img src="https://img.shields.io/badge/Google Patent (KR)-4285F4?style=for-the-badge&logoColor=white" alt="Google Scholar">  
-    </a>
-</p>
 
 ### United States (US)
 + Apparatus and method for analyzing road surface condition   
