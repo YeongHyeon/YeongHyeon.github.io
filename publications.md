@@ -115,6 +115,10 @@ This list may not reflect the latest publications or patents. To check the lates
     [[paper]](https://ieeexplore.ieee.org/document/9645739)  
 
 ## Preprints
++ Dosimetric Impact of Hidden Input Parameters in Inverse Optimization Algorithms for GYN HDR Brachytherapy  
+    <ins>YeongHyeon Park</ins>, Shiqin Su, Sarath Vijayan, Zhiqian Henry Yu, Mandy Cunningham, Yusung Kim  
+    *arXiv:2601.05045*  
+    [[paper]](https://arxiv.org/abs/2601.05045)  
 + ARMA Block: A CNN-Based Autoregressive and Moving Average Module for Long-Term Time Series Forecasting  
     Myung Jin Kim, <ins>YeongHyeon Park</ins>, Il Dong Yun  
     *arXiv:2509.10324*  
@@ -140,6 +144,9 @@ This list may not reflect the latest publications or patents. To check the lates
 + Apparatus and method for analyzing road surface condition   
     *US Patent US12510515B2*, Dec.2025.  
     [[link]](https://patents.google.com/patent/US12510515B2/en)
++ Apparatus and method for anomaly detection   
+    *US Patent US12468948B2*, Nov.2025.  
+    [[link]](https://patents.google.com/patent/US12468948B2/en)
 + Apparatus and Method for Analyzing Road Surface Condition based on Vehicle Noise   
     *US Patent US12442796B2*, Oct.2025.  
     [[link]](https://patents.google.com/patent/US12442796B2/en)
