@@ -56,10 +56,8 @@ young200405@gmail.com | ypark6@mdanderson.org
 + <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering</a> _(Feb.2025 - )_
 + <a href="https://link.springer.com/journal/44196">International Journal of Computational Intelligence Systems</a> _(Dec.2024 - )_
 + <a href="https://link.springer.com/journal/530">Multimedia Systems</a> _(Dec.2024 - )_
-+ <a href="https://link.springer.com/journal/44163">Discover Artificial Intelligence</a> _(Oct.2024 - )_
 + <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</a> _(Sep.2024 - )_
 + <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97">IEEE Signal Processing Letters</a> _(Aug.2024 - )_
-+ <a href="https://link.springer.com/journal/10921">Journal of Nondestructive Evaluation</a> _(Mar.2024 - )_   
 + <a href="https://ietresearch.onlinelibrary.wiley.com/journal/1350911x">Electronics Letters</a> _(Jan.2024 - )_   
 + <a href="https://link.springer.com/journal/11760">Signal, Image and Video Processing</a> _(Jan.2024 - )_   
 + <a href="https://www.nature.com/srep/">Scientific Reports</a> _(Sep.2023 - )_
