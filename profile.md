@@ -23,9 +23,6 @@ young200405@gmail.com | ypark6@mdanderson.org
   <a href="https://github.com/YeongHyeon">
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logoColor=white" alt="Github">  
   </a>
-  <a href="https://huggingface.co/YeongHyeon">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logoColor=white" alt="HuggingFace">  
-  </a>
 </p>
       
 **Research Interests:** Anomaly Detection, Computer Vision, Signal Processing
