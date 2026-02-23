@@ -5,21 +5,12 @@ layout: post
 ---
 
 <img src="https://github.com/YeongHyeon/YeongHyeon.github.io/blob/master/images/profile.png?raw=true" width="200" alt="Profile"><br>
-## YeongHyeon Park, Ph.D.  
-young200405@gmail.com | ypark6@mdanderson.org  
+## YeongHyeon Park, Ph.D.   
 
 <p>
-  <a href="https://yeonghyeon.github.io/resume/YeongHyeon_Park-CV.pdf">
-    <img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logoColor=white" alt="CV">  
-  </a>
   <a href="https://scholar.google.com/citations?hl=en&user=cZq6j0MAAAAJ">
     <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logoColor=white" alt="Google Scholar">  
   </a>
-  <a href="https://www.linkedin.com/in/yeonghyeon-park-25aa97138/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn">  
-  </a>
-<!-- <p>
-</p> -->
   <a href="https://github.com/YeongHyeon">
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logoColor=white" alt="Github">  
   </a>
@@ -62,10 +53,11 @@ young200405@gmail.com | ypark6@mdanderson.org
 + <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a> _(Jun.2021 - )_
 
 ### Conference Reviewer
-+ <a href="https://ijcnn.org/">IEEE International Joint Conference on Neural Networks (IJCNN)</a> 2025
++ <a href="https://ijcnn.org/">IEEE International Joint Conference on Neural Networks (IJCNN)</a> 2025, 2026
 + <a href="https://ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</a> 2025, 2026
 + <a href="https://www.bigcomputing.org">IEEE International Conference on Big Data and Smart Computing (BigComp)</a> 2025
 
 ### Additional Activities
 * NVIDIA University Ambassador [<a href="https://learn.nvidia.com/certificates?id=1403c0a68647461485704f0b0041cf86">certificate</a>]  
-* NVIDIA DLI Instructor [<a href="https://learn.nvidia.com/certificates?id=96017e53395a4dacb32dfe69be7d2530">certificate</a>]  
+* NVIDIA DLI Instructor [<a href="https://learn.nvidia.com/certificates?id=96017e53395a4dacb32dfe69be7d2530">certificate</a>]
+* Samsung Electronics Social Communication Reporters Group (Sep. 2016 - Jan. 2017)
