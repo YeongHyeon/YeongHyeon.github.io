@@ -14,9 +14,7 @@ layout: post
     <a href="https://github.com/YeongHyeon">
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logoColor=white" alt="Github">  
   </a>
-</p>
 <br>
-<p>
     <a href="https://yeonghyeon.github.io/resume/YeongHyeon_Park-CV.pdf">
     <img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logoColor=white" alt="CV">  
   </a>
