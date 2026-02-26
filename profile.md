@@ -8,11 +8,17 @@ layout: post
 ## YeongHyeon Park, Ph.D.   
 
 <p>
+  <a href="https://yeonghyeon.github.io/resume/YeongHyeon_Park-CV.pdf">
+    <img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logoColor=white" alt="CV">  
+  </a>
   <a href="https://scholar.google.com/citations?hl=en&user=cZq6j0MAAAAJ">
     <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logoColor=white" alt="Google Scholar">  
   </a>
   <a href="https://github.com/YeongHyeon">
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logoColor=white" alt="Github">  
+  </a>
+  <a href="https://www.linkedin.com/in/yeonghyeon-park-25aa97138/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn">  
   </a>
 </p>
       
