@@ -36,35 +36,55 @@ layout: post
 -----
 
 ## Experience
-+ Postdoctoral Research Fellow, *MD Anderson Cancer Center, TX, U.S.* _(Aug.2025 - Feb.2026)_ <br/> 
-+ Research Engineer, *SK Planet Co., Ltd., Rep. of Korea* _(Sep.2019 - Apr.2025)_ <br/>
-+ Research Assistant, *SungKyunKwan University, Rep. of Korea* _(Oct.2021 - Jan.2025)_ <br/> 
-+ Research Assistant, *Hankuk University of Foreign Studies, Rep. of Korea* _(Sep.2017 - Aug.2019)_ <br/>
-+ Research Intern, *StoryAnt INC.* _(Jan.2017 - Feb.2017)_ <br/> 
++ Postdoctoral Research Fellow, *MD Anderson Cancer Center*  
+  *TX, U.S.* _(Aug.2025 - Feb.2026)_
++ Research Engineer, *SK Planet Co., Ltd.*  
+  *Rep. of Korea* _(Sep.2019 - Apr.2025)_
++ Research Assistant, *SungKyunKwan University*  
+  *Rep. of Korea* _(Oct.2021 - Jan.2025)_
++ Research Assistant, *Hankuk University of Foreign Studies*  
+  *Rep. of Korea* _(Sep.2017 - Aug.2019)_
++ Research Intern, *StoryAnt INC.*  
+  *Rep. of Korea* _(Jan.2017 - Feb.2017)_
 
 -----
 
 ## Activities 
 
 ### Journal Reviewer
-+ <a href="https://www.sciencedirect.com/journal/results-in-engineering">Results in Engineering</a> _(Apr.2025 - )_
-+ <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering</a> _(Feb.2025 - )_
-+ <a href="https://link.springer.com/journal/44196">International Journal of Computational Intelligence Systems</a> _(Dec.2024 - )_
-+ <a href="https://link.springer.com/journal/530">Multimedia Systems</a> _(Dec.2024 - )_
-+ <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</a> _(Sep.2024 - )_
-+ <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97">IEEE Signal Processing Letters</a> _(Aug.2024 - )_
-+ <a href="https://ietresearch.onlinelibrary.wiley.com/journal/1350911x">Electronics Letters</a> _(Jan.2024 - )_   
-+ <a href="https://link.springer.com/journal/11760">Signal, Image and Video Processing</a> _(Jan.2024 - )_   
-+ <a href="https://www.nature.com/srep/">Scientific Reports</a> _(Sep.2023 - )_
-+ <a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a> _(Aug.2023 - )_
-+ <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a> _(Jun.2021 - )_
++ <a href="https://www.sciencedirect.com/journal/results-in-engineering">Results in Engineering</a>  
+  _(Apr.2025 - )_
++ <a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering</a>  
+  _(Feb.2025 - )_
++ <a href="https://link.springer.com/journal/44196">International Journal of Computational Intelligence Systems</a>  
+  _(Dec.2024 - )_
++ <a href="https://link.springer.com/journal/530">Multimedia Systems</a>  
+  _(Dec.2024 - )_
++ <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</a>  
+  _(Sep.2024 - )_
++ <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97">IEEE Signal Processing Letters</a>  
+  _(Aug.2024 - )_
++ <a href="https://ietresearch.onlinelibrary.wiley.com/journal/1350911x">Electronics Letters</a>  
+  _(Jan.2024 - )_   
++ <a href="https://link.springer.com/journal/11760">Signal, Image and Video Processing</a>  
+  _(Jan.2024 - )_   
++ <a href="https://www.nature.com/srep/">Scientific Reports</a>  
+  _(Sep.2023 - )_
++ <a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a>  
+  _(Aug.2023 - )_
++ <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a>  
+  _(Jun.2021 - )_
 
 ### Conference Reviewer
-+ <a href="https://ijcnn.org/">IEEE International Joint Conference on Neural Networks (IJCNN)</a> 2025, 2026
-+ <a href="https://ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</a> 2025, 2026
-+ <a href="https://www.bigcomputing.org">IEEE International Conference on Big Data and Smart Computing (BigComp)</a> 2025
++ <a href="https://ijcnn.org/">IEEE International Joint Conference on Neural Networks (IJCNN)</a>
+  2025, 2026
++ <a href="https://ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</a>
+  2025, 2026
++ <a href="https://www.bigcomputing.org">IEEE International Conference on Big Data and Smart Computing (BigComp)</a>
+  2025
 
 ### Additional Activities
 * NVIDIA University Ambassador [<a href="https://learn.nvidia.com/certificates?id=1403c0a68647461485704f0b0041cf86">certificate</a>]  
 * NVIDIA DLI Instructor [<a href="https://learn.nvidia.com/certificates?id=96017e53395a4dacb32dfe69be7d2530">certificate</a>]
-* Samsung Electronics Social Communication Reporters Group (Sep. 2016 - Jan. 2017)
+* Samsung Electronics Social Communication Reporters Group  
+  *Rep. of Korea* (Sep. 2016 - Jan. 2017)
