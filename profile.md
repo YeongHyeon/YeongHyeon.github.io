@@ -29,11 +29,11 @@ layout: post
 
 ## Education
 
-+ Ph.D., Electrical and Computer Engineering at *SungKyunKwan University (SKKU)*  
++ Ph.D., Electrical and Computer Engineering at *SungKyunKwan University*  
   *Rep. of Korea* _(Feb.2022 - Feb.2025)_ <br/>
-+ M.S., Computer and Electronic Systems Engineering at *Hankuk University of Foreign Studies (HUFS)*  
++ M.S., Computer and Electronic Systems Engineering at *Hankuk University of Foreign Studies*  
   *Rep. of Korea* _(Mar.2018 - Feb.2020)_ <br/>
-+ B.S., Digital Information Engineering at *Hankuk University of Foreign Studies (HUFS)*  
++ B.S., Digital Information Engineering at *Hankuk University of Foreign Studies*  
   *Rep. of Korea* _(Feb.2012 - Feb.2018)_ <br/>
 
 -----
@@ -79,11 +79,11 @@ layout: post
   _(Jun.2021 - )_
 
 ### Conference Reviewer
-+ <a href="https://ijcnn.org/">IEEE International Joint Conference on Neural Networks (IJCNN)</a>
++ <a href="https://ijcnn.org/">IEEE International Joint Conference on Neural Networks (IJCNN)</a>  
   2025, 2026
-+ <a href="https://ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</a>
++ <a href="https://ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</a>  
   2025, 2026
-+ <a href="https://www.bigcomputing.org">IEEE International Conference on Big Data and Smart Computing (BigComp)</a>
++ <a href="https://www.bigcomputing.org">IEEE International Conference on Big Data and Smart Computing (BigComp)</a>  
   2025
 
 ### Additional Activities
