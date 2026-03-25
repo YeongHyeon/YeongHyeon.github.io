@@ -29,9 +29,12 @@ layout: post
 
 ## Education
 
-+ Ph.D., Electrical and Computer Engineering at *SungKyunKwan University (SKKU), Rep. of Korea* _(Feb.2022 - Feb.2025)_ <br/>
-+ M.S., Computer and Electronic Systems Engineering at *Hankuk University of Foreign Studies (HUFS), Rep. of Korea* _(Mar.2018 - Feb.2020)_ <br/>
-+ B.S., Digital Information Engineering at *Hankuk University of Foreign Studies (HUFS), Rep. of Korea* _(Feb.2012 - Feb.2018)_ <br/>
++ Ph.D., Electrical and Computer Engineering at *SungKyunKwan University (SKKU)*  
+  *Rep. of Korea* _(Feb.2022 - Feb.2025)_ <br/>
++ M.S., Computer and Electronic Systems Engineering at *Hankuk University of Foreign Studies (HUFS)*  
+  *Rep. of Korea* _(Mar.2018 - Feb.2020)_ <br/>
++ B.S., Digital Information Engineering at *Hankuk University of Foreign Studies (HUFS)*  
+  *Rep. of Korea* _(Feb.2012 - Feb.2018)_ <br/>
 
 -----
 
