@@ -53,6 +53,10 @@ This list may not reflect the latest publications or patents. To check the lates
     [[paper]](https://www.mdpi.com/1424-8220/18/10/3573)  
   
 ## International Conference  
++ Anomaly Detection By Effectively Leveraging Synthetic Images  
+    Sungho Kang, Hyunkyu Park, Yeonho Lee, Hanbyul Lee, Mijoo Jeong, <ins>YeongHyeon Park</ins>, Injae Lee, Juneho Yi  
+    *International Conference on Pattern Recognition (ICPR 2026)*  
+    [[paper]](https://arxiv.org/abs/2512.23227)
 + Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection  
     <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Hyeong Seok Kim, Juneho Yi  
     *IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (<span style="color:red">CVPR 2025 VAND3.0 workshop</span>)*    
