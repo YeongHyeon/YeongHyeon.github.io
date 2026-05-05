@@ -142,6 +142,9 @@ This list may not reflect the latest publications or patents. To check the lates
 ## Patents 
 
 ### United States (US)
++ Apparatus and method for sound anomaly detection based on non-compression convolutional neural network   
+    *US Patent US12535354B2*, Jan.2026.  
+    [[link]](https://patents.google.com/patent/US12535354B2/en)
 + Apparatus and method for analyzing road surface condition   
     *US Patent US12510515B2*, Dec.2025.  
     [[link]](https://patents.google.com/patent/US12510515B2/en)
