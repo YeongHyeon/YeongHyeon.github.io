@@ -1,0 +1,28 @@
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tags_list = site_tags | split:',' | sort %}
+
+<article>
+  <header><h1>{{ include.title | default: page.title }}</h1></header>
+
+  <ul class="tag-list">
+    {% for this_word in tags_list %}
+    <li><a href="#{{ this_word | slugify }}">{{ this_word }} <span class="count">{{ site.tags[this_word].size }}</span></a></li>
+    {% endfor %}
+  </ul>
+
+  {% for this_word in tags_list %}
+  <section class="tag-group">
+    <h2 id="{{ this_word | slugify }}">{{ this_word }}</h2>
+    <ul>
+      {% for post in site.tags[this_word] %}
+      {% if post.title != null %}
+      <li>
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </section>
+  {% endfor %}
+</article>

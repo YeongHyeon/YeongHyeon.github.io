@@ -1,0 +1,110 @@
+body
+  display: flex
+  flex-direction: column
+  overflow-x: hidden
+
+body > header, body > article, body > footer, body > main
+  box-sizing: border-box
+  width: 100%
+  max-width: $content-w
+  margin: 0 auto
+  padding: 1.25rem 1.5rem
+
+body > main
+  flex-grow: 1
+  padding-top: 0
+
+// Top bar: name left, text nav right
+body > header
+  display: flex
+  flex-wrap: wrap
+  align-items: baseline
+  justify-content: space-between
+  gap: .5em 2em
+  border-bottom: 1px solid $border
+
+body > header .title
+  font-size: 1.15rem
+  font-weight: $heading-weight
+  letter-spacing: .01em
+
+nav
+  display: flex
+  flex-wrap: wrap
+  gap: 0 1.5em
+  overflow-x: auto
+  white-space: nowrap
+  scrollbar-width: none
+  &::-webkit-scrollbar
+    display: none
+
+nav a
+  color: $ink-2
+  padding: .25em 0
+  border-bottom: 2px solid transparent
+  &:hover
+    color: $ink
+  &.selected
+    color: $ink
+    border-bottom-color: $ink
+
+// Header right side: nav + theme toggle
+.header-right
+  display: flex
+  align-items: baseline
+  gap: 1.5em
+
+.theme-toggle
+  font: inherit
+  font-size: $size-small
+  color: $ink-2
+  background: none
+  border: 1px solid $border
+  padding: .2em .6em
+  cursor: pointer
+  &:hover
+    color: $ink
+    border-color: $ink
+
+// Page / post title with the thick deck rule under it
+article > header
+  margin: 1.5rem 0 1.75rem
+  padding-bottom: .5rem
+  border-bottom: $rule solid $ink
+  h1
+    margin: 0
+    font-size: $size-title
+  time
+    display: block
+    margin-top: .35em
+    font-size: $size-sub
+    color: $ink-2
+
+article
+  margin-bottom: 3rem
+
+// Readable measure for running text
+article > p, article > ul, article > ol, article > blockquote, article > h2, article > h3
+  max-width: $text-w
+
+// Footer: thin line, small secondary text
+body > footer
+  display: flex
+  flex-wrap: wrap
+  align-items: center
+  justify-content: space-between
+  gap: .5em 2em
+  margin-top: auto
+  border-top: 1px solid $border
+  color: $ink-2
+  font-size: $size-small
+  nav a
+    font-size: $size-small
+
+@media (max-width: 40em)
+  body > header, body > article, body > footer, body > main
+    padding: 1rem 1.1rem
+  article > header h1
+    font-size: 2rem
+  h2
+    font-size: 1.3rem

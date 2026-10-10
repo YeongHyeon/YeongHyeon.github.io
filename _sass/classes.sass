@@ -1,0 +1,362 @@
+// ----- Home brief -----
+
+.brief
+  margin: 2.5rem 0 2rem
+  max-width: $text-w
+  h1
+    font-size: $size-title
+    margin: 0 0 .25em
+  .lead
+    font-size: $size-lead
+    line-height: 1.35
+    margin: 0 0 .5em
+  .tagline
+    color: $ink-2
+    font-size: $size-sub
+    margin: 0
+    padding-bottom: 1rem
+    border-bottom: $rule solid $ink
+
+// Numbered rows (deck `numberedRows`)
+.rows
+  list-style: none
+  padding: 0
+  margin: 0 0 2.5rem
+  li
+    display: grid
+    grid-template-columns: 3.25rem 1fr
+    gap: 0 1rem
+    align-items: baseline
+    padding: 1rem 0
+    margin: 0
+    border-bottom: 1px solid $border
+  .num
+    font-size: $size-lead
+    font-weight: $heading-weight
+    line-height: 1
+  .main
+    font-size: 1.2rem
+    font-weight: $heading-weight
+    a
+      text-decoration: none
+      &:hover
+        text-decoration: underline
+  .sub
+    grid-column: 2
+    color: $ink-2
+    font-size: $size-sub
+    margin-top: .2em
+
+// Post list on the home page
+.post-list
+  list-style: none
+  padding: 0
+  margin: 0 0 2.5rem
+  li
+    display: flex
+    flex-wrap: wrap
+    gap: 0 1.25rem
+    align-items: baseline
+    padding: .55em 0
+    margin: 0
+    border-bottom: 1px solid $border
+  time
+    font-variant-numeric: tabular-nums
+    min-width: 7.5rem
+    font-size: $size-small
+  a
+    text-decoration: none
+    font-weight: $heading-weight
+    &:hover
+      text-decoration: underline
+
+// Section label used on the home page
+.section-label
+  font-size: $size-small
+  font-weight: $heading-weight
+  letter-spacing: .08em
+  text-transform: uppercase
+  color: $ink-2
+  margin: 2rem 0 .5rem
+  border: 0
+  padding: 0
+
+// ----- Cards (projects) -----
+
+.cards
+  display: grid
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr))
+  gap: 1.25rem
+  margin: 1.5rem 0
+  padding: 0
+  list-style: none
+
+.card
+  margin: 0
+  border: 1px solid $border
+  background: $paper
+  display: flex
+  flex-direction: column
+  transition: border-color .15s
+  &:hover
+    border-color: $ink
+  a
+    text-decoration: none
+    color: inherit
+    display: flex
+    flex-direction: column
+    height: 100%
+  .thumb
+    aspect-ratio: 1.5 / 1
+    overflow: hidden
+    border-bottom: 1px solid $border
+    background: $soft
+    img
+      width: 100%
+      height: 100%
+      object-fit: cover
+      object-position: center
+      margin: 0
+      display: block
+  .card-title
+    font-weight: $heading-weight
+    font-size: 1rem
+    padding: .7em .9em .15em
+    margin: 0
+  .card-note
+    color: $ink-2
+    font-size: $size-small
+    padding: 0 .9em .8em
+    margin: 0
+
+// Photo grid on the home page (square thumbnails)
+.photo-grid
+  display: grid
+  grid-template-columns: repeat(auto-fill, minmax(9rem, 1fr))
+  gap: .5rem
+  margin: 1rem 0 2rem
+  a
+    display: block
+    aspect-ratio: 1 / 1
+    overflow: hidden
+    border: 1px solid $border
+    background: $soft
+    &:hover
+      border-color: $ink
+  img
+    width: 100%
+    height: 100%
+    object-fit: cover
+    margin: 0
+    display: block
+
+// ----- Link chips (replace shields.io badges) -----
+
+.links
+  display: flex
+  flex-wrap: wrap
+  gap: .5em
+  padding: 0
+  margin: 1rem 0 1.5rem
+  list-style: none
+  li
+    margin: 0
+  a
+    display: inline-block
+    border: 1px solid $ink
+    padding: .3em .8em
+    font-size: $size-small
+    font-weight: $heading-weight
+    text-decoration: none
+    &:hover
+      background: $ink
+      color: $paper
+
+// ----- Profile two-panel -----
+
+.profile
+  display: grid
+  grid-template-columns: 12rem 1fr
+  gap: 2rem
+  align-items: start
+  margin: 1.5rem 0 2rem
+  .photo img
+    width: 100%
+    border: 1px solid $border
+    margin: 0
+    display: block
+  h2
+    margin-top: 0
+    border: 0
+    padding: 0
+  p
+    margin: .4em 0
+
+@media (max-width: 40em)
+  .profile
+    grid-template-columns: 1fr
+  .profile .photo
+    max-width: 10rem
+
+// Compact CV lists (education, experience, reviewer)
+.cv
+  list-style: none
+  padding: 0
+  max-width: $text-w
+  li
+    margin: 0
+    padding: .6em 0
+    border-bottom: 1px solid $border
+    line-height: 1.4
+  em
+    display: block
+    font-style: normal
+    color: $ink-2
+    font-size: $size-small
+    margin-top: .15em
+
+// ----- Publication list -----
+
+.pubs
+  list-style: none
+  padding: 0
+  counter-reset: pub
+  li
+    margin: 0
+    padding: .9em 0
+    border-bottom: 1px solid $border
+    display: grid
+    grid-template-columns: 2.5rem 1fr
+    gap: 0 .75rem
+    &::before
+      counter-increment: pub
+      content: counter(pub, decimal-leading-zero)
+      font-weight: $heading-weight
+      color: $ink-2
+      font-variant-numeric: tabular-nums
+    > *
+      grid-column: 2
+  .t
+    font-weight: $heading-weight
+    margin: 0
+  .a
+    color: $ink-2
+    font-size: $size-sub
+    margin: .1em 0
+  .v
+    font-size: $size-sub
+    margin: .1em 0
+    em
+      font-style: normal
+  .l
+    font-size: $size-small
+    margin: .3em 0 0
+    a
+      display: inline-block
+      margin-right: .9em
+      text-decoration: none
+      border-bottom: 1px solid $ink
+      &:hover
+        background: $ink
+        color: $paper
+  .award
+    display: inline-block
+    border: 1px solid $ink
+    font-size: $size-small
+    font-weight: $heading-weight
+    padding: 0 .4em
+    margin: .3em 0 0
+
+.pubs-note
+  color: $ink-2
+  max-width: $text-w
+
+// ----- Tags -----
+
+.tag-list
+  list-style: none
+  padding: 0
+  display: flex
+  flex-wrap: wrap
+  gap: .5em
+  margin: 1rem 0 2rem
+  li
+    margin: 0
+  a
+    display: inline-block
+    border: 1px solid $border
+    padding: .25em .7em
+    font-size: $size-small
+    text-decoration: none
+    &:hover
+      border-color: $ink
+  .count
+    color: $ink-2
+
+.tag-group
+  margin: 2rem 0
+  h2
+    font-size: 1.3rem
+  ul
+    list-style: none
+    padding: 0
+  li
+    display: flex
+    flex-wrap: wrap
+    gap: 0 1rem
+    align-items: baseline
+    padding: .4em 0
+    border-bottom: 1px solid $border
+    margin: 0
+  time
+    font-size: $size-small
+    min-width: 7.5rem
+    font-variant-numeric: tabular-nums
+  a
+    text-decoration: none
+    &:hover
+      text-decoration: underline
+
+// ----- Misc -----
+
+.icon
+  height: 1em
+  width: 1em
+  fill: currentColor
+  vertical-align: middle
+  margin-bottom: .15em
+
+.katex
+  overflow-x: auto
+  overflow-y: hidden
+
+.rouge-table
+  &, th, td, tr, pre
+    font-size: inherit
+    background: inherit !important
+    border: 0
+    width: initial
+    margin: 0
+    padding: 0
+  .gl pre
+    margin: 0 1.5em 0 .25em
+    opacity: .5
+
+// Greyscale syntax highlighting: only weight and tone, no colour
+.highlight
+  .c, .cm, .cp, .c1, .cs
+    color: $ink-2
+    font-style: italic
+  .k, .kc, .kd, .kn, .kp, .kr, .kt, .nt, .o, .ow
+    font-weight: $heading-weight
+  .s, .sb, .sc, .sd, .s2, .se, .sh, .si, .sx, .sr, .s1, .ss, .ld
+    color: $ink-2
+  .m, .mf, .mh, .mi, .mo, .il
+    color: $ink-2
+  .nf, .ne, .nc, .nd, .nn
+    text-decoration: underline
+    text-decoration-color: $border
+  .gi
+    font-weight: $heading-weight
+  .gd
+    text-decoration: line-through

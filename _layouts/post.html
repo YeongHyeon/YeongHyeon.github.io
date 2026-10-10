@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<article>
+  {% if page.layout == "post" and page.date and page.categories contains "posts" %}
+    {% include meta.html post=page %}
+  {% else %}
+    <header><h1>{{ page.title }}</h1></header>
+  {% endif %}
+  {{ content }}
+  {% if page.comments != false and site.comments.isso or site.comments.disqus %}
+    <hr>
+    {% if site.comments.isso_domain %}<div id="isso-thread"></div>{% endif %}
+    {% if site.comments.disqus_shortname %}<div id="disqus_thread"></div>{% endif %}
+    <noscript>Please enable JavaScript to view comments.</noscript>
+  {% endif %}
+</article>

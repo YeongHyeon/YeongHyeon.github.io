@@ -1,0 +1,38 @@
+---
+title: "Home"
+layout: default
+---
+
+{% include home.html %}
+
+<article>
+  <h2 class="section-label">Photos</h2>
+  <div id="image-grid" class="photo-grid">
+    {% assign thumbnails = site.static_files | where_exp: "file", "file.path contains '/images/thumbnails/'" %}
+    <script>
+    const images = [
+      {% for file in thumbnails %}
+      { src: "{{ file.path | relative_url }}" }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ];
+
+    function shuffleArray(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+      return array;
+    }
+
+    const grid = document.getElementById('image-grid');
+    shuffleArray(images).forEach(image => {
+      const a = document.createElement('a');
+      a.href = image.src;
+      a.target = '_blank';
+      a.rel = 'noopener';
+      a.innerHTML = `<img src="${image.src}" alt="" loading="lazy">`;
+      grid.appendChild(a);
+    });
+    </script>
+  </div>
+</article>

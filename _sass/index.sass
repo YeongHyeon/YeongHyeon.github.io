@@ -1,0 +1,62 @@
+// Design tokens — mono-brief style: white page, black text, grey borders, no accent color.
+// Colours are CSS custom properties so the dark scheme can follow the system setting.
+
+=light-tokens
+  color-scheme: light
+  --ink: #111111        // primary text, rule, emphasis blocks
+  --ink-2: #555555      // secondary text (dates, authors, notes)
+  --border: #BDBDBD
+  --soft: #F2F2F2       // soft fill (code, quotes, cards)
+  --paper: #FFFFFF
+  --img-filter: none
+
+=dark-tokens
+  color-scheme: dark
+  --ink: #F2F2F2
+  --ink-2: #A3A3A3
+  --border: #4A4A4A
+  --soft: #1C1C1C
+  --paper: #111111
+  --img-filter: brightness(.88)   // white-background figures glare on the dark page
+
+// Default follows the system; html[data-theme] (set by the toggle) overrides it.
+\:root
+  +light-tokens
+
+@media (prefers-color-scheme: dark)
+  \:root
+    +dark-tokens
+
+[data-theme="light"]
+  +light-tokens
+
+[data-theme="dark"]
+  +dark-tokens
+
+$ink: var(--ink) !default
+$ink-2: var(--ink-2) !default
+$border: var(--border) !default
+$soft: var(--soft) !default
+$paper: var(--paper) !default
+
+// Kept for any template still using the old names
+$dark: $ink !default
+$light: $paper !default
+$link-color: $ink !default
+
+$font-family: "Noto Sans", "Noto Sans KR", -apple-system, "Segoe UI", sans-serif !default
+$mono-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace !default
+$font-weight: 400 !default
+$heading-weight: 700 !default
+$line-height: 1.5 !default
+
+// Type scale (deck scale 54 / 38 / 32 / 28 / 24 / 22, scaled for the web)
+$font-size: 1.125rem !default   // body
+$size-title: 2.6rem !default    // page title
+$size-lead: 1.5rem !default     // lead / summary line
+$size-sub: 1rem !default        // sub-line
+$size-small: .9rem !default     // notes, footer
+
+$content-w: 64rem !default
+$text-w: 70ch !default
+$rule: 4px !default

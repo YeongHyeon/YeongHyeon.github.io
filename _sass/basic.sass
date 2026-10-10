@@ -1,0 +1,122 @@
+html
+  background: $paper
+
+body
+  background: $paper
+  color: $ink
+  font-family: $font-family
+  font-weight: $font-weight
+  font-size: $font-size
+  line-height: $line-height
+  margin: 0
+  min-height: 100vh
+  word-break: keep-all
+  overflow-wrap: anywhere
+  -webkit-text-size-adjust: 100%
+  -webkit-font-smoothing: antialiased
+  -moz-osx-font-smoothing: grayscale
+
+h1, h2, h3, h4, h5, h6
+  font-weight: $heading-weight
+  line-height: 1.2
+  margin: 1.6em 0 .5em
+
+h1
+  font-size: $size-title
+h2
+  font-size: $size-lead
+  padding-bottom: .25em
+  border-bottom: 1px solid $border
+h3
+  font-size: 1.2rem
+h4
+  font-size: 1.05rem
+  margin: 1em 0 .3em
+
+b, strong, th
+  font-weight: $heading-weight
+
+p
+  margin: .8em 0
+  text-align: left
+
+a
+  color: $ink
+  text-decoration: underline
+  text-decoration-color: $border
+  text-underline-offset: .18em
+  &:hover
+    text-decoration-color: $ink
+
+header a, footer a, nav a
+  text-decoration: none
+
+hr
+  border: 0
+  border-top: 1px solid $border
+  margin: 2.5em 0
+
+blockquote
+  background: $soft
+  border-left: $rule solid $ink
+  color: $ink-2
+  padding: .5em 1.25em
+  margin: 1.25em 0
+
+figure
+  margin: 1.25em 0
+figcaption
+  color: $ink-2
+  font-size: $size-small
+
+img
+  max-width: 100%
+  height: auto
+  filter: var(--img-filter)
+
+ul, ol
+  padding-left: 1.4em
+li
+  margin: .35em 0
+li li
+  font-size: .95em
+  color: $ink-2
+
+ins
+  text-decoration: underline
+  text-decoration-color: $ink
+
+code, pre
+  font-family: $mono-family
+  font-size: .9em
+code
+  background: $soft
+  padding: .1em .35em
+pre
+  background: $soft
+  border-left: $rule solid $ink
+  padding: 1em 1.25em
+  overflow-x: auto
+  line-height: 1.45
+  code
+    background: none
+    padding: 0
+
+table
+  border-collapse: collapse
+  width: 100%
+  margin: 1.25em 0
+  font-size: .95em
+th, td
+  text-align: left
+  padding: .5em .75em
+  border-bottom: 1px solid $border
+  vertical-align: top
+th
+  border-bottom: 2px solid $ink
+
+time
+  color: $ink-2
+
+iframe
+  max-width: 100%
