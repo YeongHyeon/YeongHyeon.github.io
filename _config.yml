@@ -3,32 +3,26 @@ author: "YeongHyeon Park"
 description: ""
 permalink: /:title/
 lang: "en"
-excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: false           # adds a gray frame to the site
-show_sidebar: false       # top text nav instead of the icon sidebar
-minimal: false
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
+# Top navigation. Entries accept {file, title, url}; title and url default to the page's own.
+navigation:
   - {file: "index.html"}
   - {file: "profile.md"}
-  # - {file: "archive.html"}
   - {file: "publications.md"}
   - {file: "projects.md"}
   - {file: "tags.html"}
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Github, icon: github, url: "https://github.com/YeongHyeon"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
+# Footer links
+external:
+  - {title: Github, url: "https://github.com/YeongHyeon"}
 
 plugins:
- - jekyll-feed
+  - jekyll-feed
+
+exclude:
+  - README.md
+  - CHANGELOG.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

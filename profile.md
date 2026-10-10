@@ -15,7 +15,7 @@ layout: post
       <li><a href="https://scholar.google.com/citations?hl=en&user=cZq6j0MAAAAJ">Google Scholar</a></li>
       <li><a href="https://github.com/YeongHyeon">GitHub</a></li>
       <li><a href="https://www.linkedin.com/in/yeonghyeon-park-25aa97138/">LinkedIn</a></li>
-      <li><a href="https://yeonghyeon.github.io/resume/YeongHyeon_Park-CV.pdf">CV (PDF)</a></li>
+      <li><a href="{{ "/resume/YeongHyeon_Park-CV.pdf" | relative_url }}">CV (PDF)</a></li>
     </ul>
   </div>
 </div>
