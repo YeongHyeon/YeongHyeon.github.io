@@ -60,7 +60,7 @@ layout: post
 
 <ul class="cv">
   <li><a href="https://ijcnn.org/">IEEE International Joint Conference on Neural Networks (IJCNN)</a><em>2025, 2026</em></li>
-  <li><a href="https://ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</a><em>2025, 2026</em></li>
+  <li><a href="https://ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</a><em>2025, 2026, 2027</em></li>
   <li><a href="https://www.bigcomputing.org">IEEE International Conference on Big Data and Smart Computing (BigComp)</a><em>2025</em></li>
 </ul>
 

@@ -4,6 +4,9 @@ Work history for this site. Newest first.
 
 ## 2026-10-10
 
+### Content
+- Added ICASSP 2027 to the conference reviewer list on the About page.
+
 ### Repository cleanup
 - Removed files nothing referenced: `_includes/embed.html`, `_includes/archive.html`, `archive.html`, `_layouts/page.html`, the Font Awesome icon data and SVG sprite, the bundled PT Sans fonts, 5 unreferenced images, and 14 unreferenced PDFs.
 - Trimmed KaTeX to the files the layout loads (`katex.min.css`, `katex.min.js`, `contrib/auto-render.min.js`, woff2 fonts).
