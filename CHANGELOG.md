@@ -4,6 +4,14 @@ Work history for this site. Newest first.
 
 ## 2026-10-10
 
+### Design
+- Links inside posts (`post`, `paper`, `slide`, `poster`) are now solid-bordered buttons (`a.btn`) in the mono-brief style; the markdown `[[label](url)]` pattern was converted to `<a class="btn">` and one empty placeholder link was dropped.
+- The light/dark toggle is a single ◐ mark in a square outlined button instead of the words Dark/Light.
+- Home intro is a single sentence without the current organization; the thick rule moved under it.
+
+### Local build
+- GitHub Pages needs Ruby < 4 (commonmarker). Added `vendor/` to `.gitignore`, pinned `github-pages ~> 232`, and documented Ruby 3.3 for local preview.
+
 ### Content
 - Added ICASSP 2027 to the conference reviewer list on the About page.
 

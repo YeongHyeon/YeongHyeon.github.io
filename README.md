@@ -26,9 +26,11 @@ Personal site of YeongHyeon Park, published with GitHub Pages at https://yeonghy
 
 ## Local preview
 
-GitHub Pages builds this site with the `github-pages` gem (Jekyll 3.10). The Gemfile pins the same environment.
+GitHub Pages builds this site with the `github-pages` gem (Jekyll 3.10). The Gemfile pins the same environment. It needs Ruby 3.x (Ruby 4 cannot install `commonmarker`), for example Homebrew `ruby@3.3`:
 
 ```sh
+export PATH="/opt/homebrew/opt/ruby@3.3/bin:$PATH"
+bundle config set --local path vendor/bundle
 bundle install
 bundle exec jekyll serve
 ```

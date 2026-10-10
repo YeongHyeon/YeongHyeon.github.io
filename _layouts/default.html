@@ -28,7 +28,7 @@
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   <div class="header-right">
     {% include menu.html menu=pages %}
-    <button class="theme-toggle" type="button" aria-label="Toggle light and dark theme">Theme</button>
+    <button class="theme-toggle" type="button" aria-label="Switch to dark theme">◐</button>
   </div>
 </header>
 
@@ -50,7 +50,8 @@
     return root.getAttribute('data-theme') || (mq.matches ? 'dark' : 'light');
   }
   function label() {
-    btn.textContent = current() === 'dark' ? 'Light' : 'Dark';
+    btn.textContent = '\u25D0';
+    btn.setAttribute('aria-label', current() === 'dark' ? 'Switch to light theme' : 'Switch to dark theme');
   }
   btn.addEventListener('click', function () {
     var next = current() === 'dark' ? 'light' : 'dark';

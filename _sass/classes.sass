@@ -9,10 +9,6 @@
   .lead
     font-size: $size-lead
     line-height: 1.35
-    margin: 0 0 .5em
-  .tagline
-    color: $ink-2
-    font-size: $size-sub
     margin: 0
     padding-bottom: 1rem
     border-bottom: $rule solid $ink
@@ -171,6 +167,22 @@
     &:hover
       background: $ink
       color: $paper
+
+// ----- Inline link buttons inside post bodies -----
+
+a.btn
+  display: inline-block
+  border: 1px solid $ink
+  padding: .05em .55em
+  margin: .1em .35em .1em 0
+  font-size: $size-small
+  font-weight: $heading-weight
+  line-height: 1.5
+  text-decoration: none
+  vertical-align: baseline
+  &:hover
+    background: $ink
+    color: $paper
 
 // ----- Profile two-panel -----
 
