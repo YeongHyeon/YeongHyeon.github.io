@@ -5,6 +5,7 @@ Work history for this site. Newest first.
 ## 2026-10-10
 
 ### Design
+- Link groups on the About and Publications pages (`.links`) now share the theme toggle look: grey outline and muted text, darkening on hover.
 - Links inside posts (`post`, `paper`, `slide`, `poster`) are now solid-bordered buttons (`a.btn`) in the mono-brief style; the markdown `[[label](url)]` pattern was converted to `<a class="btn">` and one empty placeholder link was dropped.
 - The light/dark toggle is a single ◐ mark in a square outlined button instead of the words Dark/Light.
 - Home intro is a single sentence without the current organization; the thick rule moved under it.
