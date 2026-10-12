@@ -10,7 +10,7 @@ layout: post
   </div>
   <div>
     <h2>YeongHyeon Park, Ph.D.</h2>
-    <p><strong>Research interests:</strong> Anomaly Detection, Computer Vision, Signal Processing</p>
+    <p><strong>Research interests:</strong> anomaly detection, computer vision, and signal processing</p>
     <ul class="links">
       <li><a href="https://scholar.google.com/citations?hl=en&user=cZq6j0MAAAAJ">Google Scholar</a></li>
       <li><a href="https://github.com/YeongHyeon">GitHub</a></li>

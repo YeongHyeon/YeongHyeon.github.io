@@ -15,7 +15,7 @@ navigation:
 
 # Footer links
 external:
-  - {title: Github, url: "https://github.com/YeongHyeon"}
+  - {title: GitHub, url: "https://github.com/YeongHyeon"}
   - {title: LiteBites, url: "https://litebites.github.io/"}
   - {title: Tityra, url: "https://tityra.github.io/"}
 

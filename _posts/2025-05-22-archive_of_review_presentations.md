@@ -1,10 +1,12 @@
 ---
 layout: post
 categories: posts
-title: Paper Reviews
+title: Paper notes and presentations
 tags: [Review]
 date-string: May 22, 2025
 ---
+
+Organized by the year I made the notes or slides. Publication venues and years follow the paper titles.
 
 ## 2025
 * Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment, arXiv 2025 <a class="btn" href="https://yeong813.tistory.com/6">post</a><a class="btn" href="https://arxiv.org/abs/2505.18600">paper</a>

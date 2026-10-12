@@ -4,7 +4,7 @@ permalink: "/publications/"
 layout: post
 ---
 
-<p class="pubs-note">This list may not reflect the latest publications or patents. For the latest, see the links below.</p>
+<p class="pubs-note">This list is updated periodically. See Google Scholar for recent publications and the patent links below for patent records.</p>
 
 <ul class="links">
   <li><a href="https://scholar.google.com/citations?hl=en&user=cZq6j0MAAAAJ">Google Scholar</a></li>
@@ -12,7 +12,7 @@ layout: post
   <li><a href="https://patents.google.com/?inventor=%EB%B0%95%EC%98%81%ED%98%84&assignee=%ED%95%9C%EA%B5%AD%EC%99%B8%EA%B5%AD%EC%96%B4%EB%8C%80%ED%95%99%EA%B5%90,%EC%97%90%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%8C%EB%9E%98%EB%8B%9B">Google Patents (KR)</a></li>
 </ul>
 
-## International Journal
+## Journal articles
 
 <ul class="pubs">
   <li>
@@ -65,7 +65,7 @@ layout: post
   </li>
 </ul>
 
-## International Conference
+## Conference papers
 
 <ul class="pubs">
   <li>
