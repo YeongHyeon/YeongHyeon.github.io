@@ -202,6 +202,11 @@ layout: post
 
 <ul class="pubs">
   <li>
+    <p class="t">Apparatus and method for analyzing road surface condition based on vehicle noise</p>
+    <p class="v">US Patent US12699073B2, Aug. 2026</p>
+    <p class="l"><a href="https://patents.google.com/patent/US12699073B2/en">link</a></p>
+  </li>
+  <li>
     <p class="t">Apparatus and method for sound anomaly detection based on non-compression convolutional neural network</p>
     <p class="v">US Patent US12535354B2, Jan. 2026</p>
     <p class="l"><a href="https://patents.google.com/patent/US12535354B2/en">link</a></p>
