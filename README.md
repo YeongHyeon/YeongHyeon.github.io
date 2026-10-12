@@ -9,6 +9,7 @@ Personal site of YeongHyeon Park, published with GitHub Pages at https://yeonghy
 | `_config.yml` | Site title, navigation menu, footer links, plugins |
 | `index.html` | Home page: intro rows plus a shuffled photo grid built from `images/thumbnails/` |
 | `profile.md`, `publications.md`, `projects.md` | Static pages (`/about/`, `/publications/`, `/projects/`) |
+| `_data/reviewing.yml` | Reviewing venues, first-participation dates, and conference years rendered on the About page |
 | `tags.html` | Post archive grouped by tag |
 | `404.html` | Not-found page |
 | `_posts/` | Blog posts, `YYYY-MM-DD-slug.md` with `layout: post` and `categories: posts` |

@@ -40,29 +40,15 @@ layout: post
 
 ## Activities
 
-### Journal Reviewer
+### Academic Service
 
-<ul class="cv">
-  <li><a href="https://www.sciencedirect.com/journal/results-in-engineering">Results in Engineering</a><em>Apr. 2025 –</em></li>
-  <li><a href="https://www.sciencedirect.com/journal/computers-and-electrical-engineering">Computers and Electrical Engineering</a><em>Feb. 2025 –</em></li>
-  <li><a href="https://link.springer.com/journal/44196">International Journal of Computational Intelligence Systems</a><em>Dec. 2024 –</em></li>
-  <li><a href="https://link.springer.com/journal/530">Multimedia Systems</a><em>Dec. 2024 –</em></li>
-  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</a><em>Sep. 2024 –</em></li>
-  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97">IEEE Signal Processing Letters</a><em>Aug. 2024 –</em></li>
-  <li><a href="https://ietresearch.onlinelibrary.wiley.com/journal/1350911x">Electronics Letters</a><em>Jan. 2024 –</em></li>
-  <li><a href="https://link.springer.com/journal/11760">Signal, Image and Video Processing</a><em>Jan. 2024 –</em></li>
-  <li><a href="https://www.nature.com/srep/">Scientific Reports</a><em>Sep. 2023 –</em></li>
-  <li><a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a><em>Aug. 2023 –</em></li>
-  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a><em>Jun. 2021 –</em></li>
-</ul>
+<p><strong>Journal reviewing:</strong>
+{% for journal in site.data.reviewing.journals %}<a href="{{ journal.url }}">{{ journal.name }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}
+</p>
 
-### Conference Reviewer
-
-<ul class="cv">
-  <li><a href="https://ijcnn.org/">IEEE International Joint Conference on Neural Networks (IJCNN)</a><em>2025, 2026</em></li>
-  <li><a href="https://ieeeicassp.org/">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</a><em>2025, 2026, 2027</em></li>
-  <li><a href="https://www.bigcomputing.org">IEEE International Conference on Big Data and Smart Computing (BigComp)</a><em>2025</em></li>
-</ul>
+<p><strong>Conference reviewing:</strong>
+{% for conference in site.data.reviewing.conferences %}<a href="{{ conference.url }}">{{ conference.name }}</a> ({{ conference.years | join: ", " }}){% unless forloop.last %} · {% endunless %}{% endfor %}
+</p>
 
 ### Additional Activities
 

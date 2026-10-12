@@ -1,0 +1,49 @@
+# First-review dates preserve the earliest participation listed on the former About page.
+# A first-review date does not imply uninterrupted reviewing since that date.
+journals:
+  - name: Results in Engineering
+    url: https://www.sciencedirect.com/journal/results-in-engineering
+    first_review: '2025-04'
+  - name: Computers and Electrical Engineering
+    url: https://www.sciencedirect.com/journal/computers-and-electrical-engineering
+    first_review: '2025-02'
+  - name: International Journal of Computational Intelligence Systems
+    url: https://link.springer.com/journal/44196
+    first_review: '2024-12'
+  - name: Multimedia Systems
+    url: https://link.springer.com/journal/530
+    first_review: '2024-12'
+  - name: IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)
+    url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76
+    first_review: '2024-09'
+  - name: IEEE Signal Processing Letters
+    url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97
+    first_review: '2024-08'
+  - name: Electronics Letters
+    url: https://ietresearch.onlinelibrary.wiley.com/journal/1350911x
+    first_review: '2024-01'
+  - name: Signal, Image and Video Processing
+    url: https://link.springer.com/journal/11760
+    first_review: '2024-01'
+  - name: Scientific Reports
+    url: https://www.nature.com/srep/
+    first_review: '2023-09'
+  - name: The Journal of Supercomputing
+    url: https://link.springer.com/journal/11227
+    first_review: '2023-08'
+  - name: IEEE Access
+    url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639
+    first_review: '2021-06'
+
+conferences:
+  - name: IEEE International Joint Conference on Neural Networks (IJCNN)
+    url: https://ijcnn.org/
+    years: [2025, 2026]
+  - name: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+    url: https://ieeeicassp.org/
+    years: [2025, 2026]
+    # Listed on the former About page, but not yet historical as of 2026.
+    future_years_listed: [2027]
+  - name: IEEE International Conference on Big Data and Smart Computing (BigComp)
+    url: https://www.bigcomputing.org
+    years: [2025]
