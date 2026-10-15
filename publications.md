@@ -207,6 +207,11 @@ layout: post
     <p class="l"><a href="https://patents.google.com/patent/US12699073B2/en">link</a></p>
   </li>
   <li>
+    <p class="t">Apparatus and method for monitoring illegally parked/stopped vehicles</p>
+    <p class="v">US Patent US12676006B2, Jul. 2026</p>
+    <p class="l"><a href="https://patents.google.com/patent/US12676006B2/en">link</a></p>
+  </li>
+  <li>
     <p class="t">Apparatus and method for sound anomaly detection based on non-compression convolutional neural network</p>
     <p class="v">US Patent US12535354B2, Jan. 2026</p>
     <p class="l"><a href="https://patents.google.com/patent/US12535354B2/en">link</a></p>
