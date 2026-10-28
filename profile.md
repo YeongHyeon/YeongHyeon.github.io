@@ -47,7 +47,7 @@ layout: post
 </p>
 
 <p><strong>Conference reviewing:</strong>
-{% for conference in site.data.reviewing.conferences %}<a href="{{ conference.url }}">{{ conference.name }}</a> ({{ conference.years | join: ", " }}){% unless forloop.last %} · {% endunless %}{% endfor %}
+{% for conference in site.data.reviewing.conferences %}<a href="{{ conference.url }}">{{ conference.name }}</a> ({{ conference.years | join: ", " }}{% for year in conference.active_years %}, {{ year }}{% endfor %}){% unless forloop.last %} · {% endunless %}{% endfor %}
 </p>
 
 ### Additional Activities

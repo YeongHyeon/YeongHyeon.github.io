@@ -42,8 +42,8 @@ conferences:
   - name: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
     url: https://ieeeicassp.org/
     years: [2025, 2026]
-    # Listed on the former About page, but not yet historical as of 2026.
-    future_years_listed: [2027]
+    # Reviewing has started for the 2027 edition; it is not completed service.
+    active_years: [2027]
   - name: IEEE International Conference on Big Data and Smart Computing (BigComp)
     url: https://www.bigcomputing.org
     years: [2025]
