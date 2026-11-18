@@ -6,7 +6,7 @@ layout: post
 
 <div class="profile">
   <div class="photo">
-    <img src="/images/profile2.png" alt="YeongHyeon Park">
+    <img src="/images/img-33629167ae29bc8b.png" alt="YeongHyeon Park">
   </div>
   <div>
     <h2>YeongHyeon Park, Ph.D.</h2>
