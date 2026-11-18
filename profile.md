@@ -55,7 +55,7 @@ layout: post
 ### Additional Activities
 
 <ul class="cv">
-  <li>NVIDIA University Ambassador<em><a href="https://learn.nvidia.com/certificates?id=1403c0a68647461485704f0b0041cf86">certificate</a></em></li>
-  <li>NVIDIA DLI Instructor<em><a href="https://learn.nvidia.com/certificates?id=96017e53395a4dacb32dfe69be7d2530">certificate</a></em></li>
+  <li>NVIDIA University Ambassador<em><a href="https://learn.nvidia.com/certificates?id=1403c0a68647461485704f0b0041cf86">certificate</a> <a class="btn" href="{{ "/pdfs/NVIDIA-University-Ambassador-2022.pdf" | relative_url }}" aria-label="NVIDIA University Ambassador certificate PDF">PDF</a></em></li>
+  <li>NVIDIA DLI Instructor<em><a href="https://learn.nvidia.com/certificates?id=96017e53395a4dacb32dfe69be7d2530">certificate</a> <a class="btn" href="{{ "/pdfs/NVIDIA-DLI-Platform-Course-for-Instructors-2022.pdf" | relative_url }}" aria-label="NVIDIA DLI Platform Course for Instructors certificate PDF">PDF</a></em></li>
   <li>Samsung Electronics Social Communication Reporters Group<em>Rep. of Korea · Sep. 2016 – Jan. 2017</em></li>
 </ul>
