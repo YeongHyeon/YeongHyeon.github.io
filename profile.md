@@ -31,6 +31,8 @@ layout: post
 ## Experience
 
 <ul class="cv">
+  <li><strong>Software Engineer</strong>, Samsung Electro-Mechanics<em>Rep. of Korea · Jul. 2026 – Present</em></li>
+  <li><strong>Assistant Professor (Tenure-Track)</strong>, CHA University<em>Rep. of Korea · Mar. 2026 – Jun. 2026</em></li>
   <li><strong>Postdoctoral Research Fellow</strong>, MD Anderson Cancer Center<em>TX, U.S. · Aug. 2025 – Feb. 2026</em></li>
   <li><strong>Research Engineer</strong>, SK Planet Co., Ltd.<em>Rep. of Korea · Sep. 2019 – Apr. 2025</em></li>
   <li><strong>Research Assistant</strong>, SungKyunKwan University<em>Rep. of Korea · Oct. 2021 – Jan. 2025</em></li>
