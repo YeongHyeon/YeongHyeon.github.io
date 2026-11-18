@@ -15,6 +15,12 @@ layout: default
       { src: "{{ file.path | relative_url }}" }{% unless forloop.last %},{% endunless %}
       {% endfor %}
     ];
+    const imageAlt = {
+      'white-flowers.jpeg': 'White flowers blooming among gray-green stems',
+      'cat-under-tree.jpeg': 'A cat peeking through tall grass under a tree',
+      'nvidia-sticker-tablet.jpeg': 'NVIDIA sticker on a tablet beside a keyboard and stylus',
+      'rainbow-city-street.jpeg': 'A rainbow above traffic on a city street'
+    };
 
     function shuffleArray(array) {
       for (let i = array.length - 1; i > 0; i--) {
@@ -30,7 +36,11 @@ layout: default
       a.href = image.src;
       a.target = '_blank';
       a.rel = 'noopener';
-      a.innerHTML = `<img src="${image.src}" alt="" loading="lazy">`;
+      const img = document.createElement('img');
+      img.src = image.src;
+      img.alt = imageAlt[image.src.split('/').pop()] || '';
+      img.loading = 'lazy';
+      a.appendChild(img);
       grid.appendChild(a);
     });
     </script>
